@@ -1,0 +1,699 @@
+City,State,Station Identifier,AM/FM Number,AM/FM Number
+Birmingham,Alabama,WBHM,FM,90.3
+Dothan,Alabama,WRWA,FM,88.7
+Gadsden,Alabama,WSGN,FM,91.5
+Huntsville,Alabama,WJAB,FM,90.9
+Huntsville,Alabama,WLRH,FM,89.3
+Jacksonville,Alabama,WLJS,FM,91.9
+Mobile,Alabama,WHIL,FM,91.3
+Montgomery,Alabama,WVAS,FM,90.7
+Montgomery/Troy,Alabama,WTSU,FM,89.9
+Muscle Shoals,Alabama,WQPR,FM,88.7
+Selma,Alabama,WAPR,FM,88.3
+Tuscaloosa,Alabama,WUAL,FM,91.5
+Anchorage,Alaska,KSKA,FM,91.1
+Barrow,Alaska,KBRW,AM,680
+Barrow,Alaska,KBRW,FM,91.9
+Bethel,Alaska,KYUK,AM,640
+Chevak,Alaska,KCUK,FM,88.1
+Dillingham,Alaska,KDLG,AM,670
+Fairbanks,Alaska,KUAC,FM,89.9
+Galena,Alaska,KIYU,AM,910
+Glennallen,Alaska,KXGA,FM,90.5
+Haines,Alaska,KHNS,FM,102.3
+Homer,Alaska,KBBI,AM,890
+Juneau,Alaska,KTOO,FM,104.3
+Kenai,Alaska,KDLL,FM,91.9
+Ketchikan,Alaska,KRBD,FM,105.9
+Kodiak,Alaska,KMXT,FM,100.1
+McCarthy,Alaska,KXKM,FM,89.7
+McGrath,Alaska,KSKO,AM,870
+Petersburg,Alaska,KFSK,FM,100.9
+Sitka,Alaska,KCAW,FM,104.7
+St. Paul,Alaska,KUSB,FM,91.9
+Talkeetna,Alaska,KTNA,FM,88.5
+Unalaska,Alaska,KIAL,AM,1450
+Valdez,Alaska,KCHU,AM,770
+Wrangell,Alaska,KSTK,FM,101.7
+Flagstaff,Arizona,KPUB,FM,91.7
+Flagstaff,Arizona,KNAU,FM,88.7
+Grand Canyon,Arizona,KNAG,FM,90.3
+Page,Arizona,KNAD,FM,91.7
+Phoenix,Arizona,KBAQ,FM,89.5
+Phoenix,Arizona,KJZZ,FM,91.5
+Prescott,Arizona,KNAQ,FM,89.3
+Show Low,Arizona,KNAA,FM,90.7
+Tucson,Arizona,KUAZ,AM,1550
+Tucson,Arizona,KUAZ,FM,89.1
+White River,Arizona,KNNB,FM,88.1
+Yuma,Arizona,KAWC,AM,1320
+Yuma,Arizona,KAWC,FM,88.9
+El Dorado,Arkansas,KBSA,FM,90.9
+Fayetteville,Arkansas,KUAF,FM,91.3
+Jonesboro,Arkansas,KASU,FM,91.9
+Little Rock,Arkansas,KLRE,FM,90.5
+Little Rock,Arkansas,KUAR,FM,89.1
+Arcata,California,KHSU,FM,90.5
+Bakersfield,California,KPRX,FM,89.1
+Burney,California,KNCA,FM,89.7
+Chico,California,KCHO,FM,91.7
+Crescent City,California,KHSR,FM,91.9
+Fresno,California,KVPR,FM,89.3
+Groveland,California,KXSR,FM,91.7
+Indio,California,KCRI,FM,89.3
+Long Beach,California,KKJZ,FM,88.1
+Los Angeles,California,KUSC,FM,91.5
+Mt. Shasta,California,KNSQ,FM,88.1
+North Hollywood,California,KPFK,FM,90.7
+Northridge,California,KCSN,FM,88.5
+Oxnard,California,KCRU,FM,89.1
+Pacific Grove,California,KAZU,FM,90.3
+Palm Springs,California,KPSC,FM,88.5
+Pasadena,California,KPCC,FM,89.3
+Philo,California,KZYX,FM,90.7
+Redding,California,KFPR,FM,88.9
+Sacramento,California,KXJZ,FM,88.9
+Sacramento,California,KXPR,FM,90.9
+San Ardo,California,KBDH,FM,91.7
+San Bernardino,California,KVCR,FM,91.9
+San Diego,California,KPBS,FM,89.5
+San Francisco,California,KALW,FM,91.7
+San Francisco,California,KQED,FM,88.5
+San Luis Obispo,California,KCBX,FM,90.1
+San Mateo,California,KCSM,FM,91.1
+Santa Barbara,California,KFAC,FM,88.7
+Santa Cruz,California,KUSP,FM,88.9
+Santa Monica,California,KCRW,FM,89.9
+Santa Rosa,California,KRCB,FM,91.1
+Stockton,California,KUOP,FM,91.3
+Tahoe City,California,KKTO,FM,90.5
+Thousand Oaks,California,KCLU,FM,88.3
+Thousand Oaks,California,KCPB,FM,91.1
+Willits,California,KZYZ,FM,91.5
+Yreka,California,KNYR,FM,91.3
+Alamosa,Colorado,KRZA,FM,88.7
+Aspen,Colorado,KAJX,FM,91.5
+Boulder,Colorado,KCFC,AM,1490
+Carbondale,Colorado,KDNK,FM,90.5
+Colorado Springs,Colorado,KRCC,FM,91.5
+Cortez,Colorado,KSJD,FM,91.5
+Crested Butte,Colorado,KBUT,FM,90.3
+Delta,Colorado,KPRU,FM,103.3
+Denver,Colorado,KCFR,AM,1340
+Denver,Colorado,KUVO,FM,89.3
+Denver,Colorado,KVOD,FM,90.1
+Grand Junction,Colorado,KPRN,FM,89.5
+Greeley,Colorado,KUNC,FM,91.5
+Ignacio,Colorado,KSUT,FM,91.3
+Montrose,Colorado,KPRH,FM,88.3
+Montrose,Colorado,KVMT,FM,89.1
+Paonia,Colorado,KVNF,FM,90.9
+Pueblo,Colorado,KCFP,FM,91.9
+Pueblo,Colorado,KKPC,AM,1230
+Telluride,Colorado,KOTO,FM,91.7
+Vail,Colorado,KPRE,FM,89.9
+Fairfield,Connecticut,WSHU,FM,91.1
+Meriden,Connecticut,WPKT,FM,90.5
+Norwich,Connecticut,WNPR,FM,89.1
+Stamford,Connecticut,WEDW,FM,88.5
+Westport,Connecticut,WSHU,AM,1260
+Willimantic,Connecticut,WECS,FM,90.1
+Dover,Delaware,WRTX,FM,91.7
+Washington,District of Columbia,WAMU,FM,88.5
+Washington,District of Columbia,WETA,FM,90.9
+Ft. Myers,Florida,WGCU,FM,90.1
+Ft. Pierce,Florida,WQCS,FM,88.9
+Gainesville,Florida,WUFT,FM,89.1
+Inverness,Florida,WJUF,FM,90.1
+Jacksonville,Florida,WJCT,FM,89.9
+Marco,Florida,WMKO,FM,91.7
+Melbourne,Florida,WFIT,FM,89.5
+Miami,Florida,WLRN,FM,91.3
+Orlando,Florida,WMFE,FM,90.7
+Orlando,Florida,WUCF,FM,89.9
+Panama City,Florida,WFSW,FM,89.1
+Panama City,Florida,WKGC,AM,1480
+Panama City,Florida,WKGC,FM,90.7
+Pensacola,Florida,WUWF,FM,88.1
+Tallahassee,Florida,WFSQ,FM,91.5
+Tallahassee,Florida,WFSU,FM,88.9
+Tampa,Florida,WMNF,FM,88.5
+Tampa,Florida,WUSF,FM,89.7
+West Palm Beach,Florida,WXEL,FM,90.7
+Albany,Georgia,WUNV,FM,91.7
+Athens,Georgia,WUGA,FM,91.7
+Atlanta,Georgia,WABE,FM,90.1
+Atlanta,Georgia,WCLK,FM,91.9
+Atlanta,Georgia,WRFG,FM,89.3
+Augusta,Georgia,WACG,FM,90.7
+Brunswick,Georgia,WWIO,FM,89.1
+Carrolton,Georgia,WWGC,FM,90.7
+Columbus,Georgia,WTJB,FM,91.7
+Dahlonega,Georgia,WNGU,FM,89.5
+Demorest,Georgia,WPPR,FM,88.3
+Ft. Gaines,Georgia,WJWV,FM,90.9
+Macon,Georgia,WDCO,FM,89.7
+Savannah,Georgia,WSVH,FM,91.1
+Tifton,Georgia,WABR,FM,91.1
+Valdosta,Georgia,WWET,FM,91.7
+Warm Springs,Georgia,WJSP,FM,88.1
+Waycross,Georgia,WXVS,FM,90.1
+Agana,Guam,KPRG,FM,89.3
+Honolulu,Hawaii,KHPR,FM,88.1
+Honolulu,Hawaii,KIPO,FM,89.3
+Wailuku,Hawaii,KKUA,FM,90.7
+Boise,Idaho,KBSU,AM,730
+Boise,Idaho,KBSU,FM,90.3
+Boise,Idaho,KBSX,FM,91.5
+Bonners Ferry,Idaho,KIBX,FM,92.1
+Cottonwood,Idaho,KNWO,FM,90.1
+McCall,Idaho,KBSM,FM,91.7
+Moscow,Idaho,KRFA,FM,91.7
+Pocatello,Idaho,KISU,FM,91.1
+Rexburg,Idaho,KBYI,FM,100.5
+Twin Falls,Idaho,KEJZ,AM,1450
+Twin Falls,Idaho,KBSW,FM,91.7
+Carbondale,Illinois,WSIU,FM,91.9
+Champaign,Illinois,WEFT,FM,90.1
+Chicago,Illinois,WBEZ,FM,91.5
+DeKalb,Illinois,WNIU,FM,90.5
+Edwardsville,Illinois,WSIE,FM,88.7
+Freeport,Illinois,WNIE,FM,89.1
+LaSalle,Illinois,WNIW,FM,91.5
+Macomb,Illinois,WIUM,FM,91.3
+Mt.Vernon,Illinois,WVSI,FM,88.9
+Normal,Illinois,WGLT,FM,89.1
+Olney,Illinois,WUSI,FM,90.3
+Peoria,Illinois,WCBU,FM,89.9
+Pittsfield,Illinois,WIPA,FM,89.3
+Quincy,Illinois,WQUB,FM,90.3
+Rock Island,Illinois,WVIK,FM,90.3
+Rockford,Illinois,WNIJ,FM,89.5
+Springfield,Illinois,WUIS,FM,91.9
+Sterling,Illinois,WNIQ,FM,91.5
+Urbana,Illinois,WILL,AM,580
+Urbana,Illinois,WILL,FM,90.9
+Warsaw,Illinois,WIUW,FM,89.5
+Anderson,Indiana,WBSB,FM,89.5
+Bloomington,Indiana,WFIU,FM,103.7
+Elkhart,Indiana,WVPE,FM,88.1
+Evansville,Indiana,WNIN,FM,88.3
+Fort Wayne,Indiana,WBNI,FM,89.1
+Goshen,Indiana,WGCS,FM,91.1
+Hagerstown,Indiana,WBSH,FM,91.1
+Indianapolis,Indiana,WFYI,FM,90.1
+Lafayette,Indiana,WBAA,AM,920
+Marion,Indiana,WBSW,FM,90.9
+Muncie,Indiana,WBST,FM,92.1
+North Manchester,Indiana,WBKE,FM,89.5
+Orland,Indiana,WBOI,FM,91.3
+Portland,Indiana,WBSJ,FM,91.7
+Richmond,Indiana,WVXR,FM,89.3
+West Lafayette,Indiana,WBAA,FM,101.3
+Ames,Iowa,WOI,AM,640
+Ames,Iowa,WOI,FM,90.1
+Cedar Falls,Iowa,KUNI,FM,90.9
+Cedar Rapids,Iowa,KCCK,FM,88.3
+Decorah,Iowa,KLNI,FM,88.7
+Fort Dodge,Iowa,KTPR,FM,91.1
+Iowa City,Iowa,WSUI,AM,910
+Iowa City,Iowa,KSUI,FM,91.7
+Mason City,Iowa,KRNI,AM,1010
+Mason City,Iowa,KUNY,FM,91.5
+Sioux City,Iowa,KWIT,FM,90.3
+Emporia,Kansas,KANH,FM,89.7
+Garden City,Kansas,KANZ,FM,91.1
+Great Bend,Kansas,KHCT,FM,90.9
+Hill City,Kansas,KZNA,FM,90.5
+Hutchinson,Kansas,KHCC,FM,90.1
+Lawrence,Kansas,KANU,FM,91.5
+Pittsburg,Kansas,KRPS,FM,89.9
+Salina,Kansas,KHCD,FM,89.5
+Wichita,Kansas,KMUW,FM,89.1
+Booneville,Kentucky,WOCS,FM,88.3
+Bowling Green,Kentucky,WKYU,FM,88.9
+Elizabethtown,Kentucky,WKUE,FM,90.9
+Georgetown,Kentucky,WRVG,FM,89.9
+Hazard,Kentucky,WEKH,FM,90.9
+Henderson,Kentucky,WKPB,FM,89.5
+Highland Heights,Kentucky,WNKU,FM,89.7
+Lexington,Kentucky,WUKY,FM,91.3
+Louisville,Kentucky,WFPK,FM,91.9
+Louisville,Kentucky,WFPL,FM,89.3
+Morehead,Kentucky,WMKY,FM,90.3
+Murray,Kentucky,WKMS,FM,91.3
+Richmond,Kentucky,WEKU,FM,88.9
+Somerset,Kentucky,WDCL,FM,89.7
+Alexandria,Louisana,KLSA,FM,90.7
+Baton Rouge,Louisana,WBRH,FM,90.3
+Baton Rouge,Louisana,WRKF,FM,89.3
+Lafayette,Louisana,KRVS,FM,88.7
+Monroe,Louisana,KEDM,FM,90.3
+New Orleans,Louisana,WWNO,FM,89.9
+Shreveport,Louisana,KDAQ,FM,89.9
+Thibodaux,Louisana,KTLN,FM,90.5
+Bangor,Maine,WMEH,FM,90.9
+Calais,Maine,WMED,FM,89.7
+Fort Kent,Maine,WMEF,FM,106.5
+Lewiston,Maine,WMEA,FM,90.1
+Presque Isle,Maine,WMEM,FM,106.1
+Waterville,Maine,WMEW,FM,91.3
+Baltimore,Maryland,WEAA,FM,88.9
+Baltimore,Maryland,WYPR,FM,88.1
+Frostburg,Maryland,WFWM,FM,91.9
+Hagerstown,Maryland,WETH,FM,89.1
+Ocean City,Maryland,WSDL,FM,90.7
+Princess Anne,Maryland,WESM,FM,91.3
+Salisbury,Maryland,WSCL,FM,89.5
+Worton,Maryland,WKHS,FM,90.5
+Amherst,Massachusetts,WFCR,FM,88.5
+Amherst,Massachusetts,WPNI,AM,1430
+Boston,Massachusetts,WBUR,FM,90.9
+Boston,Massachusetts,WGBH,FM,89.7
+Boston,Massachusetts,WUMB,FM,91.9
+Falmouth,Massachusetts,WFPB,FM,91.9
+Great Barrington,Massachusetts,WAMQ,FM,105.1
+Harwich,Massachusetts,WCCT,FM,90.3
+Nantucket,Massachusetts,WNAN,FM,91.1
+Newburyport,Massachusetts,WNAF,FM,91.7
+Orleans,Massachusetts,WFPB,AM,1170
+Sandwich,Massachusetts,WSDH,FM,91.5
+W.Yarmouth,Massachusetts,WBUR,AM,1240
+Woods Hole,Massachusetts,WCAI,FM,90.1
+Worcester,Massachusetts,WBPR,FM,91.9
+Worcester,Massachusetts,WICN,FM,90.5
+Allendale,Michigan,WGVU,FM,88.5
+Alpena,Michigan,WCML,FM,91.7
+Ann Arbor,Michigan,WUOM,FM,91.7
+Bay City,Michigan,WUCX,FM,90.1
+Detroit,Michigan,WDET,FM,101.9
+East Jordan,Michigan,WIZY,FM,100.9
+East Lansing,Michigan,WKAR,AM,870
+East Lansing,Michigan,WKAR,FM,90.5
+Flint,Michigan,WFUM,FM,91.1
+Grand Rapids,Michigan,WBLU,FM,88.9
+Grand Rapids,Michigan,WVGR,FM,104.1
+Harbor Springs,Michigan,WCMW,FM,103.9
+Houghton,Michigan,WGGL,FM,91.9
+Interlochen,Michigan,WIAA,FM,88.7
+Kalamazoo,Michigan,WMUK,FM,102.1
+Kentwood,Michigan,WGVU,AM,1480
+Lansing,Michigan,WLNZ,FM,89.7
+Manistee,Michigan,WVXM,FM,97.7
+Marquette,Michigan,WNMU,FM,90.1
+Mt. Pleasant,Michigan,WCMU,FM,89.5
+Muskegon,Michigan,WGVS,AM,850
+Oscoda,Michigan,WCMB,FM,95.7
+Rogers City,Michigan,WVXA,FM,96.7
+Sault Ste. Marie,Michigan,WCMZ,FM,98.3
+Standish,Michigan,WWCM,FM,96.9
+Traverse City,Michigan,WICA,FM,91.5
+Twin Lake,Michigan,WBLV,FM,90.3
+Whitehall,Michigan,WGVS,FM,95.3
+Ypsilanti,Michigan,WEMU,FM,89.1
+Appleton,Minnesota,KNCM,FM,88.5
+Bemidji,Minnesota,KNBJ,FM,91.3
+Brainerd,Minnesota,KBPR,FM,90.7
+Buhl,Minnesota,WIRN,FM,92.5
+Collegeville,Minnesota,KNSR,FM,88.9
+Duluth,Minnesota,WSCN,FM,100.5
+Grand Rapids,Minnesota,KAXE,FM,91.7
+La Crescent,Minnesota,KXLC,FM,91.1
+Moorhead,Minnesota,KCCD,FM,90.3
+Northfield,Minnesota,WCAL,FM,89.3
+Rochester,Minnesota,KMSE,FM,88.7
+Rochester,Minnesota,KZSE,FM,90.7
+St. Paul,Minnesota,KNOW,FM,91.1
+St. Peters,Minnesota,KNGA,FM,91.5
+Thief River Falls,Minnesota,KNTN,FM,102.7
+Worthington,Minnesota,KNSW,FM,91.7
+Biloxi,Mississippi,WMAH,FM,90.3
+Booneville,Mississippi,WMAE,FM,89.5
+Bude,Mississippi,WMAU,FM,88.9
+Greenwood,Mississippi,WMAO,FM,90.9
+Holly Springs,Mississippi,WURC,FM,88.1
+Jackson,Mississippi,WJSU,FM,88.5
+Jackson,Mississippi,WMPN,FM,91.3
+Lorman,Mississippi,WPRL,FM,91.7
+Meridian,Mississippi,WMAW,FM,88.1
+Mississippi State,Mississippi,WMAB,FM,89.9
+Oxford,Mississippi,WMAV,FM,90.3
+Senatobia,Mississippi,WKNA,FM,88.9
+Branson,Missouri,KSMS,FM,90.5
+Cape Girardeau,Missouri,KRCU,FM,90.9
+Chillicothe,Missouri,KRNW,FM,88.9
+Columbia,Missouri,KBIA,FM,91.3
+Columbia,Missouri,KOPN,FM,89.5
+Kansas City,Missouri,KCUR,FM,89.3
+Maryville,Missouri,KXCV,FM,90.5
+Rolla,Missouri,KUMR,FM,88.5
+Springfield,Missouri,KSMU,FM,91.1
+St. Louis,Missouri,KWMU,FM,90.7
+Warrensburg,Missouri,KTBG,FM,90.9
+Billings,Montana,KEMC,FM,91.7
+Bozeman,Montana,KBMC,FM,102.1
+Butte,Montana,KAPC,FM,91.3
+Fort Belknap,Montana,KGVA,FM,88.1
+Great Falls,Montana,KGPR,FM,89.9
+Hamilton,Montana,KUFN,FM,91.9
+Havre,Montana,KNMC,FM,90.1
+Helena,Montana,KUHM,FM,91.7
+Kalispell,Montana,KUKL,FM,89.9
+Miles City,Montana,KECC,FM,90.7
+Missoula,Montana,KUFM,FM,89.1
+Alliance,Nebraska,KTNE,FM,91.1
+Bassett,Nebraska,KMNE,FM,90.3
+Chadron,Nebraska,KCNE,FM,91.9
+Hastings,Nebraska,KHNE,FM,89.1
+Lexington,Nebraska,KLNE,FM,88.7
+Lincoln,Nebraska,KUCV,FM,91.1
+Merriman,Nebraska,KRNE,FM,91.5
+Norfolk,Nebraska,KXNE,FM,89.3
+North Platte,Nebraska,KPNE,FM,91.7
+Omaha,Nebraska,KIOS,FM,91.5
+Elko,Nevada,KNCC,FM,91.5
+Las Vegas,Nevada,KNPR,FM,89.5
+Las Vegas,Nevada,KUNV,FM,91.5
+Las Vegas,Nevada,KWPR,FM,88.7
+Panaca,Nevada,KLNR,FM,91.7
+Reno,Nevada,KUNR,FM,88.7
+Tonopah,Nevada,KTPH,FM,91.7
+Concord,New Hampshire,WEVO,FM,89.1
+Gorham,New Hampshire,WEVC,FM,107.1
+Hanover,New Hampshire,WEVH,FM,91.3
+Keene,New Hampshire,WEVN,FM,90.7
+Atlantic City,New Jersey,WNJN,FM,89.7
+Berlin,New Jersey,WNJS,FM,88.1
+Bridgeton,New Jersey,WNJB,FM,89.3
+Cape May,New Jersey,WNJZ,FM,90.3
+Hackettstown,New Jersey,WNTI,FM,91.9
+Lincroft,New Jersey,WBJB,FM,90.5
+Manahawkin,New Jersey,WNJM,FM,89.9
+Newark,New Jersey,WBGO,FM,88.3
+Atlantic City,New Jersey,WRTQ,FM,91.3
+Sussex,New Jersey,WNJP,FM,88.5
+Trenton,New Jersey,WNJT,FM,88.1
+Albuquerque,New Mexico,KANW,FM,89.1
+Albuquerque,New Mexico,KUNM,FM,89.9
+Gallup,New Mexico,KGLP,FM,91.7
+Las Cruces,New Mexico,KRWG,FM,90.7
+Magdalena,New Mexico,KABR,AM,1500
+Maljamar,New Mexico,KMTH,FM,98.7
+Portales,New Mexico,KENW,FM,89.5
+Ramah,New Mexico,KTDB,FM,89.7
+Albany,New York,WAMC,FM,90.3
+Binghamton,New York,WSKG,FM,89.3
+Binghamton,New York,WSQX,FM,91.5
+Blue Mountain Lake,New York,WXLH,FM,91.3
+Brooklyn,New York,WNYE,FM,91.5
+Brookville,New York,WCWP,FM,88.1
+Buffalo,New York,WBFO,FM,88.7
+Buffalo,New York,WNED,AM,970
+Buffalo,New York,WNED,FM,89.3
+Canajoharie,New York,WCAN,FM,93.3
+Canton,New York,WSLU,FM,89.5
+Corning,New York,WSQE,FM,91.1
+Geneva,New York,WEOS,FM,89.7
+Hornell,New York,WSQA,FM,88.7
+Houghton,New York,WJSL,FM,90.3
+Ithaca,New York,WSQG,FM,90.9
+Jamestown,New York,WUBJ,FM,88.1
+Jeffersonville,New York,WJFF,FM,90.5
+Kingston,New York,WAMK,FM,90.9
+Malone,New York,WSLO,FM,90.9
+Middletown,New York,WOSR,FM,91.7
+New York City,New York,WFUV,FM,90.7
+New York City,New York,WNYC,AM,820
+New York City,New York,WNYC,FM,93.9
+North Creek,New York,WXLG,FM,89.9
+Olean,New York,WOLN,FM,91.3
+Oneonta,New York,WSQC,FM,91.7
+Oswego,New York,WRVO,FM,89.9
+Oswego,New York,WRVD,FM,90.3
+Peru,New York,WXLU,FM,88.3
+Plattsburgh,New York,WCEL,FM,91.9
+Poughkeepsie,New York,WRHV,FM,88.7
+Rochester,New York,WXXI,AM,1370
+Rochester,New York,WXXI,FM,91.5
+Saranac Lake,New York,WSLL,FM,90.5
+Schenectady,New York,WMHT,FM,89.1
+Selden,New York,WSUF,FM,89.9
+Southampton,New York,WLIU,FM,88.3
+Southampton,New York,WRLI,FM,91.3
+Syracuse,New York,WAER,FM,88.3
+Syracuse,New York,WCNY,FM,91.3
+Ticonderoga,New York,WANC,FM,103.9
+Utica,New York,WRVN,FM,91.9
+Utica,New York,WUNY,FM,89.5
+Watertown,New York,WJNY,FM,90.9
+Watertown,New York,WRVJ,FM,91.7
+Watertown,New York,WSLJ,FM,88.9
+Asheville,North Carolina,WCQS,FM,88.1
+Atlantic Beach,North Carolina,WBJD,FM,91.5
+Buxton,North Carolina,WBUX,FM,90.5
+Chapel Hill,North Carolina,WUNC,FM,91.5
+Charlotte,North Carolina,WFAE,FM,90.7
+Davidson,North Carolina,WDAV,FM,89.9
+Durham,North Carolina,WNCU,FM,90.7
+Fayetteville,North Carolina,WFSS,FM,91.9
+Franklin,North Carolina,WFQS,FM,91.3
+Hickory,North Carolina,WFHE,FM,90.3
+Kingston,North Carolina,WKNS,FM,90.5
+Manteo,North Carolina,WURI,FM,91.5
+New Bern,North Carolina,WTEB,FM,89.3
+Roanoke Rapids,North Carolina,WZRU,FM,88.5
+Rocky Mount,North Carolina,WRQM,FM,90
+Spindale,North Carolina,WNCW,FM,88.7
+Wilmington,North Carolina,WHQR,FM,91.3
+Winston-Salem,North Carolina,WFDD,FM,88.5
+Belcourt,North Dakota,KEYA,FM,88.5
+Bismarck,North Dakota,KCND,FM,90.5
+Dickinson,North Dakota,KDPR,FM,89.9
+Fargo,North Dakota,KDSU,FM,91.9
+Grand Forks,North Dakota,KUND,FM,89.3
+Jamestown,North Dakota,KPRJ,FM,91.5
+Minot,North Dakota,KMPR,FM,88.9
+Williston,North Dakota,KPPR,FM,89.5
+Athens,Ohio,WOUB,AM,1340
+Athens,Ohio,WOUB,FM,91.3
+Bryan,Ohio,WGBE,FM,90.9
+Cambridge,Ohio,WOUC,FM,89.1
+Chillicothe,Ohio,WOUH,FM,91.9
+Chillicothe,Ohio,WVXC,FM,89.3
+Cincinnati,Ohio,WGUC,FM,90.9
+Cincinnati,Ohio,WVXU,FM,91.7
+Cleveland,Ohio,WCPN,FM,90.3
+Columbus,Ohio,WCBE,FM,90.5
+Columbus,Ohio,WOSU,AM,820
+Coshocton,Ohio,WOSE,FM,91.1
+Dayton,Ohio,WDPR,FM,88.1
+Defiance,Ohio,WGDE,FM,91.9
+Ironton,Ohio,WOUL,FM,89.1
+Kent,Ohio,WKSU,FM,89.7
+Lima,Ohio,WGLE,FM,90.7
+Mansfield,Ohio,WOSV,FM,91.7
+Marion,Ohio,WOSB,FM,91.1
+Mt. Gilead,Ohio,WVXG,FM,95.1
+New Philadelphia,Ohio,WKRJ,FM,91.5
+Oxford,Ohio,WMUB,FM,88.5
+Portsmouth,Ohio,WOSP,FM,91.5
+Thompson,Ohio,WSKV,FM,89.1
+Toledo,Ohio,WGTE,FM,91.3
+West Union,Ohio,WVXW,FM,89.5
+Wooster,Ohio,WKRW,FM,89.3
+Yellow Springs,Ohio,WYSO,FM,91.3
+Youngstown,Ohio,WYSU,FM,88.5
+Zanesville,Ohio,WOUZ,FM,90.1
+Ardmore,Oklahoma,KLCU,FM,90.3
+Lawton,Oklahoma,KCCU,FM,89.3
+Norman,Oklahoma,KGOU,FM,106.3
+Oklahoma City,Oklahoma,KROU,FM,105.7
+Stillwater,Oklahoma,KOSU,FM,91.7
+Tulsa,Oklahoma,KWGS,FM,89.5
+Ashland,Oregon,KAGI,AM,930
+Ashland,Oregon,KSJK,AM,1230
+Ashland,Oregon,KSMF,FM,89.1
+Ashland,Oregon,KSRG,FM,88.3
+Ashland,Oregon,KSOR,FM,90.1
+Astoria,Oregon,KMUN,FM,91.9
+Bend,Oregon,KOAB,FM,91.3
+Coos Bay,Oregon,KSBA,FM,88.5
+Corvallis,Oregon,KOAC,AM,550
+Eugene,Oregon,KLCC,FM,89.7
+Eugene,Oregon,KRVM,AM,1280
+Florence,Oregon,KLFO,FM,88.1
+Gresham,Oregon,KMHD,FM,89.1
+Klamath Falls,Oregon,KSKF,FM,90.9
+Newport,Oregon,KLCO,FM,90.5
+Pendleton,Oregon,KRBM,FM,90.9
+Portland,Oregon,KOPB,FM,91.5
+Reedsport,Oregon,KLFR,FM,89.1
+Roseburg,Oregon,KSRS,FM,91.5
+Allentown,Pennsylvania,WDIY,FM,88.1
+Erie,Pennsylvania,WQLN,FM,91.3
+Harrisburg,Pennsylvania,WITF,FM,89.5
+Harrisburg,Pennsylvania,WJAZ,FM,91.7
+Harrisburg,Pennsylvania,WXPH,FM,88.1
+Huntingdon,Pennsylvania,WKVR,FM,92.3
+Johnstown,Pennsylvania,WQEJ,FM,89.7
+Kane,Pennsylvania,WPSB,FM,90.1
+Mt. Pocono,Pennsylvania,WRTY,FM,91.1
+Philadelphia,Pennsylvania,WHYY,FM,90.9
+Philadelphia,Pennsylvania,WRTI,FM,90.1
+Philadelphia,Pennsylvania,WXPN,FM,88.5
+Pittsburgh,Pennsylvania,WDUQ,FM,90.5
+Pittsburgh,Pennsylvania,WQED,FM,89.3
+Pittsburgh,Pennsylvania,WYEP,FM,91.3
+Scranton,Pennsylvania,WVIA,FM,89.9
+State College,Pennsylvania,WPSU,FM,91.5
+Rio Piedras,Puerto Rico,WRTU,FM,89.7
+San Juan,Puerto Rico,WOSO,AM,1030
+North Providence,Rhode Island,WRNI,AM,1290
+Westerly,Rhode Island,WXNI,AM,1230
+Aiken,South Carolina,WLJK,FM,89.1
+Beaufort,South Carolina,WJWJ,FM,89.9
+Charleston,South Carolina,WSCI,FM,89.3
+Columbia,South Carolina,WLTR,FM,91.3
+Conway,South Carolina,WHMC,FM,90.1
+Greenville,South Carolina,WEPR,FM,90.1
+Orangeburg,South Carolina,WSSB,FM,90.3
+Rock Hill,South Carolina,WNSC,FM,88.9
+Sumter,South Carolina,WRJA,FM,88.1
+Brookings,South Dakota,KESD,FM,88.3
+Faith,South Dakota,KPSD,FM,97.1
+Lowry,South Dakota,KQSD,FM,91.9
+Martin,South Dakota,KZSD,FM,102.5
+Pierpont,South Dakota,KDSD,FM,90.9
+Rapid City,South Dakota,KBHE,FM,89.3
+Reliance,South Dakota,KTSD,FM,91.1
+Sioux Falls,South Dakota,KCSD,FM,90.9
+Vermillion,South Dakota,KUSD,FM,89.7
+Chattanooga,Tennessee,WUTC,FM,88.1
+Cookeville,Tennessee,WHRS,FM,91.7
+Dyersberg,Tennessee,WKNQ,FM,90.7
+Jackson,Tennessee,WKNP,FM,90.1
+Johnson City,Tennessee,WETS,FM,89.5
+Knoxville,Tennessee,WUOT,FM,91.9
+Madison,Tennessee,WPLN,AM,1430
+Memphis,Tennessee,WKNO,FM,91.1
+Murfreesboro,Tennessee,WMOT,FM,89.5
+Nashville,Tennessee,WPLN,FM,90.3
+Tullahoma,Tennessee,WTML,FM,91.5
+Abilene,Texas,KACU,FM,89.7
+Austin,Texas,KUT,FM,90.5
+Beaumont,Texas,KVLU,FM,91.3
+College Station,Texas,KAMU,FM,90.9
+College Station,Texas,KEOS,FM,89.1
+Corpus Christi,Texas,KEDT,FM,90.3
+Dallas,Texas,KERA,FM,90.1
+Denton,Texas,KNTU,FM,88.1
+El Paso,Texas,KTEP,FM,88.5
+Harlingen,Texas,KMBH,FM,88.9
+Houston,Texas,KUHF,FM,88.7
+Ingram,Texas,KTXI,FM,90.1
+Lubbock,Texas,KOHM,FM,89.1
+Lufkin,Texas,KLDN,FM,88.9
+McAllen,Texas,KHID,FM,88.1
+Odessa,Texas,KOCV,FM,91.3
+Prairie View,Texas,KPVU,FM,91.3
+San Angelo,Texas,KUTX,FM,90.1
+San Antonio,Texas,KSTX,FM,89.1
+Texarkana,Texas,KTXK,FM,91.5
+Victoria,Texas,KVRT,FM,90.7
+Waco,Texas,KWBU,FM,103.3
+Coalville,Utah,KCUA,FM,92.5
+Logan,Utah,KUSU,FM,91.5
+Salt Lake City,Utah,KCPW,FM,88.3
+Salt Lake City,Utah,KPCW,FM,91.9
+Salt Lake City,Utah,KUER,FM,90.1
+Salt Lake City,Utah,KRCL,FM,90.9
+St. Thomas,US Virgin Islands,WVGN,FM,107.3
+Bennington,Vermont,WBTN,FM,94.3
+Burlington,Vermont,WVPS,FM,107.9
+Rutland,Vermont,WRVT,FM,88.7
+St. Johnsbury,Vermont,WVPA,FM,88.5
+Windsor,Vermont,WVPR,FM,89.5
+Charlottesville,Virginia,WVTU,FM,89.3
+Charlottesville,Virginia,WVTW,FM,88.5
+Charlottesville,Virginia,WMRY,FM,103.5
+Christiansburg,Virginia,WWVT,AM,1260
+Farmville,Virginia,WMLU,FM,91.3
+Harrisonburg,Virginia,WMRA,FM,90.7
+Lexington,Virginia,WMRL,FM,89.9
+Marion,Virginia,WVTR,FM,91.9
+Norfolk,Virginia,WHRO,FM,90.3
+Norfolk,Virginia,WHRV,FM,89.5
+Norfolk,Virginia,WNSB,FM,91.1
+Richmond,Virginia,WCVE,FM,88.9
+Roanoke,Virginia,WVTF,FM,89.1
+Wise,Virginia,WISE,FM,90.5
+Bellingham,Washington,KZAZ,FM,91.7
+Bellevue,Washington,KBCS,FM,91.3
+Clarkston,Washington,KNWV,FM,90.5
+Ellensburg,Washington,KNWR,FM,90.7
+Moses Lake,Washington,KLWS,FM,91.5
+Omak,Washington,KQWS,FM,90.1
+Port Angeles,Washington,KNWP,FM,90.1
+Pullman,Washington,KWSU,AM,1250
+Pullman,Washington,KRFA,FM,91.7
+Richland,Washington,KFAE,FM,89.1
+Seattle,Washington,KEXP,FM,90.3
+Seattle,Washington,KUOW,FM,94.9
+Spokane,Washington,KPBX,FM,91.1
+Spokane,Washington,KSFC,FM,91.9
+Seattle/Tacoma,Washington,KPLU,FM,88.5
+Walla Walla,Washington,KWWS,FM,89.7
+Yakima,Washington,KDNA,FM,91.9
+Yakima,Washington,KNWY,FM,90.3
+Beckley,West Virginia,WVPB,FM,91.7
+Buckhannon,West Virginia,WVPW,FM,88.9
+Charleston,West Virginia,WVPN,FM,88.5
+Huntington,West Virginia,WVWV,FM,89.9
+Martinsburg,West Virginia,WVEP,FM,88.9
+Morgantown,West Virginia,WVPM,FM,90.9
+Parkersburg,West Virginia,WVPG,FM,90.3
+Petersburg,West Virginia,WAUA,FM,89.5
+Wheeling,West Virginia,WVNP,FM,89.9
+Appleton,Wisconsin,WLFM,FM,91.1
+Auburndale,Wisconsin,WLBL,AM,930
+Brule,Wisconsin,WHSA,FM,89.9
+Delafield,Wisconsin,WHAD,FM,90.7
+Eau Claire,Wisconsin,WUEC,FM,89.7
+Green Bay,Wisconsin,WHID,FM,88.1
+Green Bay,Wisconsin,WPNE,FM,89.3
+Hayward,Wisconsin,WOJB,FM,88.9
+Highland,Wisconsin,WHHI,FM,91.3
+Kenosha,Wisconsin,WGTD,FM,91.1
+La Crosse,Wisconsin,WHLA,FM,90.3
+La Crosse,Wisconsin,WLSU,FM,88.9
+Madison,Wisconsin,WERN,FM,88.7
+Madison,Wisconsin,WHA,AM,970
+Madison,Wisconsin,WSHS,FM,91.7
+Menomonie,Wisconsin,WHWC,FM,88.3
+Menomonie,Wisconsin,WVSS,FM,90.7
+Milwaukee,Wisconsin,WUWM,FM,89.7
+Oshkosh,Wisconsin,WRST,FM,90.3
+Park Falls,Wisconsin,WHBM,FM,90.3
+Rhinelander,Wisconsin,WXPR,FM,91.7
+River Falls,Wisconsin,WRFW,FM,88.7
+Sheboygan,Wisconsin,WSHS,FM,91.7
+Sister Bay,Wisconsin,WHDI,FM,91.1
+Sister Bay,Wisconsin,WHND,FM,89.7
+Superior,Wisconsin,KUWS,FM,91.3
+Wausau,Wisconsin,WHRM,FM,90.9
+Wausau,Wisconsin,WLBL,FM,91.9
+Wausau,Wisconsin,WXPW,FM,91.9
+Afton,Wyoming,KUWA,FM,91.3
+Buffalo,Wyoming,KBUW,FM,90.5
+Casper,Wyoming,KUWC,FM,91.3
+Douglas,Wyoming,KDUW,FM,91.7
+Gillette,Wyoming,KUWG,FM,90.9
+Jackson,Wyoming,KUWJ,FM,90.3
+Laramie,Wyoming,KUWR,FM,91.9
+Newcastle,Wyoming,KUWN,FM,90.5
+Pinedale,Wyoming,KUWX,FM,90.9
+Powell,Wyoming,KUWP,FM,90.1
+Rock Springs,Wyoming,KUWZ,FM,90.5
+Sheridan,Wyoming,KSUW,FM,91.3
+Sundance,Wyoming,KUWD,FM,91.5
+Thermopolis,Wyoming,KUWT,FM,91.3
