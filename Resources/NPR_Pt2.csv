@@ -1,0 +1,885 @@
+State,Name_long,Name_short,Station Identifier,Channel Number,AM/FM,Dataset,Link
+Alabama,"Birmingham, Alabama",Birmingham,WBHM,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Dothan, Alabama",Dothan,WRWA,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Gadsden, Alabama",Gadsden,WSGN,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Huntsville, Alabama",Huntsville,WJAB,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Huntsville, Alabama",Huntsville,WLRH,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Jacksonville, Alabama",Jacksonville,WLJS,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Mobile, Alabama",Mobile,WHIL,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Montgomery, Alabama",Montgomery,WVAS,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Montgomery, Alabama","Montgomery/Troy, Alabama",WTSU,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Muscle Shoals, Alabama",Muscle Shoals,WQPR,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Selma, Alabama",Selma,WAPR,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Tuscaloosa, Alabama",Tuscaloosa,WUAL,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Anchorage, Alaska",Anchorage,KSKA,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Anchorage, Alaska",Anchorage,KNBA,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Barrow, Alaska",Barrow,KBRW,680,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Barrow, Alaska",Barrow,KBRW,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Bethel, Alaska",Bethel,KYUK,640,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Chevak, Alaska",Chevak,KCUK,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Dillingham, Alaska",Dillingham,KDLG,670,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Fairbanks, Alaska",Fairbanks,KUAC,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Galena, Alaska",Galena,KIYU,910,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Glennallen, Alaska",Glennallen,KXGA,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Haines, Alaska",Haines,KHNS,102.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Homer, Alaska",Homer,KBBI,890,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Juneau, Alaska",Juneau,KRNN,102.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Juneau, Alaska",Juneau,KTOO,104.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Juneau, Alaska",Juneau,KXLL,100.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Kenai, Alaska",Kenai,KDLL,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Ketchikan, Alaska",Ketchikan,KRBD,105.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Kodiak, Alaska",Kodiak,KMXT,100.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Kotzebue, Alaska",Kotzebue,KOTZ,720,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"McCarthy, Alaska",McCarthy,KXKM,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Petersburg, Alaska",Petersburg,KFSK,100.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Sand Point, Alaska",Sand Point,KSDP,830,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Sitka, Alaska",Sitka,KCAW,104.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"St. Paul, Alaska",St. Paul,KUHB,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Talkeetna, Alaska",Talkeetna,KTNA,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Unalaska, Alaska",Unalaska,KUCB,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Valdez, Alaska",Valdez,KCHU,770,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alaska,"Wrangell, Alaska",Wrangell,KSTK,101.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Flagstaff, Arizona",Flagstaff,KPUB,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Flagstaff, Arizona",Flagstaff,KNAU,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Grand Canyon, Arizona",Grand Canyon,KNAG,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Hotevilla, Arizona",Hotevilla,KUYI,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Page, Arizona",Page,KNAD,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Phoenix, Arizona",Phoenix,KBAQ,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Phoenix, Arizona",Phoenix,KJZZ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Prescott, Arizona",Prescott,KNAQ,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Show Low, Arizona",Show Low,KNAA,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Tucson, Arizona",Tucson,KUAT,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Tucson, Arizona",Tucson,KUAZ,1550,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Tucson, Arizona",Tucson,KUAZ,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"White River, Arizona",White River,KNNB,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Yuma, Arizona",Yuma,KAWC,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arizona,"Yuma, Arizona",Yuma,KOFA,1320,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arkansas,"El Dorado, Arkansas",El Dorado,KBSA,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arkansas,"Fayetteville, Arkansas",Fayetteville,KUAF,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arkansas,"Jonesboro, Arkansas",Jonesboro,KASU,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arkansas,"Little Rock, Arkansas",Little Rock,KLRE,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Arkansas,"Little Rock, Arkansas",Little Rock,KUAR,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Angwin, California",Angwin,KDFC,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Arcata, California",Arcata,KHSU,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Bakersfield, California",Bakersfield,KPRX,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Bayside, California",Bayside,KNHM,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Burney, California",Burney,KNCA,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Calexico, California",Calexico,KQVO,97.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Chico, California",Chico,KCHO,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Coachella, California",Coachella,KVLA,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Crescent City, California",Crescent City,KHSR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Fresno, California",Fresno,KVPR,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Groveland, California",Groveland,KXSR,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Indio, California",Indio,KCRI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,Los Angeles,,KPCC,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,Los Angeles,,KCRW,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,Los Angeles,,KUSC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"McCloud, California",McCloud,KLDD,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Mendocino, California",Mendocino,KPMO,1300,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Mojave, California",Mojave,KCRY,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Morro Bay, California",Morro Bay,KESC,99.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Mount Shasta, California",Mount Shasta,KMJC,620,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Mount Shasta, California",Mount Shasta,KNSQ,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"North Highlands, California",North Highlands,KQEI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Northridge, California",Northridge,KCSN,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Oxnard, California",Oxnard,KCRU,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Palm Springs, California",Palm Springs,KPSC,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Pasadena, California",Pasadena,KPCC,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Philo, California",Philo,KZYX,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Quincy, California",Quincy,KQNC,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Redding, California",Redding,KFPR,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Redlands, California",Redlands,KUOR,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Rio Dell, California",Rio Dell,KNHT,102.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Sacramento, California",Sacramento,KUOP,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Sacramento, California",Sacramento,KXJZ,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Sacramento, California",Sacramento,KXPR,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"San Ardo, California",San Ardo,KNBX,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"San Bernardino, California",San Bernardino,KVCR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"San Diego, California",San Diego,KPBS,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"San Diego, California",San Diego,KSDS,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,San Francisco,,KALW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,San Francisco,,KQED,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,San Francisco,,KUSF,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"San Luis Obispo, California",San Luis Obispo,KCBX,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"San Mateo, California",San Mateo,KCSM,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Santa Barbara, California",Santa Barbara,KDRW,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Santa Barbara, California",Santa Barbara,KCLU,1340,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Santa Barbara, California",Santa Barbara,KSBX,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Santa Monica, California",Santa Monica,KCRW,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Santa Rosa, California",Santa Rosa,KRCB,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Seaside, California",Seaside,KAZU,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Shasta Lake City, California",Shasta Lake City,KJPR,1330,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Sutter, California",Sutter,KXJS,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Tahoe City, California",Tahoe City,KKTO,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Thousand Oaks, California",Thousand Oaks,KCLU,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Thousand Oaks, California",Thousand Oaks,KDSC,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Willits, California",Willits,KZYZ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Yreka, California",Yreka,KNYR,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,"Yreka, California",Yreka,KSYC,1490,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Alamosa, Colorado",Alamosa,KRZA,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Aspen, Colorado",Aspen,KAJX,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Boulder, Colorado",Boulder,KCFC,1490,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Carbondale, Colorado",Carbondale,KCJX,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Carbondale, Colorado",Carbondale,KDNK,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Carbondale, Colorado",Carbondale,KVOV,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Colorado Springs, Colorado",Colorado Springs,KRCC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Cortez, Colorado",Cortez,KSJD,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Craig, Colorado",Craig,KPYR,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Crested Butte, Colorado",Crested Butte,KBUT,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Delta, Colorado",Delta,KPRU,103.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Denver, Colorado",Denver,KCFR,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Denver, Colorado",Denver,KUVO,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Denver, Colorado",Denver,KVOD,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Fort Collins, Colorado",Fort Collins,KVXQ,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Grand Junction, Colorado",Grand Junction,KPRN,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Greeley, Colorado",Greeley,KUNC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Ignacio, Colorado",Ignacio,KSUT,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Ignacio, Colorado",Ignacio,KUTE,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"La Junta, Colorado",La Junta,KECC,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Manitou Springs, Colorado",Manitou Springs,KCME,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Montrose, Colorado",Montrose,KPRH,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Montrose, Colorado",Montrose,KVMT,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Paonia, Colorado",Paonia,KVNF,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Pueblo, Colorado",Pueblo,KCFP,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Pueblo, Colorado",Pueblo,KKPC,1230,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Steamboat Springs, Colorado",Steamboat Springs,KRNC,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Telluride, Colorado",Telluride,KOTO,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Colorado,"Vail, Colorado",Vail,KPRE,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Fairfield, Connecticut",Fairfield,WSHU,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Fairfield, Connecticut",Fairfield,WVOF,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Meriden, Connecticut",Meriden,WNPR,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Middletown, Connecticut",Middletown,WESU,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Norwich, Connecticut",Norwich,WPKT,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Sharon, Connecticut",Sharon,WHDD,1020,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Sharon, Connecticut",Sharon,WHDD,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Sharon, Connecticut",Sharon,WQQQ,103.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Stamford, Connecticut",Stamford,WEDW,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Westport, Connecticut",Westport,WSHU,1260,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Connecticut,"Willimantic, Connecticut",Willimantic,WECS,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Delaware,"Dover, Delaware",Dover,WRTX,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Delaware,"Dover, Delaware",Dover,WDDE,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Delaware,"Wilmington, Delaware",Wilmington,WMPH,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+District of Columbia,"Washington, D.C.",Washington,WAMU,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+District of Columbia,"Washington, D.C.",Washington,WETA,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Ft. Myers, Florida",Ft. Myers,WGCU,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Ft. Pierce, Florida",Ft. Pierce,WQCS,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Gainesville, Florida",Gainesville,WUFT,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Inverness, Florida",Inverness,WJUF,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Jacksonville, Florida",Jacksonville,WJCT,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Marathon, Florida","Marathon/Key West, Florida",WKWM,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Marco, Florida",Marco,WMKO,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Melbourne, Florida",Melbourne,WFIT,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Miami, Florida",Miami,WDNA,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Miami, Florida",Miami,WLRN,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Orlando, Florida",Orlando,WMFE,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Orlando, Florida",Orlando,WUCF,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Panama City, Florida",Panama City,WFSW,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Panama City, Florida",Panama City,WKGC,1480,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Panama City, Florida",Panama City,WKGC,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Pensacola, Florida",Pensacola,WUWF,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Sarasota, Florida",Sarasota,WSMR,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Tallahassee, Florida",Tallahassee,WFSQ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Tallahassee, Florida",Tallahassee,WFSU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Tampa, Florida",Tampa,WMNF,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Florida,"Tampa, Florida",Tampa,WUSF,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Albany, Georgia",Albany,WUNV,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Athens, Georgia",Athens,WUGA,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,Atlanta,Atlanta,WABE,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,Atlanta,Atlanta,WCLK,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Augusta, Georgia",Augusta,WACG,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Brunswick, Georgia",Brunswick,WWIO,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Carrollton, Georgia",Carrollton,WUWG,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Chatsworth, Georgia",Chatsworth,WNGH,98.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Columbus, Georgia",Columbus,WTJB,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Dahlonega, Georgia",Dahlonega,WNGU,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Demorest, Georgia",Demorest,WPPR,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Folkston, Georgia",Folkston,WATY,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Fort Gaines, Georgia",Fort Gaines,WJWV,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Macon, Georgia",Macon,WMUM,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Rome, Georgia",Rome,WGPB,97.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Savannah, Georgia",Savannah,WSVH,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Thomasville, Georgia",Thomasville,WFSL,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Tifton, Georgia",Tifton,WABR,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Valdosta, Georgia",Valdosta,WWET,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Warm Springs, Georgia",Warm Springs,WJSP,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Georgia,"Waycross, Georgia",Waycross,WXVS,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Hawaii,"Hilo, Hawaii",Hilo,KANO,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Hawaii,"Honolulu, Hawaii",Honolulu,KHPR,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Hawaii,"Honolulu, Hawaii",Honolulu,KIPO,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Hawaii,"Wailuku, Hawaii",Wailuku,KIPM,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Hawaii,"Wailuku, Hawaii",Wailuku,KKUA,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Boise, Idaho",Boise,KBSU,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Boise, Idaho",Boise,KBSX,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Bonners Ferry, Idaho",Bonners Ferry,KIBX,92.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Burley, Idaho",Burley,KBSY,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Cottonwood, Idaho",Cottonwood,KNWO,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"McCall, Idaho",McCall,KBSK,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"McCall, Idaho",McCall,KBSM,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"McCall, Idaho",McCall,KBSQ,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Moscow, Idaho",Moscow,KRFA,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Pocatello, Idaho",Pocatello,KISU,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Rexburg, Idaho",Rexburg,KBYI,100.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Sun Valley, Idaho",Sun Valley,KBSS,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Sun Valley, Idaho",Sun Valley,KWRV,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Twin Falls, Idaho",Twin Falls,KBSW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Idaho,"Twin Falls, Idaho",Twin Falls,KEZJ,1450,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Carbondale, Illinois",Carbondale,WSIU,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,Chicago,,WBEZ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"DeKalb, Illinois",DeKalb,WNIJ,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Edwardsville, Illinois",Edwardsville,WSIE,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Elgin, Illinois",Elgin,WEPS,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Freeport, Illinois",Freeport,WNIE,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Galesburg, Illinois",Galesburg,WVKC,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Glen Ellyn, Illinois",Glen Ellyn,WDCB,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Kankakee, Illinois",Kankakee,WBEK,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"LaSalle, Illinois",LaSalle,WNIW,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Macomb, Illinois",Macomb,WIUM,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Morris, Illinois",Morris,WBEQ,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Mt. Vernon, Illinois",Mt. Vernon,WVSI,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Normal, Illinois",Normal,WGLT,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Olney, Illinois",Olney,WUSI,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Peoria, Illinois",Peoria,WCBU,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Pittsfield, Illinois",Pittsfield,WIPA,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Quincy, Illinois",Quincy,WQUB,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Rock Island, Illinois",Rock Island,WVIK,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Rockford, Illinois",Rockford,WNIJ,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Springfield, Illinois",Springfield,WUIS,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Sterling, Illinois",Sterling,WNIQ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Urbana, Illinois",Urbana,WILL,580,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Urbana, Illinois",Urbana,WILL,90.9,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,"Warsaw, Illinois",Warsaw,WIUW,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Anderson, Indiana",Anderson,WBSB,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Bloomington, Indiana",Bloomington,WFIU,103.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Chesterton, Indiana",Chestertown,WBEW,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Crawfordsville, Indiana",Crawfordsville,WNDY,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Elkhart, Indiana",Elkhart,WVPE,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Evansville, Indiana",Evansville,WNIN,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Fort Wayne, Indiana",Fort Wayne,WBOI,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Franklin, Indiana",Franklin,WFCI,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Gary, Indiana",Gary,WGVE,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Hagerstown, Indiana",Hagerstown,WBSH,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Indianapolis, Indiana",Indianapolis,WFYI,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Lowell, Indiana",Lowell,WLPR,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Marion, Indiana",Marion,WBSW,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Muncie, Indiana",Muncie,WBST,92.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Portland, Indiana",Portland,WBSJ,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Roanoke, Indiana",Roanoke,WBNI,94.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"Vincennes, Indiana",Vincennes,WVUB,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"West Lafayette, Indiana",West Lafayette,WBAA,920,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Indiana,"West Lafayette, Indiana",West Lafayette,WBAA,101.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Ames, Iowa",Ames,WOI,640,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Ames, Iowa",Ames,WOI,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Bettendorf, Iowa",Bettendorf,KNSB,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Carroll, Iowa",Carroll,KNSC,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Cedar Falls, Iowa",Cedar Falls,KHKE,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Cedar Falls, Iowa",Cedar Falls,KUNI,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Cedar Rapids, Iowa",Cedar Rapids,KCCK,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Council Bluffs, Iowa",Council Bluffs,KIWR,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Decorah, Iowa",Decorah,KLCD,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Decorah, Iowa",Decorah,KLNI,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Dubuque, Iowa",Dubuque,KNSY,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Fort Dodge, Iowa",Fort Dodge,KNSK,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Iowa City, Iowa",Iowa City,KSUI,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Iowa City, Iowa",Iowa City,WSUI,910,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Lamoni, Iowa",Lamoni,KNSL,97.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Mason City, Iowa",Mason City,KRNI,1010,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Mason City, Iowa",Mason City,KNSM,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Mitchellville, Iowa",Mitchellville,KICJ,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Okoboji, Iowa",Okoboji,KOJI,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Ottumwa, Iowa",Ottumwa,KNSZ,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Ottumwa, Iowa",Ottumwa,KICW,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Patterson, Iowa",Patterson,KICP,105.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Pleasantville, Iowa",Pleasantville,KICL,96.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Sioux City, Iowa",Sioux City,KWIT,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Iowa,"Waterloo, Iowa",Waterloo,KBBG,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Chanute, Kansas",Chanute,KANQ,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Emporia, Kansas",Emporia,KANH,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Garden City, Kansas",Garden City,KANZ,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Great Bend, Kansas",Great Bend,KHCT,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Hays, Kansas",Hays,KZAN,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Hill City, Kansas",Hill City,KZNA,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Hutchinson, Kansas",Hutchinson,KHCC,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Lawrence, Kansas",Lawrence,KANU,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Olsburg, Kansas",Olsburg,KANV,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Pittsburg, Kansas",Pittsburg,KRPS,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Salina, Kansas",Salina,KHCD,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kansas,"Wichita, Kansas",Wichita,KMUW,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Bowling Green, Kentucky",Bowling Green,WKYU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Corbin, Kentucky",Corbin,WEKF,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Elizabethtown, Kentucky",Elizabethtown,WKUE,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Hazard, Kentucky",Hazard,WEKH,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Henderson, Kentucky",Henderson,WKPB,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Lexington, Kentucky",Lexington,WUKY,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Louisville, Kentucky",Louisville,WFPK,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Louisville, Kentucky",Louisville,WFPL,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Louisville, Kentucky",Louisville,WUOL,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Morehead, Kentucky",Morehead,WMKY,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Murray, Kentucky",Murray,WKMS,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Richmond, Kentucky",Richmond,WEKU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Kentucky,"Somerset, Kentucky",Somerset,WDCL,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Alexandria, Louisiana",Alexandria,KLSA,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Baton Rouge, Louisiana",Baton Rouge,WBRH,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Baton Rouge, Louisiana",Baton Rouge,WRKF,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Hammond, Louisiana",Hammond,KSLU,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Lafayette, Louisiana",Lafayette,KRVS,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Monroe, Louisiana",Monroe,KEDM,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"New Orleans, Louisiana",New Orleans,WWNO,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Shreveport, Louisiana",Shreveport,KDAQ,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Louisiana,"Thibodaux, Louisiana",Thibodaux,KTLN,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Bangor, Maine",Bangor,WMEH,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Calais, Maine",Calais,WMED,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Camden, Maine",Camden,WMEP,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Fort Kent, Maine",Fort Kent,WMEF,106.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Portland, Maine",Portland,WMEA,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Presque Isle, Maine",Presque Isle,WMEM,106.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maine,"Waterville, Maine",Waterville,WMEW,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Baltimore, Maryland",Baltimore,WEAA,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Baltimore, Maryland",Baltimore,WYPR,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Frederick, Maryland",Frederick,WYPF,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Frostburg, Maryland",Frostburg,WFWM,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Hagerstown, Maryland",Hagerstown,WGMS,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Ocean City, Maryland",Ocean City,WRAU,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Ocean City, Maryland",Ocean City,WSDL,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Ocean City, Maryland",Ocean City,WYPO,106.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Princess Anne, Maryland",Princess Anne,WESM,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Salisbury, Maryland",Salisbury,WSCL,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Towson, Maryland",Towson,WTMD,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Maryland,"Worton, Maryland",Worton,WKHS,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Amherst, Massachusetts",Amherst,WFCR,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,Boston,,WBUR,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,Boston,WGBH,WGBH,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,Boston,,WUMB,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Brewster, Massachusetts",Brewster,WZAI,94.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Deerfield, Massachusetts",Deerfield,WNNZ,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Falmouth, Massachusetts",Falmouth,WFPB,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Great Barrington, Massachusetts",Great Barrington,WAMQ,105.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Harwich, Massachusetts",Harwich,WCCT,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Lowell, Massachusetts",Lowell,WCRB,99.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Nantucket, Massachusetts",Nantucket,WNAN,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Nantucket, Massachusetts",Nantucket,WNCK,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Newburyport, Massachusetts",Newburyport,WNEF,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Orleans, Massachusetts",Orleans,WFPB,1170,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Sandwich, Massachusetts",Sandwich,WSDH,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Sheffield, Massachusetts",Sheffield,WBSL,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Springfield, Massachusetts",Springfield,WAIC,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Stow, Massachusetts",Stow,WUMG,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"West Yarmouth, Massachusetts",West Yarmouth,WBAS,1240,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Westfield, Massachusetts",Westfield,WNNZ,640,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Woods Hole, Massachusetts",Woods Hole,WCAI,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Worcester, Massachusetts",Worcester,WBPR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,"Worcester, Massachusetts",Worcester,WICN,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Allendale, Michigan",Allendale,WGVU,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Alpena, Michigan",Alpena,WCML,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Ann Arbor, Michigan",Ann Arbor,WUOM,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Bay City, Michigan",Bay City,WUCX,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Berrien Springs, Michigan",Berrien Springs,WAUS,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,Detroit,,WDET,101.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"East Lansing, Michigan",East Lansing,WKAR,870,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"East Lansing, Michigan",East Lansing,WKAR,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Flint, Michigan",Flint,WFUM,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Grand Rapids, Michigan",Grand Rapids,WBLU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Grand Rapids, Michigan",Grand Rapids,WVGR,104.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Harbor Springs, Michigan",Harbor Springs,WCMW,103.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Harbor Springs, Michigan",Harbor Springs,WHBP,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Houghton, Michigan",Houghton,WGGL,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Interlochen, Michigan",Interlochen,WIAA,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Kalamazoo, Michigan",Kalamazoo,WMUK,102.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Kentwood, Michigan",Kentwood,WGVU,1480,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Mackinaw City, Michigan",Mackinaw City,WIAB,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Manistee, Michigan",Manistee,WLMN,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Marquette, Michigan",Marquette,WNMU,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Mt. Pleasant, Michigan",Mt. Pleasant,WCMU,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Muskegon, Michigan",Muskegon,WGVS,850,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Oscoda, Michigan",Oscoda,WCMB,95.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Sault Ste. Marie, Michigan",Sault Ste. Marie,WCMZ,98.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Standish, Michigan",Standish,WWCM,96.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Traverse City, Michigan",Traverse City,WICA,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Twin Lake, Michigan",Twin Lake,WBLV,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Whitehall, Michigan",Whitehall,WGVS,95.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,"Ypsilanti, Michigan",Ypsilanti,WEMU,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Appleton, Minnesota",Appleton,KNCM,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Appleton, Minnesota",Appleton,KRSU,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Austin, Minnesota",Austin,KNSE,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Bemidji, Minnesota",Bemidji,KCRB,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Bemidji, Minnesota",Bemidji,KNBJ,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Brainerd, Minnesota",Brainerd,KBPN,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Brainerd, Minnesota",Brainerd,KBPR,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Buhl, Minnesota",Buhl,WIRN,92.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Collegeville, Minnesota",St. Cloud,KNSR,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Collegeville, Minnesota",St. Cloud,KSJR,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Cloquet, Minnesota",Cloquet,WSCN,100.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Duluth, Minnesota",Duluth,KUMD,103.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Duluth, Minnesota",Duluth,WSCD,92.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Fergus Falls, Minnesota",Fergus Falls,KCMF,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Fergus Falls, Minnesota",Fergus Falls,KNWF,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Grand Marais, Minnesota",Grand Marais,WLSN,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Grand Marais, Minnesota",Grand Marais,WMLS,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Grand Marais, Minnesota",Grand Marais,WTIP,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Grand Portage (community), Minnesota",Grand Portage,WGPO,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Grand Rapids, Minnesota",Grand Rapids,KAXE,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Hinckley, Minnesota",Hinckley,WGRH,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"International Falls, Minnesota",International Falls,KITF,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"La Crescent, Minnesota",La Crescent,KXLC,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Mankato, Minnesota",Mankato,KMSU,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Minneapolis, Minnesota",Minneapolis,KBEM,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Minneapolis, Minnesota",Minneapolis,KFAI,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Moorhead, Minnesota",Moorhead,KCCD,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Moorhead, Minnesota",Moorhead,KCCM,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Northfield, Minnesota","St. Paul Minneapolis, Minnesota",KCMP,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Redwood Falls, Minnesota",Redwood Falls,KRFI,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Rochester, Minnesota",Rochester,KLSE,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Rochester, Minnesota",Rochester,KMSE,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Rochester, Minnesota",Rochester,KZSE,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Roseau, Minnesota",Roseau,KRXW,103.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"St. Paul, Minnesota",Minneapolis,KNOW,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"St. Paul, Minnesota",Minneapolis,KSJN,99.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"St. Peter, Minnesota",Mankato,KGAC,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"St. Peter, Minnesota",Mankato,KNGA,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Thief River Falls, Minnesota",Thief River Falls,KNTN,102.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Thief River Falls, Minnesota",Thief River Falls,KQMN,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Virginia, Minnesota",Hibbing,WIRR,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Worthington, Minnesota",Worthington,KNSW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Minnesota,"Worthington, Minnesota",Marshall,KRSW,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Biloxi, Mississippi",Biloxi,WMAH,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Booneville, Mississippi",Booneville,WMAE,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Bude, Mississippi",Bude,WMAU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Greenwood, Mississippi",Greenwood,WMAO,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Holly Springs, Mississippi",Holly Springs,WURC,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Jackson, Mississippi",Jackson,WJSU,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Jackson, Mississippi",Jackson,WMPN,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Lorman, Mississippi",Lorman,WPRL,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Meridian, Mississippi",Meridian,WMAW,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Mississippi State, Mississippi",Mississippi State,WMAB,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Oxford, Mississippi",Oxford,WMAV,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Mississippi,"Starkville, Mississippi",Starkville,WMSV,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Branson, Missouri",Branson,KSMS,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Cape Girardeau, Missouri",Cape Girardeau,KRCU,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Chillicothe, Missouri",Chillicothe,KRNW,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Columbia, Missouri",Columbia,KBIA,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Columbia, Missouri",Columbia,KOPN,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Kansas City, Missouri",Kansas City,KCUR,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Maryville, Missouri",Maryville,KXCV,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Rolla, Missouri",Rolla,KMST,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Springfield, Missouri",Springfield,KSMU,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"St. Louis, Missouri",St. Louis,KWMU,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Sainte Genevieve, Missouri",Sainte Genevieve,KSEF,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"Warrensburg, Missouri",Warrensburg,KTBG,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Missouri,"West Plains, Missouri",West Plains,KSMW,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Billings, Montana",Billings,KEMC,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Bozeman, Montana",Bozeman,KBMC,102.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Bozeman, Montana",Bozeman,KGLT,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Butte, Montana",Butte,KAPC,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Fort Belknap, Montana",Fort Belknap,KGVA,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Great Falls, Montana",Great Falls,KGPR,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Hamilton, Montana",Hamilton,KUFN,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Helena, Montana",Helena,KUHM,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Helena Valley Southeast, Montana",Helena Valley SE,KYPX,106.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Kalispell, Montana",Kalispell,KUKL,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Miles City, Montana",Miles City,KYPR,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Montana,"Missoula, Montana",Missoula,KUFM,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Alliance, Nebraska",Alliance,KTNE,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Bassett, Nebraska",Bassett,KMNE,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Chadron, Nebraska",Chadron,KCNE,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Hastings, Nebraska",Hastings,KHNE,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Lexington, Nebraska",Lexington,KLNE,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Lincoln, Nebraska",Lincoln,KUCV,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Lincoln, Nebraska",Lincoln,KZUM,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Merriman, Nebraska",Merriman,KRNE,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Norfolk, Nebraska",Norfolk,KXNE,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"North Platte, Nebraska",North Platte,KPNE,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nebraska,"Omaha, Nebraska",Omaha,KIOS,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Elko, Nevada",Elko,KNCC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Jackpot, Nevada",Jackpot,KBSJ,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Las Vegas, Nevada",Las Vegas,KCNV,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Las Vegas, Nevada",Las Vegas,KNPR,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Las Vegas, Nevada",Las Vegas,KUNV,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Lund, Nevada",Lund,KWPR,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Panaca, Nevada",Panaca,KLNR,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Reno, Nevada",Reno,KUNR,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Reno, Nevada",Reno,KVNV,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Nevada,"Tonopah, Nevada",Tonopah,KTPH,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Hampshire,"Concord, New Hampshire",Concord,WEVO,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Hampshire,"Gorham, New Hampshire",Gorham,WEVC,107.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Hampshire,"Hanover, New Hampshire",Hanover,WEVH,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Hampshire,"Jackson, New Hampshire",Jackson,WEVJ,99.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Hampshire,"Keene, New Hampshire",Keene,WEVN,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Hampshire,"Nashua, New Hampshire",Nashua,WEVS,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Atlantic City, New Jersey",Atlantic City,WNJN,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Berlin, New Jersey",Berlin,WNJS,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Bridgeton, New Jersey",Bridgeton,WNJB,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Cape May, New Jersey",Cape May,WNJZ,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Hackettstown, New Jersey",Hackettstown,WXPJ,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Lincroft, New Jersey",Lincroft,WBJB,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Manahawkin, New Jersey",Manahawkin,WNJM,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Newark, New Jersey",Newark,WBGO,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Ocean City, New Jersey","Ocean City/Atlantic City, New Jersey",WNJN,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Sussex, New Jersey",Sussex,WNJP,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Jersey,"Trenton, New Jersey",Trenton,WNJT,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Albuquerque, New Mexico",Albuquerque,KANW,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Albuquerque, New Mexico",Albuquerque,KUNM,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Dulce, New Mexico",Dulce,KCIE,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Gallup, New Mexico",Gallup,KGLP,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Las Cruces, New Mexico",Las Cruces,KRWG,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Magdalena, New Mexico",Magdalena,KOAZ,1500,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Maljamar, New Mexico",Maljamar,KMTH,98.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Portales, New Mexico",Portales,KENW,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Ramah, New Mexico",Ramah,KTDB,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New Mexico,"Santa Rosa, New Mexico",Santa Rosa,KANR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Albany, New York",Albany,WAMC,1400,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Albany, New York",Albany,WAMC,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Binghamton, New York",Binghamton,WSKG,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Binghamton, New York",Binghamton,WSQX,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Blue Mountain Lake, New York",Blue Mtn. Lake,WXLH,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Boonville, New York",Boonville,WXLB,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Brooklyn, New York",Brooklyn,WNYE,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Brookville, New York",Brookville,WCWP,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Buffalo, New York",Buffalo,WBFO,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Buffalo, New York",Buffalo,WNED,94.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Canajoharie (village), New York",Canajoharie,WCAN,93.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Canton (village), New York",Canton,WSLU,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Cape Vincent, New York",Cape Vincent,WSLZ,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Corning (city), New York",Corning,WSQE,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Fredonia, New York",Fredonia,WCVF,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Geneva, New York",Geneva,WEOS,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Gouverneur, New York",Gouverneur,WXLB,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Hamilton (village), New York",Hamilton,WRCU,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Hornell, New York",Hornell,WSQA,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Houghton, New York",Houghton,WXXY,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Ithaca, New York",Ithaca,WSQG,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Jamestown, New York",Jamestown,WUBJ,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Jamestown, New York",Jamestown,WNJA,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Jeffersonville, New York",Jeffersonville,WJFF,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Kingston, New York",Kingston,WAMK,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Lake Placid, New York",Lake Placid,WXLL,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Malone (village), New York",Malone,WSLO,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Middletown, Orange County, New York",Middletown,WOSR,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"New York City, New York",New York City,WFUV,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"New York City, New York",New York City,WNYC,820,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"New York City, New York",New York City,WNYC,93.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"North Creek, New York",North Creek,WXLG,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Olean, New York",Olean,WOLN,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Oneonta, New York",Oneonta,WSQC,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Oswego, New York",Oswego,WRVO,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Oswego, New York",Oswego,WRVD,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Peru, New York",Peru,WXLU,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Plattsburgh, New York",Plattsburgh,WCEL,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Poughkeepsie (city), New York",Poughkeepsie,WRHV,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Rochester, New York",Rochester,WXXI,1370,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Rochester, New York",Rochester,WXXI,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Rochester, New York",Rochester,WRUR,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Saranac Lake, New York",Saranac Lake,WSLL,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Schenectady, New York",Schenectady,WMHT,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Selden, New York",Selden,WSUF,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Southampton (town), New York",Southampton,WPPB,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Southampton (town), New York",Southampton,WRLI,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Syracuse, New York",Syracuse,WAER,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Syracuse, New York",Syracuse,WCNY,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Ticonderoga, New York",Ticonderoga,WANC,103.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Tupper Lake, New York",Tupper Lake,WXLS,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Utica, New York",Utica,WRVN,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Utica, New York",Utica,WUNY,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Watertown, New York",Watertown,WJNY,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Watertown, New York",Watertown,WRVJ,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+New York,"Watertown, New York",Watertown,WSLJ,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Asheville, North Carolina",Asheville,WCQS,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Atlantic Beach, North Carolina",Atlantic Beach,WBJD,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Buxton, North Carolina",Buxton,WBUX,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Chapel Hill, North Carolina",Chapel Hill,WUNC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Charlotte, North Carolina",Charlotte,WFAE,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Davidson, North Carolina",Davidson,WDAV,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Durham, North Carolina",Durham,WNCU,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Elizabeth City, North Carolina",Elizabeth City,WRVS,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Fayetteville, North Carolina",Fayetteville,WFSS,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Franklin, North Carolina",Franklin,WFQS,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Hickory, North Carolina",Hickory,WFHE,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Kinston, North Carolina",Kinston,WKNS,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Manteo, North Carolina",Manteo,WUND,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Manteo, North Carolina",Manteo,WURI,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"New Bern, North Carolina",New Bern,WTEB,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"New Bern, North Carolina",New Bern,WZNB,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Raleigh, North Carolina",Raleigh,WSHA,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Raleigh, North Carolina",Raleigh,WCPE,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Rocky Mount, North Carolina",Rocky Mount,WRQM,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Spindale, North Carolina",Spindale,WNCW,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Wilmington, North Carolina",Wilmington,WHQR,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Winston-Salem, North Carolina",Winston-Salem,WFDD,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Carolina,"Winston-Salem, North Carolina",Winston-Salem,WSNC,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Belcourt, North Dakota",Belcourt,KEYA,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Bismarck, North Dakota",Bismarck,KCND,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Dickinson, North Dakota",Dickinson,KDPR,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Fargo, North Dakota",Fargo,KDSU,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Grand Forks, North Dakota",Grand Forks,KUND,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Grand Forks, North Dakota",Grand Forks,KFJM,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Jamestown, North Dakota",Jamestown,KPRJ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Minot, North Dakota",Minot,KMPR,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+North Dakota,"Williston, North Dakota",Williston,KPPR,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Athens, Ohio",Athens,WOUB,1340,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Athens, Ohio",Athens,WOUB,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Bryan, Ohio",Bryan,WGBE,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Cambridge, Ohio",Cambridge,WOUC,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Chillicothe, Ohio",Chillicothe,WOUH,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Cincinnati, Ohio",Cincinnati,WGUC,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Cincinnati, Ohio",Cincinnati,WVXU,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Cleveland, Ohio",Cleveland,WCPN,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Columbus, Ohio",Columbus,WCBE,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Columbus, Ohio",Columbus,WOSA,101.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Columbus, Ohio",Columbus,WOSU,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Coshocton, Ohio",Coshocton,WOSE,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Dayton, Ohio",Dayton,WDPR,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Defiance, Ohio",Defiance,WGDE,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Ironton, Ohio",Ironton,WOUL,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Kent, Ohio",Kent,WKSU,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Lima, Ohio",Lima,WGLE,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Mansfield, Ohio",Mansfield,WOSV,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Marion, Ohio",Marion,WOSB,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Norwalk, Ohio",Norwalk,WNRK,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"New Philadelphia, Ohio",New Philadelphia,WKRJ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Oxford, Ohio",Oxford,WMUB,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Portsmouth, Ohio",Portsmouth,WOSP,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Thompson Township, Geauga County, Ohio",Thompson,WKSV,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Toledo, Ohio",Toledo,WGTE,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Wilberforce, Ohio",Wilberforce,WCSU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Wooster, Ohio",Wooster,WKRW,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Yellow Springs, Ohio",Yellow Springs,WYSO,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Youngstown, Ohio",Youngstown,WYSU,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Ohio,"Zanesville, Ohio",Zanesville,WOUZ,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Ada, Oklahoma",Ada,KOUA,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Altus, Oklahoma",Altus,KOCU,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Ardmore, Oklahoma",Ardmore,KLCU,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Clinton, Oklahoma",Clinton,KQOU,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Ketchum, Oklahoma",Ketchum,KOSN,107.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Lawton, Oklahoma",Lawton,KCCU,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Norman, Oklahoma",Norman,KGOU,106.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Oklahoma City, Oklahoma",Oklahoma City,KROU,105.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Stillwater, Oklahoma",Stillwater,KOSU,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Tulsa, Oklahoma",Tulsa,KWGS,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Tulsa, Oklahoma",Tulsa,KWTU,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oklahoma,"Woodward, Oklahoma",Woodward,KWOU,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Ashland, Oregon",Ashland,KAGI,930,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Ashland, Oregon",Ashland,KSJK,1230,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Ashland, Oregon",Ashland,KSMF,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Ashland, Oregon",Ashland,KSRG,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Ashland, Oregon",Ashland,KSOR,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Astoria, Oregon",Astoria,KMUN,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Bend, Oregon",Bend,KOAB,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Coos Bay, Oregon",Coos Bay,KSBA,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Corvallis, Oregon",Corvallis,KOAC,550,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Eugene, Oregon",Eugene,KLCC,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Eugene, Oregon",Eugene,KOPB,1600,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Eugene, Oregon",Eugene,KRVM,1280,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Florence, Oregon",Florence,KLFO,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Gresham, Oregon",Gresham,KMHD,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Klamath Falls, Oregon",Klamath Falls,KLMF,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Klamath Falls, Oregon",Klamath Falls,KSKF,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Myrtle Point, Oregon",Myrtle Point,KOOZ,94.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Newport, Oregon",Newport,KLCO,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Pendleton, Oregon",Pendleton,KRBM,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Portland, Oregon",Portland,KOPB,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Reedsport, Oregon",Reedsport,KLFR,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Roseburg, Oregon",Roseburg,KSRS,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Roseburg, Oregon",Roseburg,KTBR,950,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Roseburg, Oregon",Roseburg,KMPQ,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Tillamook, Oregon",Tillamook,KTCB,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Oregon,"Warrenton, Oregon",Warrenton,KCPB,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Allentown, Pennsylvania",Allentown,WDIY,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Erie, Pennsylvania",Erie,WQLN,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Harrisburg, Pennsylvania",Harrisburg,WITF,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Johnstown, Pennsylvania",Johnstown,WQEJ,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Kane, Pennsylvania",Kane,WPSX,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Middletown, Dauphin County, Pennsylvania",Middletown,WXPH,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Mt. Pocono, Pennsylvania",Mt. Pocono,WRTY,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Philadelphia, Pennsylvania",Philadelphia,WHYY,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Philadelphia, Pennsylvania",Philadelphia,WRTI,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Philadelphia, Pennsylvania",Philadelphia,WXPN,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Pittsburgh, Pennsylvania",Pittsburgh,WESA,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Pittsburgh, Pennsylvania",Pittsburgh,WQED,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Pittsburgh, Pennsylvania",Pittsburgh,WYEP,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Scranton, Pennsylvania",Scranton,WVIA,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"State College, Pennsylvania",State College,WPSU,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Summerdale, Pennsylvania",Summerdale,WJAZ,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Pennsylvania,"Williamsport, Pennsylvania",Williamsport,WVYA,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Puerto Rico,"R’o Piedras, Puerto Rico",R’o Piedras,WRTU,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Rhode Island,"Providence, Rhode Island","Providence, northern RI, and bordering MA",WELH,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Rhode Island,South Coast of Massachusetts and Narragansett Bay communities,WXNI,WXNI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Rhode Island,"Coventry, Rhode Island",Coventry and central RI,WCVY,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Rhode Island,"Narragansett, Rhode Island","Narragansett and southern RI, Block Island, Aquidneck Island, and parts of the East Bay",WRNI,102.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Aiken, South Carolina",Aiken,WLJK,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Beaufort, South Carolina",Beaufort,WJWJ,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Charleston, South Carolina",Charleston,WSCI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Columbia, South Carolina",Columbia,WLTR,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Conway, South Carolina",Conway,WHMC,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Greenville, South Carolina",Greenville,WEPR,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Orangeburg, South Carolina",Orangeburg,WSSB,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Rock Hill, South Carolina",Rock Hill,WNSC,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Carolina,"Sumter, South Carolina",Sumter,WRJA,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Brookings, South Dakota",Brookings,KESD,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Faith, South Dakota",Faith,KPSD,97.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Lowry, South Dakota",Lowry,KQSD,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Martin, South Dakota",Martin,KZSD,102.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Pierpont, South Dakota",Watertown,KDSD,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Rapid City, South Dakota",Rapid City,KBHE,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Reliance, South Dakota",Pierre,KTSD,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Sioux Falls, South Dakota",Sioux Falls,KCSD,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Sioux Falls, South Dakota",Sioux Falls,KRSD,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+South Dakota,"Vermillion, South Dakota",Vermillion,KUSD,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Chattanooga, Tennessee",Chattanooga,WUTC,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Collegedale, Tennessee",Collegedale,WSMC,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Cookeville, Tennessee",Cookeville,WHRS,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Dyersburg, Tennessee",Dyersburg,WKNQ,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Jackson, Tennessee",Jackson,WKNP,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Johnson City, Tennessee",Johnson City,WETS,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Knoxville, Tennessee",Knoxville,WUOT,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Madison, Tennessee",Madison,WPLN,1430,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Memphis, Tennessee",Memphis,WKNO,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Murfreesboro, Tennessee",Murfreesboro,WMOT,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Nashville, Tennessee",Nashville,WPLN,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Nashville, Tennessee",Nashville,WFCL,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Tennessee,"Tullahoma, Tennessee",Tullahoma,WTML,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Abilene, Texas",Abilene,KACU,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Amarillo, Texas",Amarillo,KJJP,105.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Austin, Texas",Austin,KUT,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Beaumont, Texas",Beaumont,KVLU,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Bushland, Texas",Bushland,KTXP,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"College Station, Texas",College Station,KAMU,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"College Station, Texas",College Station,KEOS,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Commerce, Texas",Commerce,KETR,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Corpus Christi, Texas",Corpus Christi,KEDT,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Dallas, Texas",Dallas-Fort Worth,KERA,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Dallas, Texas",Dallas-Fort Worth,KKXT,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Denton, Texas",Denton,KNTU,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Denton, Texas",Denton,KERA,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"El Paso, Texas",El Paso,KTEP,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Harlingen, Texas",Harlingen,KJJF,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Houston, Texas",Houston,KUHF,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Houston, Texas",Houston,KTSU,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Ingram, Texas",Ingram,KTXI,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Llano, Texas",Llano,KVHL,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Lubbock, Texas",Lubbock,KTTZ,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Lufkin, Texas",Lufkin,KLDN,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Marfa, Texas",Marfa,KRTS,93.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"McAllen, Texas",McAllen,KHID,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Odessa, Texas",Odessa,KXWT,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Prairie View, Texas",Prairie View,KPVU,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"San Angelo, Texas",San Angelo,KNCH,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"San Antonio, Texas",San Antonio,KSTX,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"San Antonio, Texas",San Antonio,KPAC,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Sherman, Texas",Sherman,KERA,99.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Snyder, Texas",Snyder,KTPR,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Spearman, Texas",Spearman,KTOT,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Stephenville, Texas",Stephenville,KTRL,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Texarkana, Texas",Texarkana,KTXK,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Tyler, Texas",Tyler,KERA,100.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Victoria, Texas",Victoria,KVRT,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Waco, Texas",Waco,KWBU,103.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Wichita Falls, Texas",Wichita Falls,KMCU,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Texas,"Wichita Falls, Texas",Wichita Falls,KERA,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Logan, Utah",Logan,KUSU,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Logan, Utah",Logan,KUSR,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Moab, Utah",Moab,KUST,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Park City, Utah",Park City,KPCW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Price, Utah",Price,KCEU,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Richfield, Utah",Richfield,KUSL,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Salt Lake City, Utah",Salt Lake City,KUER,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"St. George, Utah",St. George,KSGU,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Utah,"Vernal, Utah",Vernal,KUSK,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Bennington, Vermont",Bennington,WBTN,94.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Burlington, Vermont",Burlington,WVPS,107.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Bristol, Vermont",Bristol,WXLQ,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Colchester, Vermont",Colchester,WVTX,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Norwich, Vermont",Norwich,WNCH,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Rutland (city), Vermont",Rutland,WRVT,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"St. Johnsbury, Vermont",St. Johnsbury,WVPA,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Vermont,"Windsor, Vermont",Windsor,WVPR,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Charlottesville, Virginia",Charlottesville,WMRY,103.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Charlottesville, Virginia",Charlottesville,WVTU,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Charlottesville, Virginia",Charlottesville,WVTW,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Chase City, Virginia",Chase City,WMVE,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Christiansburg, Virginia",Christiansburg,WWVT,1260,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Farmville, Virginia",Farmville,WMLU,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Ferrum, Virginia",Ferrum,WWVT,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Harrisonburg, Virginia",Harrisonburg,WMRA,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Heathsville, Virginia",Heathsville,WCNV,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Hot Springs, Virginia",Hot Springs,WCHG,107.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Lexington, Virginia",Lexington,WMRL,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Marion, Virginia",Marion,WVTR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Monterey, Virginia",Monterey,WVLS,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Norfolk, Virginia",Norfolk,WHRO,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Norfolk, Virginia",Norfolk,WHRV,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Richmond, Virginia",Richmond,WCVE,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Roanoke, Virginia",Roanoke,WVTF,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Virginia,"Wise, Virginia",Wise,WISE,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Bellingham, Washington",Bellingham,KZAZ,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Chehalis, Washington",Chehalis,KSWS,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Chelan, Washington",Chelan,KHNW,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Clarkston, Washington",Clarkston,KNWV,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Ellensburg, Washington",Ellensburg,KNWR,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Forks, Washington",Forks,KNWU,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Moses Lake, Washington",Moses Lake,KLWS,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Mount Vernon, Washington",Mount Vernon,KMWS,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Omak, Washington",Omak,KQWS,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Port Angeles, Washington",Port Angeles,KNWP,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Pullman, Washington",Pullman,KWSU,1250,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Richland, Washington",Richland,KFAE,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,Seattle,,KEXP,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,Seattle,,KUOW,94.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Spokane, Washington",Spokane,KPBX,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Spokane, Washington",Spokane,KSFC,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Seattle/Tacoma, Washington",Tacoma,KNKX,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Tumwater, Washington",Tumwater,KUOW,1340,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Tacoma, Washington",Tacoma,KVTI,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Walla Walla, Washington",Walla Walla,KWWS,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Yakima, Washington",Yakima,KNWY,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,"Yakima, Washington",Yakima,KYVT,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Beckley, West Virginia",Beckley,WVBY,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Buckhannon, West Virginia",Buckhannon,WVPW,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Charleston, West Virginia",Charleston,WVPB,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Frost, West Virginia",Frost,WVMR,1370,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Huntington, West Virginia",Huntington,WVWV,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Martinsburg, West Virginia",Martinsburg,WVEP,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Morgantown, West Virginia",Morgantown,WVPM,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Parkersburg, West Virginia",Parkersburg,WVPG,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Petersburg, West Virginia",Petersburg,WVDS,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+West Virginia,"Wheeling, West Virginia",Wheeling,WVNP,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Auburndale, Wisconsin",Auburndale,WLBL,930,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Brule, Wisconsin",Brule,WHSA,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Delafield, Wisconsin",Delafield,WHAD,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Eau Claire, Wisconsin",Eau Claire,WUEC,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Green Bay, Wisconsin",Green Bay,WHID,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Green Bay, Wisconsin",Green Bay,WPNE,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Hayward, Wisconsin",Hayward,WOJB,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Highland, Wisconsin",Highland,WHHI,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Kenosha, Wisconsin",Kenosha,WGTD,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"La Crosse, Wisconsin",La Crosse,WHLA,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"La Crosse, Wisconsin",La Crosse,WLSU,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Madison, Wisconsin",Madison,WERN,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Madison, Wisconsin",Madison,WHA,970,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Menomonie, Wisconsin",Menomonie,WHWC,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Menomonie, Wisconsin",Menomonie,WVSS,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Milwaukee, Wisconsin",Milwaukee,WUWM,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Milwaukee, Wisconsin",Milwaukee,WYMS,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Oshkosh, Wisconsin",Oshkosh,WRST,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Park Falls, Wisconsin",Park Falls,WHBM,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Rhinelander, Wisconsin",Rhinelander,WXPR,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"River Falls, Wisconsin",River Falls,WRFW,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Sheboygan, Wisconsin",Sheboygan,WSHS,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Sister Bay, Wisconsin",Sister Bay,WHDI,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Sister Bay, Wisconsin",Sister Bay,WHND,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Superior, Wisconsin",Superior,KUWS,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Wausau, Wisconsin",Wausau,WHRM,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Wausau, Wisconsin",Wausau,WLBL,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wisconsin,"Wausau, Wisconsin",Wausau,WXPW,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Afton, Wyoming",Afton,KUWA,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Buffalo, Wyoming",Buffalo,KBUW,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Casper, Wyoming",Casper,KUWC,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Douglas, Wyoming",Douglas,KDUW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Ethete, Wyoming",Ethete,KWRR,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Gillette, Wyoming",Gillette,KUWG,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Jackson, Wyoming",Jackson,KUWJ,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Laramie, Wyoming",Laramie,KUWR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Newcastle, Wyoming",Newcastle,KUWN,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Pinedale, Wyoming",Pinedale,KUWX,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Powell, Wyoming",Powell,KUWP,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Rock Springs, Wyoming",Rock Springs,KUWZ,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Sheridan, Wyoming",Sheridan,KSUW,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Sundance, Wyoming",Sundance,KUWD,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Wyoming,"Thermopolis, Wyoming",Thermopolis,KUWT,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
