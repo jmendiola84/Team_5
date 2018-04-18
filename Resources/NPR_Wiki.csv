@@ -1,4 +1,4 @@
-State,Name_long,Name_short,Station Identifier,Channel Number,AM/FM,Dataset,Link
+State,Wiki_name_long,Wiki_name,Station Identifier,Channel Number,AM/FM,Dataset,Link
 Alabama,"Birmingham, Alabama",Birmingham,WBHM,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Dothan, Alabama",Dothan,WRWA,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Gadsden, Alabama",Gadsden,WSGN,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -7,7 +7,7 @@ Alabama,"Huntsville, Alabama",Huntsville,WLRH,89.3,FM,Wikipedia,https://en.wikip
 Alabama,"Jacksonville, Alabama",Jacksonville,WLJS,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Mobile, Alabama",Mobile,WHIL,91.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Montgomery, Alabama",Montgomery,WVAS,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Alabama,"Montgomery, Alabama","Montgomery/Troy, Alabama",WTSU,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Alabama,"Montgomery, Alabama",Montgomery/Troy,WTSU,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Muscle Shoals, Alabama",Muscle Shoals,WQPR,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Selma, Alabama",Selma,WAPR,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Alabama,"Tuscaloosa, Alabama",Tuscaloosa,WUAL,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -71,9 +71,9 @@ California,"Crescent City, California",Crescent City,KHSR,91.9,FM,Wikipedia,http
 California,"Fresno, California",Fresno,KVPR,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"Groveland, California",Groveland,KXSR,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"Indio, California",Indio,KCRI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-California,Los Angeles,,KPCC,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-California,Los Angeles,,KCRW,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-California,Los Angeles,,KUSC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,Los Angeles,Los Angeles,KPCC,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,Los Angeles,Los Angeles,KCRW,89.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,Los Angeles,Los Angeles,KUSC,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"McCloud, California",McCloud,KLDD,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"Mendocino, California",Mendocino,KPMO,1300,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"Mojave, California",Mojave,KCRY,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -97,9 +97,9 @@ California,"San Ardo, California",San Ardo,KNBX,91.7,FM,Wikipedia,https://en.wik
 California,"San Bernardino, California",San Bernardino,KVCR,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"San Diego, California",San Diego,KPBS,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"San Diego, California",San Diego,KSDS,88.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-California,San Francisco,,KALW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-California,San Francisco,,KQED,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-California,San Francisco,,KUSF,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,San Francisco,San Francisco,KALW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,San Francisco,San Francisco,KQED,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+California,San Francisco,San Francisco,KUSF,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"San Luis Obispo, California",San Luis Obispo,KCBX,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"San Mateo, California",San Mateo,KCSM,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 California,"Santa Barbara, California",Santa Barbara,KDRW,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -224,7 +224,7 @@ Idaho,"Sun Valley, Idaho",Sun Valley,KWRV,91.9,FM,Wikipedia,https://en.wikipedia
 Idaho,"Twin Falls, Idaho",Twin Falls,KBSW,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Idaho,"Twin Falls, Idaho",Twin Falls,KEZJ,1450,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Illinois,"Carbondale, Illinois",Carbondale,WSIU,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Illinois,Chicago,,WBEZ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Illinois,Chicago,Chicago,WBEZ,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Illinois,"DeKalb, Illinois",DeKalb,WNIJ,89.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Illinois,"Edwardsville, Illinois",Edwardsville,WSIE,88.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Illinois,"Elgin, Illinois",Elgin,WEPS,88.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -346,9 +346,9 @@ Maryland,"Salisbury, Maryland",Salisbury,WSCL,89.5,FM,Wikipedia,https://en.wikip
 Maryland,"Towson, Maryland",Towson,WTMD,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Maryland,"Worton, Maryland",Worton,WKHS,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Massachusetts,"Amherst, Massachusetts",Amherst,WFCR,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Massachusetts,Boston,,WBUR,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Massachusetts,Boston,WGBH,WGBH,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Massachusetts,Boston,,WUMB,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,Boston,Boston,WBUR,90.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,Boston,Boston,WGBH,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Massachusetts,Boston,Boston,WUMB,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Massachusetts,"Brewster, Massachusetts",Brewster,WZAI,94.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Massachusetts,"Deerfield, Massachusetts",Deerfield,WNNZ,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Massachusetts,"Falmouth, Massachusetts",Falmouth,WFPB,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -373,7 +373,7 @@ Michigan,"Alpena, Michigan",Alpena,WCML,91.7,FM,Wikipedia,https://en.wikipedia.o
 Michigan,"Ann Arbor, Michigan",Ann Arbor,WUOM,91.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Michigan,"Bay City, Michigan",Bay City,WUCX,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Michigan,"Berrien Springs, Michigan",Berrien Springs,WAUS,90.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Michigan,Detroit,,WDET,101.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Michigan,Detroit,Detroit,WDET,101.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Michigan,"East Lansing, Michigan",East Lansing,WKAR,870,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Michigan,"East Lansing, Michigan",East Lansing,WKAR,90.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Michigan,"Flint, Michigan",Flint,WFUM,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -700,7 +700,7 @@ Pennsylvania,"Summerdale, Pennsylvania",Summerdale,WJAZ,91.7,FM,Wikipedia,https:
 Pennsylvania,"Williamsport, Pennsylvania",Williamsport,WVYA,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Puerto Rico,"R’o Piedras, Puerto Rico",R’o Piedras,WRTU,89.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Rhode Island,"Providence, Rhode Island","Providence, northern RI, and bordering MA",WELH,88.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Rhode Island,South Coast of Massachusetts and Narragansett Bay communities,WXNI,WXNI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Rhode Island,South Coast of Massachusetts and Narragansett Bay communities,South Coast of Massachusetts and Narragansett Bay communities,WXNI,89.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Rhode Island,"Coventry, Rhode Island",Coventry and central RI,WCVY,91.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Rhode Island,"Narragansett, Rhode Island","Narragansett and southern RI, Block Island, Aquidneck Island, and parts of the East Bay",WRNI,102.7,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 South Carolina,"Aiken, South Carolina",Aiken,WLJK,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
@@ -820,8 +820,8 @@ Washington,"Omak, Washington",Omak,KQWS,90.1,FM,Wikipedia,https://en.wikipedia.o
 Washington,"Port Angeles, Washington",Port Angeles,KNWP,90.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Washington,"Pullman, Washington",Pullman,KWSU,1250,AM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Washington,"Richland, Washington",Richland,KFAE,89.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Washington,Seattle,,KEXP,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
-Washington,Seattle,,KUOW,94.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,Seattle,Seattle,KEXP,90.3,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
+Washington,Seattle,Seattle,KUOW,94.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Washington,"Spokane, Washington",Spokane,KPBX,91.1,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Washington,"Spokane, Washington",Spokane,KSFC,91.9,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
 Washington,"Seattle/Tacoma, Washington",Tacoma,KNKX,88.5,FM,Wikipedia,https://en.wikipedia.org/wiki/List_of_NPR_stations
