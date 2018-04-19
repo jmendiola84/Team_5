@@ -1,0 +1,990 @@
+Index,State,City,Wiki_name,Station Identifier,AM/FM,Channel Number,Twitter Handle,Alternate,Twitter,_merge,Empty_at_load
+702,Alaska,,Anchorage,KNBA,FM,90.3,@KNBA,@aprn,Twitter,right_only,Emptyatload
+703,Alaska,,Juneau,KRNN,FM,102.7,None,,Twitter,right_only,Emptyatload
+704,Alaska,,Juneau,KXLL,FM,100.7,None,,Twitter,right_only,Emptyatload
+705,Alaska,,Kotzebue,KOTZ,AM,720,None,,Twitter,right_only,Emptyatload
+706,Alaska,,Sand Point,KSDP,AM,830,None,,Twitter,right_only,Emptyatload
+707,Alaska,,St. Paul,KUHB,FM,91.9,None,,Twitter,right_only,Emptyatload
+708,Alaska,,Unalaska,KUCB,FM,89.7,@KUCBNews,,Twitter,right_only,Emptyatload
+709,Arizona,,Hotevilla,KUYI,FM,88.1,None,,Twitter,right_only,Emptyatload
+710,Arizona,,Tucson,KUAT,FM,90.5,None,,Twitter,right_only,Emptyatload
+711,Arizona,,Yuma,KOFA,AM,1320,None,,Twitter,right_only,Emptyatload
+712,California,,Angwin,KDFC,FM,89.9,@ClassicalKDFC,,Twitter,right_only,Emptyatload
+713,California,,Bayside,KNHM,FM,91.5,None,,Twitter,right_only,Emptyatload
+714,California,,Calexico,KQVO,FM,97.7,@kpbsnews,,Twitter,right_only,Emptyatload
+715,California,,Coachella,KVLA,FM,90.3,@kvlatv,,Twitter,right_only,Emptyatload
+716,California,,McCloud,KLDD,FM,91.9,@JPRnews,,Twitter,right_only,Emptyatload
+717,California,,Mendocino,KPMO,AM,1300,None,,Twitter,right_only,Emptyatload
+718,California,,Mojave,KCRY,FM,88.1,@kcrw,,Twitter,right_only,Emptyatload
+719,California,,Morro Bay,KESC,FM,99.7,@classicalkusc,,Twitter,right_only,Emptyatload
+720,California,,Mount Shasta,KMJC,AM,620,None,,Twitter,right_only,Emptyatload
+721,California,,North Highlands,KQEI,FM,89.3,None,,Twitter,right_only,Emptyatload
+722,California,,Quincy,KQNC,FM,88.1,@capradionews,,Twitter,right_only,Emptyatload
+723,California,,Redlands,KUOR,FM,89.1,@scpr,,Twitter,right_only,Emptyatload
+724,California,,Rio Dell,KNHT,FM,102.5,None,,Twitter,right_only,Emptyatload
+725,California,,Sacramento,KXJZ,FM,90.9,None,,Twitter,right_only,Emptyatload
+726,California,,Sacramento,KXPR,FM,88.9,@capradionews,,Twitter,right_only,Emptyatload
+727,California,,San Ardo,KNBX,FM,91.7,@kcbxfm,,Twitter,right_only,Emptyatload
+728,California,,San Diego,KSDS,FM,88.3,None,,Twitter,right_only,Emptyatload
+729,California,,San Francisco,KUSF,FM,90.3,@kusforg,,Twitter,right_only,Emptyatload
+730,California,,Santa Barbara,KDRW,FM,88.7,@kcrw,,Twitter,right_only,Emptyatload
+731,California,,Santa Barbara,KCLU,AM,1340,@kclulive,,Twitter,right_only,Emptyatload
+732,California,,Santa Barbara,KSBX,FM,89.5,@kcbxfm,,Twitter,right_only,Emptyatload
+733,California,,Shasta Lake City,KJPR,AM,1330,None,,Twitter,right_only,Emptyatload
+734,California,,Sutter,KXJS,FM,88.7,@capradionews,,Twitter,right_only,Emptyatload
+735,California,,Thousand Oaks,KDSC,FM,91.1,@classicalKUSC,,Twitter,right_only,Emptyatload
+736,California,,Yreka,KSYC,AM,1490,None,,Twitter,right_only,Emptyatload
+737,Colorado,,Carbondale,KCJX,FM,88.9,@aspenpubradio,,Twitter,right_only,Emptyatload
+738,Colorado,,Carbondale,KDNK,FM,88.1,@kdnkradio,,Twitter,right_only,Emptyatload
+739,Colorado,,Carbondale,KVOV,FM,90.5,None,,Twitter,right_only,Emptyatload
+740,Colorado,,Craig,KPYR,FM,88.3,None,,Twitter,right_only,Emptyatload
+741,Colorado,,Denver,KCFR,FM,90.1,@COPublicRadio,,Twitter,right_only,Emptyatload
+742,Colorado,,Denver,KVOD,FM,88.1,@COPublicRadio,,Twitter,right_only,Emptyatload
+743,Colorado,,Fort Collins,KVXQ,FM,88.3,@COPublicRadio,,Twitter,right_only,Emptyatload
+744,Colorado,,Ignacio,KUTE,FM,90.1,@ksut,,Twitter,right_only,Emptyatload
+745,Colorado,,La Junta,KECC,FM,89.1,None,,Twitter,right_only,Emptyatload
+746,Colorado,,Manitou Springs,KCME,FM,88.7,None,,Twitter,right_only,Emptyatload
+747,Colorado,,Steamboat Springs,KRNC,FM,88.5,@kunc,,Twitter,right_only,Emptyatload
+748,Connecticut,,Fairfield,WVOF,FM,88.5,@wvof885,,Twitter,right_only,Emptyatload
+749,Connecticut,,Meriden,WNPR,FM,90.5,@wnpr,,Twitter,right_only,Emptyatload
+750,Connecticut,,Middletown,WESU,FM,88.1,@WESUmiddletown,,Twitter,right_only,Emptyatload
+751,Connecticut,,Norwich,WPKT,FM,89.1,None,,Twitter,right_only,Emptyatload
+752,Connecticut,,Sharon,WHDD,AM,1020,None,,Twitter,right_only,Emptyatload
+753,Connecticut,,Sharon,WHDD,FM,91.9,None,,Twitter,right_only,Emptyatload
+754,Connecticut,,Sharon,WQQQ,FM,103.3,@wqqq,,Twitter,right_only,Emptyatload
+755,Delaware,,Dover,WDDE,FM,91.1,@wdde,,Twitter,right_only,Emptyatload
+756,Delaware,,Wilmington,WMPH,FM,91.7,None,,Twitter,right_only,Emptyatload
+757,Florida,,"Marathon/Key West, Florida",WKWM,FM,91.5,None,,Twitter,right_only,Emptyatload
+758,Florida,,Miami,WDNA,FM,88.9,@wdnaradio,,Twitter,right_only,Emptyatload
+759,Florida,,Sarasota,WSMR,FM,89.1,@wusf,,Twitter,right_only,Emptyatload
+760,Georgia,,Carrollton,WUWG,FM,90.7,None,,Twitter,right_only,Emptyatload
+761,Georgia,,Chatsworth,WNGH,FM,98.9,@gpbnews,@mygpb,Twitter,right_only,Emptyatload
+762,Georgia,,Folkston,WATY,FM,91.3,None,,Twitter,right_only,Emptyatload
+763,Georgia,,Macon,WMUM,FM,89.7,@gpbmacon,,Twitter,right_only,Emptyatload
+764,Georgia,,Rome,WGPB,FM,97.7,@gpbnews,@mygpb,Twitter,right_only,Emptyatload
+765,Georgia,,Thomasville,WFSL,FM,90.7,None,,Twitter,right_only,Emptyatload
+766,Hawaii,,Hilo,KANO,FM,89.1,None,,Twitter,right_only,Emptyatload
+767,Hawaii,,Wailuku,KIPM,FM,89.7,None,,Twitter,right_only,Emptyatload
+768,Idaho,,Burley,KBSY,FM,88.5,None,,Twitter,right_only,Emptyatload
+769,Idaho,,McCall,KBSK,FM,89.9,None,,Twitter,right_only,Emptyatload
+770,Idaho,,McCall,KBSQ,FM,90.7,None,,Twitter,right_only,Emptyatload
+771,Idaho,,Sun Valley,KBSS,FM,91.1,None,,Twitter,right_only,Emptyatload
+772,Idaho,,Sun Valley,KWRV,FM,91.9,None,,Twitter,right_only,Emptyatload
+773,Idaho,,Twin Falls,KEZJ,AM,1450,None,,Twitter,right_only,Emptyatload
+774,Illinois,,Elgin,WEPS,FM,88.9,None,,Twitter,right_only,Emptyatload
+775,Illinois,,Galesburg,WVKC,FM,90.7,@TheWVKC,,Twitter,right_only,Emptyatload
+776,Illinois,,Glen Ellyn,WDCB,FM,90.9,@WDCBnews,,Twitter,right_only,Emptyatload
+777,Illinois,,Kankakee,WBEK,FM,91.1,None,,Twitter,right_only,Emptyatload
+778,Illinois,,Morris,WBEQ,FM,90.7,None,,Twitter,right_only,Emptyatload
+779,Illinois,,Urbana,WILL,AM,90.9,@willpublicmedia,,Twitter,right_only,Emptyatload
+780,Indiana,,Chestertown,WBEW,FM,89.5,None,,Twitter,right_only,Emptyatload
+781,Indiana,,Crawfordsville,WNDY,FM,91.3,None,,Twitter,right_only,Emptyatload
+782,Indiana,,Fort Wayne,WBOI,FM,89.1,@WBOI,,Twitter,right_only,Emptyatload
+783,Indiana,,Franklin,WFCI,FM,89.5,None,,Twitter,right_only,Emptyatload
+784,Indiana,,Gary,WGVE,FM,88.7,None,,Twitter,right_only,Emptyatload
+785,Indiana,,Lowell,WLPR,FM,89.1,@WLPR891,,Twitter,right_only,Emptyatload
+786,Indiana,,Roanoke,WBNI,FM,94.1,None,,Twitter,right_only,Emptyatload
+787,Indiana,,Vincennes,WVUB,FM,91.1,@WVUB,,Twitter,right_only,Emptyatload
+788,Iowa,,Bettendorf,KNSB,FM,91.1,None,,Twitter,right_only,Emptyatload
+789,Iowa,,Carroll,KNSC,FM,90.7,None,,Twitter,right_only,Emptyatload
+790,Iowa,,Cedar Falls,KHKE,FM,89.5,None,,Twitter,right_only,Emptyatload
+791,Iowa,,Council Bluffs,KIWR,FM,89.7,None,,Twitter,right_only,Emptyatload
+792,Iowa,,Decorah,KLCD,FM,89.5,None,,Twitter,right_only,Emptyatload
+793,Iowa,,Dubuque,KNSY,FM,89.7,None,,Twitter,right_only,Emptyatload
+794,Iowa,,Fort Dodge,KNSK,FM,91.1,None,,Twitter,right_only,Emptyatload
+795,Iowa,,Lamoni,KNSL,FM,97.9,None,,Twitter,right_only,Emptyatload
+796,Iowa,,Mason City,KNSM,FM,91.5,None,,Twitter,right_only,Emptyatload
+797,Iowa,,Mitchellville,KICJ,FM,88.9,None,,Twitter,right_only,Emptyatload
+798,Iowa,,Okoboji,KOJI,FM,90.7,@kwitkoji,,Twitter,right_only,Emptyatload
+799,Iowa,,Ottumwa,KNSZ,FM,89.1,@Ottumwa_Radio,,Twitter,right_only,Emptyatload
+800,Iowa,,Ottumwa,KICW,FM,91.1,@kicwtv,,Twitter,right_only,Emptyatload
+801,Iowa,,Patterson,KICP,FM,105.9,@iowapublicradio,,Twitter,right_only,Emptyatload
+802,Iowa,,Pleasantville,KICL,FM,96.3,@iowapublicradio,,Twitter,right_only,Emptyatload
+803,Iowa,,Waterloo,KBBG,FM,88.1,@kbbgradio,,Twitter,right_only,Emptyatload
+804,Kansas,,Chanute,KANQ,FM,90.3,@kprnews,,Twitter,right_only,Emptyatload
+805,Kansas,,Hays,KZAN,FM,91.7,@hppr,,Twitter,right_only,Emptyatload
+806,Kansas,,Olsburg,KANV,FM,91.3,@kprnews,,Twitter,right_only,Emptyatload
+807,Kentucky,,Corbin,WEKF,FM,88.5,None,,Twitter,right_only,Emptyatload
+808,Kentucky,,Louisville,WUOL,FM,90.5,@wuol,,Twitter,right_only,Emptyatload
+809,Louisiana,,Alexandria,KLSA,FM,90.7,@rrrpublicradio,,Twitter,right_only,Emptyatload
+810,Louisiana,,Baton Rouge,WBRH,FM,90.3,None,,Twitter,right_only,Emptyatload
+811,Louisiana,,Baton Rouge,WRKF,FM,89.3,@wrkf,,Twitter,right_only,Emptyatload
+812,Louisiana,,Hammond,KSLU,FM,90.9,@kslutwitter,,Twitter,right_only,Emptyatload
+813,Louisiana,,Lafayette,KRVS,FM,88.7,@krvsmedia,,Twitter,right_only,Emptyatload
+814,Louisiana,,Monroe,KEDM,FM,90.3,@kedmpublicradio,,Twitter,right_only,Emptyatload
+815,Louisiana,,New Orleans,WWNO,FM,89.9,@wwno,,Twitter,right_only,Emptyatload
+816,Louisiana,,Shreveport,KDAQ,FM,89.9,@rrrpublicradio,,Twitter,right_only,Emptyatload
+817,Louisiana,,Thibodaux,KTLN,FM,90.5,None,,Twitter,right_only,Emptyatload
+818,Maine,,Camden,WMEP,FM,90.5,@mainepublic,,Twitter,right_only,Emptyatload
+819,Maryland,,Frederick,WYPF,FM,88.1,@wypf881fm,,Twitter,right_only,Emptyatload
+820,Maryland,,Hagerstown,WGMS,FM,89.1,@wetatvfm,,Twitter,right_only,Emptyatload
+821,Maryland,,Ocean City,WRAU,FM,88.3,None,,Twitter,right_only,Emptyatload
+822,Maryland,,Ocean City,WYPO,FM,106.9,None,,Twitter,right_only,Emptyatload
+823,Maryland,,Towson,WTMD,FM,89.7,@wtmd,,Twitter,right_only,Emptyatload
+824,Massachusetts,,Brewster,WZAI,FM,94.3,@wcai_npr,,Twitter,right_only,Emptyatload
+825,Massachusetts,,Deerfield,WNNZ,FM,91.7,@wfcr885,,Twitter,right_only,Emptyatload
+826,Massachusetts,,Lowell,WCRB,FM,99.5,@995wcrb,,Twitter,right_only,Emptyatload
+827,Massachusetts,,Nantucket,WNCK,FM,89.5,None,,Twitter,right_only,Emptyatload
+828,Massachusetts,,Newburyport,WNEF,FM,91.7,@wumbradio,,Twitter,right_only,Emptyatload
+829,Massachusetts,,Sheffield,WBSL,FM,91.7,None,,Twitter,right_only,Emptyatload
+830,Massachusetts,,Springfield,WAIC,FM,91.9,None,,Twitter,right_only,Emptyatload
+831,Massachusetts,,Stow,WUMG,FM,91.7,@wumbradio,,Twitter,right_only,Emptyatload
+832,Massachusetts,,West Yarmouth,WBAS,AM,1240,None,,Twitter,right_only,Emptyatload
+833,Massachusetts,,Westfield,WNNZ,AM,640,@wfcr885,,Twitter,right_only,Emptyatload
+834,Michigan,,Berrien Springs,WAUS,FM,90.7,@wausfm,,Twitter,right_only,Emptyatload
+835,Michigan,,Harbor Springs,WHBP,FM,90.1,None,,Twitter,right_only,Emptyatload
+836,Michigan,,Houghton,WGGL,FM,91.1,@mprnews,,Twitter,right_only,Emptyatload
+837,Michigan,,Mackinaw City,WIAB,FM,88.5,@IPRNewsRadio,,Twitter,right_only,Emptyatload
+838,Michigan,,Manistee,WLMN,FM,89.7,@IPRNewsRadio,,Twitter,right_only,Emptyatload
+839,Minnesota,,Appleton,KRSU,FM,91.3,@rsuradio,,Twitter,right_only,Emptyatload
+840,Minnesota,,Austin,KNSE,FM,90.1,@mpr,,Twitter,right_only,Emptyatload
+841,Minnesota,,Bemidji,KCRB,FM,88.5,@mpr,,Twitter,right_only,Emptyatload
+842,Minnesota,,Brainerd,KBPN,FM,88.3,@mpr,,Twitter,right_only,Emptyatload
+843,Minnesota,,St. Cloud,KSJR,FM,90.1,@mpr,,Twitter,right_only,Emptyatload
+844,Minnesota,,Duluth,KUMD,FM,103.3,@kumd1033fm,,Twitter,right_only,Emptyatload
+845,Minnesota,,Duluth,WSCD,FM,92.9,@mpr,,Twitter,right_only,Emptyatload
+846,Minnesota,,Fergus Falls,KCMF,FM,89.7,@mpr,,Twitter,right_only,Emptyatload
+847,Minnesota,,Fergus Falls,KNWF,FM,91.5,@mpr,,Twitter,right_only,Emptyatload
+848,Minnesota,,Grand Marais,WLSN,FM,89.7,None,,Twitter,right_only,Emptyatload
+849,Minnesota,,Grand Marais,WMLS,FM,88.7,@classicalmpr,,Twitter,right_only,Emptyatload
+850,Minnesota,,Grand Marais,WTIP,FM,90.7,@wtipradio,,Twitter,right_only,Emptyatload
+851,Minnesota,,Grand Portage,WGPO,FM,90.1,@wtipradio,,Twitter,right_only,Emptyatload
+852,Minnesota,,Hinckley,WGRH,FM,88.5,@mpr,,Twitter,right_only,Emptyatload
+853,Minnesota,,International Falls,KITF,FM,88.3,@mpr,,Twitter,right_only,Emptyatload
+854,Minnesota,,Mankato,KMSU,FM,89.7,@kmsutwitter,,Twitter,right_only,Emptyatload
+855,Minnesota,,Minneapolis,KBEM,FM,88.5,@kbemfm,,Twitter,right_only,Emptyatload
+856,Minnesota,,Minneapolis,KFAI,FM,90.3,@kfainews,,Twitter,right_only,Emptyatload
+857,Minnesota,,Moorhead,KCCM,FM,91.1,@mpr,,Twitter,right_only,Emptyatload
+858,Minnesota,,"St. Paul Minneapolis, Minnesota",KCMP,FM,89.3,@kcmpnews,,Twitter,right_only,Emptyatload
+859,Minnesota,,Redwood Falls,KRFI,FM,88.1,@mpr,,Twitter,right_only,Emptyatload
+860,Minnesota,,Rochester,KLSE,FM,90.7,@mpr,,Twitter,right_only,Emptyatload
+861,Minnesota,,Rochester,KZSE,FM,91.7,@mpr,,Twitter,right_only,Emptyatload
+862,Minnesota,,Roseau,KRXW,FM,103.5,None,,Twitter,right_only,Emptyatload
+863,Minnesota,,Minneapolis,KSJN,FM,99.5,@mpr,,Twitter,right_only,Emptyatload
+864,Minnesota,,Mankato,KGAC,FM,90.5,@mpr,,Twitter,right_only,Emptyatload
+865,Minnesota,,Thief River Falls,KQMN,FM,91.5,@mpr,,Twitter,right_only,Emptyatload
+866,Minnesota,,Hibbing,WIRR,FM,90.9,@mpr,,Twitter,right_only,Emptyatload
+867,Minnesota,,Marshall,KRSW,FM,89.3,None,,Twitter,right_only,Emptyatload
+332,Mississippi,Booneville,Booneville,WMAE,FM,89.5,@mpbonline,,Twitter,both,Emptyatload
+333,Mississippi,Bude,Bude,WMAU,FM,88.9,@mpbonline,,Twitter,both,Emptyatload
+334,Mississippi,Greenwood,Greenwood,WMAO,FM,90.9,None,,Twitter,both,Emptyatload
+335,Mississippi,Holly Springs,Holly Springs,WURC,FM,88.1,@wurc881,,Twitter,both,Emptyatload
+336,Mississippi,Jackson,Jackson,WJSU,FM,88.5,@wjsu885,,Twitter,both,Emptyatload
+340,Mississippi,Mississippi State,Mississippi State,WMAB,FM,89.9,@mpbonline,,Twitter,both,Emptyatload
+342,Mississippi,Senatobia,,WKNA,FM,88.9,None,,Twitter,left_only,Emptyatload
+868,Mississippi,,Starkville,WMSV,FM,91.1,@msuradio_wmsv,,Twitter,right_only,Emptyatload
+343,Missouri,Branson,Branson,KSMS,FM,90.5,@ksmu,,Twitter,both,Emptyatload
+345,Missouri,Chillicothe,Chillicothe,KRNW,FM,88.9,@kxcvkrnw,,Twitter,both,Emptyatload
+351,Missouri,Springfield,Springfield,KSMU,FM,91.1,@ksmu,,Twitter,both,Emptyatload
+352,Missouri,St. Louis,St. Louis,KWMU,FM,90.7,@stlpublicradio,,Twitter,both,Emptyatload
+353,Missouri,Warrensburg,Warrensburg,KTBG,FM,90.9,@909thebridge,,Twitter,both,Emptyatload
+350,Missouri,Rolla,,KUMR,FM,88.5,None,,Twitter,left_only,Emptyatload
+869,Missouri,,Rolla,KMST,FM,88.5,@stlpublicradio,,Twitter,right_only,Emptyatload
+870,Missouri,,Sainte Genevieve,KSEF,FM,88.9,None,,Twitter,right_only,Emptyatload
+871,Missouri,,West Plains,KSMW,FM,90.9,@ksmu,,Twitter,right_only,Emptyatload
+872,Montana,,Bozeman,KGLT,FM,91.9,@kgltfm,,Twitter,right_only,Emptyatload
+873,Montana,,Helena Valley SE,KYPX,FM,106.5,None,,Twitter,right_only,Emptyatload
+874,Montana,,Miles City,KYPR,FM,90.7,None,,Twitter,right_only,Emptyatload
+373,Nebraska,North Platte,North Platte,KPNE,FM,91.7,None,,Twitter,both,Emptyatload
+374,Nebraska,Omaha,Omaha,KIOS,FM,91.5,@kiosomaha,,Twitter,both,Emptyatload
+875,Nebraska,,Lincoln,KZUM,FM,89.3,@kzumradio,,Twitter,right_only,Emptyatload
+375,Nevada,Elko,Elko,KNCC,FM,91.5,@renopublicradio,,Twitter,both,Emptyatload
+377,Nevada,Las Vegas,Las Vegas,KUNV,FM,91.5,@kunvradio,,Twitter,both,Emptyatload
+378,Nevada,Las Vegas,Lund,KWPR,FM,88.7,None,,Twitter,both,Emptyatload
+379,Nevada,Panaca,Panaca,KLNR,FM,91.7,None,,Twitter,both,Emptyatload
+380,Nevada,Reno,Reno,KUNR,FM,88.7,@renopublicradio,,Twitter,both,Emptyatload
+381,Nevada,Tonopah,Tonopah,KTPH,FM,91.7,None,,Twitter,both,Emptyatload
+376,Nevada,Las Vegas,,KNPR,FM,89.5,@knprnews,,Twitter,left_only,Emptyatload
+876,Nevada,,Jackpot,KBSJ,FM,91.3,None,,Twitter,right_only,Emptyatload
+877,Nevada,,Las Vegas,KCNV,FM,89.7,@knprnews,,Twitter,right_only,Emptyatload
+878,Nevada,,Las Vegas,KNPR,FM,88.9,@knprnews,,Twitter,right_only,Emptyatload
+879,Nevada,,Reno,KVNV,FM,89.1,None,,Twitter,right_only,Emptyatload
+382,New Hampshire,Concord,Concord,WEVO,FM,89.1,@nhpr,,Twitter,both,Emptyatload
+383,New Hampshire,Gorham,Gorham,WEVC,FM,107.1,None,,Twitter,both,Emptyatload
+384,New Hampshire,Hanover,Hanover,WEVH,FM,91.3,None,,Twitter,both,Emptyatload
+385,New Hampshire,Keene,Keene,WEVN,FM,90.7,@nhpr,,Twitter,both,Emptyatload
+880,New Hampshire,,Jackson,WEVJ,FM,99.5,@nhpr,,Twitter,right_only,Emptyatload
+881,New Hampshire,,Nashua,WEVS,FM,88.3,None,,Twitter,right_only,Emptyatload
+386,New Jersey,Atlantic City,Atlantic City,WNJN,FM,89.7,@njtvnews,,Twitter,both,Emptyatload
+387,New Jersey,Berlin,Berlin,WNJS,FM,88.1,None,,Twitter,both,Emptyatload
+388,New Jersey,Bridgeton,Bridgeton,WNJB,FM,89.3,None,,Twitter,both,Emptyatload
+389,New Jersey,Cape May,Cape May,WNJZ,FM,90.3,None,,Twitter,both,Emptyatload
+391,New Jersey,Lincroft,Lincroft,WBJB,FM,90.5,@wbjb,,Twitter,both,Emptyatload
+392,New Jersey,Manahawkin,Manahawkin,WNJM,FM,89.9,None,,Twitter,both,Emptyatload
+393,New Jersey,Newark,Newark,WBGO,FM,88.3,@wbgo,,Twitter,both,Emptyatload
+395,New Jersey,Sussex,Sussex,WNJP,FM,88.5,None,,Twitter,both,Emptyatload
+396,New Jersey,Trenton,Trenton,WNJT,FM,88.1,None,,Twitter,both,Emptyatload
+390,New Jersey,Hackettstown,,WNTI,FM,91.9,@centenary_nj,,Twitter,left_only,Emptyatload
+394,New Jersey,Atlantic City,,WRTQ,FM,91.3,@wrtimusic,,Twitter,left_only,Emptyatload
+882,New Jersey,,Hackettstown,WXPJ,FM,91.9,None,,Twitter,right_only,Emptyatload
+883,New Jersey,,"Ocean City/Atlantic City, New Jersey",WNJN,FM,91.3,None,,Twitter,right_only,Emptyatload
+397,New Mexico,Albuquerque,Albuquerque,KANW,FM,89.1,@kanwfm,,Twitter,both,Emptyatload
+398,New Mexico,Albuquerque,Albuquerque,KUNM,FM,89.9,@kunmnews,,Twitter,both,Emptyatload
+399,New Mexico,Gallup,Gallup,KGLP,FM,91.7,@KGLPradio,,Twitter,both,Emptyatload
+400,New Mexico,Las Cruces,Las Cruces,KRWG,FM,90.7,@krwg,,Twitter,both,Emptyatload
+402,New Mexico,Maljamar,Maljamar,KMTH,FM,98.7,@KENWpublicmedia,,Twitter,both,Emptyatload
+403,New Mexico,Portales,Portales,KENW,FM,89.5,@KENWpublicmedia,,Twitter,both,Emptyatload
+404,New Mexico,Ramah,Ramah,KTDB,FM,89.7,None,,Twitter,both,Emptyatload
+401,New Mexico,Magdalena,,KABR,AM,1500,@kabrradio,,Twitter,left_only,Emptyatload
+884,New Mexico,,Dulce,KCIE,FM,90.5,None,,Twitter,right_only,Emptyatload
+885,New Mexico,,Magdalena,KOAZ,AM,1500,None,,Twitter,right_only,Emptyatload
+886,New Mexico,,Santa Rosa,KANR,FM,91.9,None,,Twitter,right_only,Emptyatload
+405,New York,Albany,Albany,WAMC,FM,90.3,@WAMCradio,,Twitter,both,Emptyatload
+406,New York,Binghamton,Binghamton,WSKG,FM,89.3,@WSKG,,Twitter,both,Emptyatload
+407,New York,Binghamton,Binghamton,WSQX,FM,91.5,@WSKG,,Twitter,both,Emptyatload
+408,New York,Blue Mountain Lake,Blue Mtn. Lake,WXLH,FM,91.3,None,,Twitter,both,Emptyatload
+409,New York,Brooklyn,Brooklyn,WNYE,FM,91.5,None,,Twitter,both,Emptyatload
+410,New York,Brookville,Brookville,WCWP,FM,88.1,@wcwpsports,,Twitter,both,Emptyatload
+411,New York,Buffalo,Buffalo,WBFO,FM,88.7,@wbfo,,Twitter,both,Emptyatload
+414,New York,Canajoharie,Canajoharie,WCAN,FM,93.3,None,,Twitter,both,Emptyatload
+415,New York,Canton,Canton,WSLU,FM,89.5,@ncpr,,Twitter,both,Emptyatload
+416,New York,Corning,Corning,WSQE,FM,91.1,None,,Twitter,both,Emptyatload
+418,New York,Hornell,Hornell,WSQA,FM,88.7,None,,Twitter,both,Emptyatload
+420,New York,Ithaca,Ithaca,WSQG,FM,90.9,@wskg,,Twitter,both,Emptyatload
+421,New York,Jamestown,Jamestown,WUBJ,FM,88.1,@wbfo,,Twitter,both,Emptyatload
+422,New York,Jeffersonville,Jeffersonville,WJFF,FM,90.5,@wjffradio,,Twitter,both,Emptyatload
+423,New York,Kingston,Kingston,WAMK,FM,90.9,None,,Twitter,both,Emptyatload
+424,New York,Malone,Malone,WSLO,FM,90.9,None,,Twitter,both,Emptyatload
+425,New York,Middletown,Middletown,WOSR,FM,91.7,None,,Twitter,both,Emptyatload
+426,New York,New York City,New York City,WFUV,FM,90.7,@wfuv,,Twitter,both,Emptyatload
+427,New York,New York City,New York City,WNYC,AM,820,@wnyc,,Twitter,both,Emptyatload
+428,New York,New York City,New York City,WNYC,FM,93.9,@wnyc,,Twitter,both,Emptyatload
+429,New York,North Creek,North Creek,WXLG,FM,89.9,None,,Twitter,both,Emptyatload
+430,New York,Olean,Olean,WOLN,FM,91.3,@wbfo,,Twitter,both,Emptyatload
+431,New York,Oneonta,Oneonta,WSQC,FM,91.7,None,,Twitter,both,Emptyatload
+432,New York,Oswego,Oswego,WRVO,FM,89.9,@WRVO,,Twitter,both,Emptyatload
+433,New York,Oswego,Oswego,WRVD,FM,90.3,None,,Twitter,both,Emptyatload
+435,New York,Plattsburgh,Plattsburgh,WCEL,FM,91.9,@WMACradio,,Twitter,both,Emptyatload
+436,New York,Poughkeepsie,Poughkeepsie,WRHV,FM,88.7,@wwfmclassical,,Twitter,both,Emptyatload
+437,New York,Rochester,Rochester,WXXI,AM,1370,@WXXInews,,Twitter,both,Emptyatload
+438,New York,Rochester,Rochester,WXXI,FM,91.5,@WXXInews,,Twitter,both,Emptyatload
+439,New York,Saranac Lake,Saranac Lake,WSLL,FM,90.5,@ncpr,,Twitter,both,Emptyatload
+440,New York,Schenectady,Schenectady,WMHT,FM,89.1,@wmhtpubmedia,,Twitter,both,Emptyatload
+441,New York,Selden,Selden,WSUF,FM,89.9,@wshunews,,Twitter,both,Emptyatload
+443,New York,Southampton,Southampton,WRLI,FM,91.3,None,,Twitter,both,Emptyatload
+444,New York,Syracuse,Syracuse,WAER,FM,88.3,@waer883,,Twitter,both,Emptyatload
+445,New York,Syracuse,Syracuse,WCNY,FM,91.3,@wcny,,Twitter,both,Emptyatload
+446,New York,Ticonderoga,Ticonderoga,WANC,FM,103.9,None,,Twitter,both,Emptyatload
+447,New York,Utica,Utica,WRVN,FM,91.9,None,,Twitter,both,Emptyatload
+448,New York,Utica,Utica,WUNY,FM,89.5,@wcny,,Twitter,both,Emptyatload
+449,New York,Watertown,Watertown,WJNY,FM,90.9,None,,Twitter,both,Emptyatload
+450,New York,Watertown,Watertown,WRVJ,FM,91.7,None,,Twitter,both,Emptyatload
+451,New York,Watertown,Watertown,WSLJ,FM,88.9,None,,Twitter,both,Emptyatload
+412,New York,Buffalo,,WNED,AM,970,@wned,,Twitter,left_only,Emptyatload
+413,New York,Buffalo,,WNED,FM,89.3,@wned,,Twitter,left_only,Emptyatload
+417,New York,Geneva,,WEOS,FM,89.7,@WEOSmorning,,Twitter,left_only,Emptyatload
+419,New York,Houghton,,WJSL,FM,90.3,None,,Twitter,left_only,Emptyatload
+434,New York,Peru,,WXLU,FM,88.3,None,,Twitter,left_only,Emptyatload
+442,New York,Southampton,,WLIU,FM,88.3,@WLIU_BK,,Twitter,left_only,Emptyatload
+887,New York,,Albany,WAMC,AM,1400,None,,Twitter,right_only,Emptyatload
+888,New York,,Boonville,WXLB,FM,91.7,@ncpr,,Twitter,right_only,Emptyatload
+889,New York,,Buffalo,WNED,FM,94.5,@wned,@wnedtv,Twitter,right_only,Emptyatload
+890,New York,,Cape Vincent,WSLZ,FM,88.1,None,,Twitter,right_only,Emptyatload
+891,New York,,Fredonia,WCVF,FM,91.3,@fredoniaradio,,Twitter,right_only,Emptyatload
+892,New York,,Geneva,WEOS,FM,89.5,@WEOSmorning,,Twitter,right_only,Emptyatload
+893,New York,,Gouverneur,WXLB,FM,90.5,@ncpr,,Twitter,right_only,Emptyatload
+894,New York,,Hamilton,WRCU,FM,90.1,@wrcucolgate,,Twitter,right_only,Emptyatload
+895,New York,,Houghton,WXXY,FM,90.3,@WXXIrochester,,Twitter,right_only,Emptyatload
+896,New York,,Jamestown,WNJA,FM,89.7,@wned,,Twitter,right_only,Emptyatload
+897,New York,,Lake Placid,WXLL,FM,91.7,None,,Twitter,right_only,Emptyatload
+898,New York,,Peru,WXLU,FM,88.1,@ncpr,,Twitter,right_only,Emptyatload
+899,New York,,Rochester,WRUR,FM,88.5,@wrurfm,,Twitter,right_only,Emptyatload
+900,New York,,Southampton,WPPB,FM,88.3,@wppb,,Twitter,right_only,Emptyatload
+901,New York,,Tupper Lake,WXLS,FM,88.3,@ncpr,,Twitter,right_only,Emptyatload
+452,North Carolina,Asheville,Asheville,WCQS,FM,88.1,@news_bpr,,Twitter,both,Emptyatload
+453,North Carolina,Atlantic Beach,Atlantic Beach,WBJD,FM,91.5,@publicradioeast,,Twitter,both,Emptyatload
+454,North Carolina,Buxton,Buxton,WBUX,FM,90.5,None,,Twitter,both,Emptyatload
+455,North Carolina,Chapel Hill,Chapel Hill,WUNC,FM,91.5,@wunc,,Twitter,both,Emptyatload
+456,North Carolina,Charlotte,Charlotte,WFAE,FM,90.7,@wfae,,Twitter,both,Emptyatload
+457,North Carolina,Davidson,Davidson,WDAV,FM,89.9,@wdav,,Twitter,both,Emptyatload
+458,North Carolina,Durham,Durham,WNCU,FM,90.7,@wncu,,Twitter,both,Emptyatload
+459,North Carolina,Fayetteville,Fayetteville,WFSS,FM,91.9,@wunc,,Twitter,both,Emptyatload
+460,North Carolina,Franklin,Franklin,WFQS,FM,91.3,@news_bpr,,Twitter,both,Emptyatload
+461,North Carolina,Hickory,Hickory,WFHE,FM,90.3,None,,Twitter,both,Emptyatload
+463,North Carolina,Manteo,Manteo,WURI,FM,91.5,None,,Twitter,both,Emptyatload
+464,North Carolina,New Bern,New Bern,WTEB,FM,89.3,@publicradioeast,,Twitter,both,Emptyatload
+467,North Carolina,Spindale,Spindale,WNCW,FM,88.7,@wncw,,Twitter,both,Emptyatload
+468,North Carolina,Wilmington,Wilmington,WHQR,FM,91.3,@whqr,,Twitter,both,Emptyatload
+469,North Carolina,Winston-Salem,Winston-Salem,WFDD,FM,88.5,@wfdd,,Twitter,both,Emptyatload
+462,North Carolina,Kingston,,WKNS,FM,90.5,@publicradioeast,,Twitter,left_only,Emptyatload
+465,North Carolina,Roanoke Rapids,,WZRU,FM,88.5,None,,Twitter,left_only,Emptyatload
+466,North Carolina,Rocky Mount,,WRQM,FM,90,@wunc,,Twitter,left_only,Emptyatload
+902,North Carolina,,Elizabeth City,WRVS,FM,89.9,@wrvs899,,Twitter,right_only,Emptyatload
+903,North Carolina,,Kinston,WKNS,FM,90.3,@publicradioeast,,Twitter,right_only,Emptyatload
+904,North Carolina,,Manteo,WUND,FM,88.9,@wunc,,Twitter,right_only,Emptyatload
+905,North Carolina,,New Bern,WZNB,FM,88.5,@publicradioeast,,Twitter,right_only,Emptyatload
+906,North Carolina,,Raleigh,WSHA,FM,88.9,@889fmwsha,,Twitter,right_only,Emptyatload
+907,North Carolina,,Raleigh,WCPE,FM,89.7,@wcpe,,Twitter,right_only,Emptyatload
+908,North Carolina,,Rocky Mount,WRQM,FM,90.9,@wunc,,Twitter,right_only,Emptyatload
+909,North Carolina,,Winston-Salem,WSNC,FM,90.5,@wsncradio,,Twitter,right_only,Emptyatload
+470,North Dakota,Belcourt,Belcourt,KEYA,FM,88.5,@KEYApublicradio,,Twitter,both,Emptyatload
+471,North Dakota,Bismarck,Bismarck,KCND,FM,90.5,@prairiepublic,,Twitter,both,Emptyatload
+472,North Dakota,Dickinson,Dickinson,KDPR,FM,89.9,@KDPRknows,,Twitter,both,Emptyatload
+473,North Dakota,Fargo,Fargo,KDSU,FM,91.9,@prairiepublic,,Twitter,both,Emptyatload
+474,North Dakota,Grand Forks,Grand Forks,KUND,FM,89.3,@prairiepublic,,Twitter,both,Emptyatload
+475,North Dakota,Jamestown,Jamestown,KPRJ,FM,91.5,@prairiepublic,,Twitter,both,Emptyatload
+476,North Dakota,Minot,Minot,KMPR,FM,88.9,None,,Twitter,both,Emptyatload
+477,North Dakota,Williston,Williston,KPPR,FM,89.5,@prairiepublic,,Twitter,both,Emptyatload
+910,North Dakota,,Grand Forks,KFJM,FM,90.7,None,,Twitter,right_only,Emptyatload
+478,Ohio,Athens,Athens,WOUB,AM,1340,@woub,,Twitter,both,Emptyatload
+479,Ohio,Athens,Athens,WOUB,FM,91.3,@woub,,Twitter,both,Emptyatload
+480,Ohio,Bryan,Bryan,WGBE,FM,90.9,None,,Twitter,both,Emptyatload
+482,Ohio,Chillicothe,Chillicothe,WOUH,FM,91.9,None,,Twitter,both,Emptyatload
+489,Ohio,Coshocton,Coshocton,WOSE,FM,91.1,None,,Twitter,both,Emptyatload
+490,Ohio,Dayton,Dayton,WDPR,FM,88.1,@discoverdpr,,Twitter,both,Emptyatload
+491,Ohio,Defiance,Defiance,WGDE,FM,91.9,None,,Twitter,both,Emptyatload
+492,Ohio,Ironton,Ironton,WOUL,FM,89.1,@woub,,Twitter,both,Emptyatload
+494,Ohio,Lima,Lima,WGLE,FM,90.7,None,,Twitter,both,Emptyatload
+495,Ohio,Mansfield,Mansfield,WOSV,FM,91.7,@wosu,,Twitter,both,Emptyatload
+496,Ohio,Marion,Marion,WOSB,FM,91.1,None,,Twitter,both,Emptyatload
+498,Ohio,New Philadelphia,New Philadelphia,WKRJ,FM,91.5,None,,Twitter,both,Emptyatload
+499,Ohio,Oxford,Oxford,WMUB,FM,88.5,@917wvxu,,Twitter,both,Emptyatload
+500,Ohio,Portsmouth,Portsmouth,WOSP,FM,91.5,None,,Twitter,both,Emptyatload
+502,Ohio,Toledo,Toledo,WGTE,FM,91.3,@wtgepublic,,Twitter,both,Emptyatload
+504,Ohio,Wooster,Wooster,WKRW,FM,89.3,@wksu,,Twitter,both,Emptyatload
+507,Ohio,Zanesville,Zanesville,WOUZ,FM,90.1,None,,Twitter,both,Emptyatload
+483,Ohio,Chillicothe,,WVXC,FM,89.3,None,,Twitter,left_only,Emptyatload
+497,Ohio,Mt. Gilead,,WVXG,FM,95.1,@951rocks,,Twitter,left_only,Emptyatload
+501,Ohio,Thompson,,WSKV,FM,89.1,@wskv,,Twitter,left_only,Emptyatload
+503,Ohio,West Union,,WVXW,FM,89.5,None,,Twitter,left_only,Emptyatload
+911,Ohio,,Columbus,WOSA,FM,101.1,None,,Twitter,right_only,Emptyatload
+912,Ohio,,Columbus,WOSU,FM,89.7,@wosu,,Twitter,right_only,Emptyatload
+913,Ohio,,Norwalk,WNRK,FM,90.7,None,,Twitter,right_only,Emptyatload
+914,Ohio,,Thompson,WKSV,FM,89.1,None,,Twitter,right_only,Emptyatload
+915,Ohio,,Wilberforce,WCSU,FM,88.9,None,,Twitter,right_only,Emptyatload
+508,Oklahoma,Ardmore,Ardmore,KLCU,FM,90.3,None,,Twitter,both,Emptyatload
+511,Oklahoma,Oklahoma City,Oklahoma City,KROU,FM,105.7,None,,Twitter,both,Emptyatload
+916,Oklahoma,,Ada,KOUA,FM,91.9,None,,Twitter,right_only,Emptyatload
+917,Oklahoma,,Altus,KOCU,FM,90.1,@kucofm,,Twitter,right_only,Emptyatload
+918,Oklahoma,,Clinton,KQOU,FM,89.1,None,,Twitter,right_only,Emptyatload
+919,Oklahoma,,Ketchum,KOSN,FM,107.5,@kosuradio,,Twitter,right_only,Emptyatload
+920,Oklahoma,,Tulsa,KWTU,FM,88.7,@kwgsnews,,Twitter,right_only,Emptyatload
+921,Oklahoma,,Woodward,KWOU,FM,88.1,@kwouonline,,Twitter,right_only,Emptyatload
+514,Oregon,Ashland,Ashland,KAGI,AM,930,@jprnews,,Twitter,both,Emptyatload
+515,Oregon,Ashland,Ashland,KSJK,AM,1230,@jprnews,,Twitter,both,Emptyatload
+516,Oregon,Ashland,Ashland,KSMF,FM,89.1,@jprnews,,Twitter,both,Emptyatload
+517,Oregon,Ashland,Ashland,KSRG,FM,88.3,@jprnews,,Twitter,both,Emptyatload
+518,Oregon,Ashland,Ashland,KSOR,FM,90.1,@jprnews,,Twitter,both,Emptyatload
+519,Oregon,Astoria,Astoria,KMUN,FM,91.9,@coastradio,,Twitter,both,Emptyatload
+520,Oregon,Bend,Bend,KOAB,FM,91.3,@opb,,Twitter,both,Emptyatload
+521,Oregon,Coos Bay,Coos Bay,KSBA,FM,88.5,@ksbanews,,Twitter,both,Emptyatload
+522,Oregon,Corvallis,Corvallis,KOAC,AM,550,@opb,,Twitter,both,Emptyatload
+524,Oregon,Eugene,Eugene,KRVM,AM,1280,@91krvm,,Twitter,both,Emptyatload
+525,Oregon,Florence,Florence,KLFO,FM,88.1,@klcceugeneor,,Twitter,both,Emptyatload
+527,Oregon,Klamath Falls,Klamath Falls,KSKF,FM,90.9,@jprnews,,Twitter,both,Emptyatload
+528,Oregon,Newport,Newport,KLCO,FM,90.5,@klcceugeneor,,Twitter,both,Emptyatload
+529,Oregon,Pendleton,Pendleton,KRBM,FM,90.9,None,,Twitter,both,Emptyatload
+530,Oregon,Portland,Portland,KOPB,FM,91.5,@opb,,Twitter,both,Emptyatload
+531,Oregon,Reedsport,Reedsport,KLFR,FM,89.1,None,,Twitter,both,Emptyatload
+532,Oregon,Roseburg,Roseburg,KSRS,FM,91.5,None,,Twitter,both,Emptyatload
+922,Oregon,,Eugene,KOPB,AM,1600,@opb,,Twitter,right_only,Emptyatload
+923,Oregon,,Klamath Falls,KLMF,FM,88.5,@jprnews,,Twitter,right_only,Emptyatload
+924,Oregon,,Myrtle Point,KOOZ,FM,94.1,None,,Twitter,right_only,Emptyatload
+925,Oregon,,Roseburg,KTBR,AM,950,@jprnews,,Twitter,right_only,Emptyatload
+926,Oregon,,Roseburg,KMPQ,FM,88.1,None,,Twitter,right_only,Emptyatload
+927,Oregon,,Tillamook,KTCB,FM,89.5,@coastradio,,Twitter,right_only,Emptyatload
+928,Oregon,,Warrenton,KCPB,FM,90.9,@coastradio,,Twitter,right_only,Emptyatload
+536,Pennsylvania,Harrisburg,Summerdale,WJAZ,FM,91.7,None,,Twitter,both,Emptyatload
+541,Pennsylvania,Mt. Pocono,Mt. Pocono,WRTY,FM,91.1,None,,Twitter,both,Emptyatload
+537,Pennsylvania,Harrisburg,,WXPH,FM,88.1,None,,Twitter,left_only,Emptyatload
+538,Pennsylvania,Huntingdon,,WKVR,FM,92.3,None,,Twitter,left_only,Emptyatload
+540,Pennsylvania,Kane,,WPSB,FM,90.1,None,,Twitter,left_only,Emptyatload
+929,Pennsylvania,,Kane,WPSX,FM,90.1,@wpsu,,Twitter,right_only,Emptyatload
+930,Pennsylvania,,Middletown,WXPH,FM,88.7,@wxpnfm,,Twitter,right_only,Emptyatload
+931,Pennsylvania,,Pittsburgh,WESA,FM,90.5,@905wesa,,Twitter,right_only,Emptyatload
+932,Pennsylvania,,Williamsport,WVYA,FM,89.7,@wviatvfm,,Twitter,right_only,Emptyatload
+552,Rhode Island,North Providence,,WRNI,AM,1290,@ripr,,Twitter,left_only,Emptyatload
+553,Rhode Island,Westerly,,WXNI,AM,1230,@ripr,,Twitter,left_only,Emptyatload
+933,Rhode Island,,"Providence, northern RI, and bordering MA",WELH,FM,88.1,None,,Twitter,right_only,Emptyatload
+934,Rhode Island,,South Coast of Massachusetts and Narragansett Bay communities,WXNI,FM,89.3,@ripr,,Twitter,right_only,Emptyatload
+935,Rhode Island,,Coventry and central RI,WCVY,FM,91.5,@wcvy915,,Twitter,right_only,Emptyatload
+936,Rhode Island,,"Narragansett and southern RI, Block Island, Aquidneck Island, and parts of the East Bay",WRNI,FM,102.7,@wrni,,Twitter,right_only,Emptyatload
+562,South Carolina,Sumter,Sumter,WRJA,FM,88.1,@scetv,,Twitter,both,Emptyatload
+563,South Dakota,Brookings,Brookings,KESD,FM,88.3,None,,Twitter,both,Emptyatload
+564,South Dakota,Faith,Faith,KPSD,FM,97.1,None,,Twitter,both,Emptyatload
+565,South Dakota,Lowry,Lowry,KQSD,FM,91.9,@SoDakPB,,Twitter,both,Emptyatload
+566,South Dakota,Martin,Martin,KZSD,FM,102.5,None,,Twitter,both,Emptyatload
+567,South Dakota,Pierpont,Watertown,KDSD,FM,90.9,None,,Twitter,both,Emptyatload
+568,South Dakota,Rapid City,Rapid City,KBHE,FM,89.3,@SoDakPB,,Twitter,both,Emptyatload
+569,South Dakota,Reliance,Pierre,KTSD,FM,91.1,None,,Twitter,both,Emptyatload
+570,South Dakota,Sioux Falls,Sioux Falls,KCSD,FM,90.9,@SoDakPB,,Twitter,both,Emptyatload
+571,South Dakota,Vermillion,Vermillion,KUSD,FM,89.7,@SoDakPB,,Twitter,both,Emptyatload
+937,South Dakota,,Sioux Falls,KRSD,FM,88.1,@mpr,,Twitter,right_only,Emptyatload
+573,Tennessee,Cookeville,Cookeville,WHRS,FM,91.7,@WPLN,,Twitter,both,Emptyatload
+574,Tennessee,Dyersberg,Dyersburg,WKNQ,FM,90.7,None,,Twitter,both,Emptyatload
+575,Tennessee,Jackson,Jackson,WKNP,FM,90.1,@wknofm,,Twitter,both,Emptyatload
+938,Tennessee,,Collegedale,WSMC,FM,90.5,@wsmcfm,,Twitter,right_only,Emptyatload
+939,Tennessee,,Nashville,WFCL,FM,91.1,@WPLN,,Twitter,right_only,Emptyatload
+595,Texas,Ingram,Ingram,KTXI,FM,90.1,@tprnews,,Twitter,both,Emptyatload
+940,Texas,,Abilene,KACU,FM,89.5,@kacu895,,Twitter,right_only,Emptyatload
+941,Texas,,Amarillo,KJJP,FM,105.7,@hppr,,Twitter,right_only,Emptyatload
+942,Texas,,Bushland,KTXP,FM,91.5,None,,Twitter,right_only,Emptyatload
+943,Texas,,Commerce,KETR,FM,88.9,@ketrradio,,Twitter,right_only,Emptyatload
+944,Texas,,Dallas-Fort Worth,KKXT,FM,91.7,None,,Twitter,right_only,Emptyatload
+945,Texas,,Harlingen,KJJF,FM,88.9,@RGVpublicradio,,Twitter,right_only,Emptyatload
+946,Texas,,Houston,KTSU,FM,90.9,@officialktsu909,,Twitter,right_only,Emptyatload
+947,Texas,,Llano,KVHL,FM,91.7,@tprnews,,Twitter,right_only,Emptyatload
+948,Texas,,Lubbock,KTTZ,FM,89.1,@kttz,,Twitter,right_only,Emptyatload
+949,Texas,,Marfa,KRTS,FM,93.5,@marfaradio,,Twitter,right_only,Emptyatload
+950,Texas,,Odessa,KXWT,FM,91.3,@kxwt,,Twitter,right_only,Emptyatload
+951,Texas,,San Angelo,KNCH,FM,90.1,@kttz,,Twitter,right_only,Emptyatload
+952,Texas,,San Antonio,KPAC,FM,88.3,@tprclassical,,Twitter,right_only,Emptyatload
+953,Texas,,Sherman,KERA,FM,99.3,@keratx,,Twitter,right_only,Emptyatload
+954,Texas,,Snyder,KTPR,FM,89.9,@tprnews,,Twitter,right_only,Emptyatload
+955,Texas,,Spearman,KTOT,FM,89.5,@hppr,,Twitter,right_only,Emptyatload
+956,Texas,,Stephenville,KTRL,FM,90.5,@ktrlradio,,Twitter,right_only,Emptyatload
+957,Texas,,Tyler,KERA,FM,100.1,@keratx,,Twitter,right_only,Emptyatload
+958,Texas,,Wichita Falls,KMCU,FM,88.7,@kccuradio,,Twitter,right_only,Emptyatload
+959,Texas,,Wichita Falls,KERA,FM,88.3,@keratx,,Twitter,right_only,Emptyatload
+960,Utah,,Logan,KUSR,FM,89.5,@utahpublicradio,,Twitter,right_only,Emptyatload
+961,Utah,,Moab,KUST,FM,88.7,None,,Twitter,right_only,Emptyatload
+962,Utah,,Park City,KPCW,FM,91.7,@kpcwtwitter,,Twitter,right_only,Emptyatload
+963,Utah,,Price,KCEU,FM,89.7,@TTBook,,Twitter,right_only,Emptyatload
+964,Utah,,Richfield,KUSL,FM,89.3,@utahpublicradio,,Twitter,right_only,Emptyatload
+965,Utah,,St. George,KSGU,FM,90.3,@stgeorgechamber,,Twitter,right_only,Emptyatload
+966,Utah,,Vernal,KUSK,FM,88.5,None,,Twitter,right_only,Emptyatload
+967,Vermont,,Bristol,WXLQ,FM,90.5,@ncpr,,Twitter,right_only,Emptyatload
+968,Vermont,,Colchester,WVTX,FM,88.7,@vprnet,,Twitter,right_only,Emptyatload
+969,Vermont,,Norwich,WNCH,FM,88.1,@vprnet,,Twitter,right_only,Emptyatload
+970,Virginia,,Chase City,WMVE,FM,90.1,None,,Twitter,right_only,Emptyatload
+971,Virginia,,Ferrum,WWVT,FM,89.9,None,,Twitter,right_only,Emptyatload
+972,Virginia,,Heathsville,WCNV,FM,89.1,None,,Twitter,right_only,Emptyatload
+973,Virginia,,Hot Springs,WCHG,FM,107.1,@mtnradio,,Twitter,right_only,Emptyatload
+974,Virginia,,Monterey,WVLS,FM,89.7,@mtnradio,,Twitter,right_only,Emptyatload
+647,Washington,Walla Walla,Walla Walla,KWWS,FM,89.7,@nwptv,,Twitter,both,Emptyatload
+649,Washington,Yakima,Yakima,KNWY,FM,90.3,None,,Twitter,both,Emptyatload
+648,Washington,Yakima,,KDNA,FM,91.9,None,,Twitter,left_only,Emptyatload
+975,Washington,,Chehalis,KSWS,FM,88.9,@nwptv,,Twitter,right_only,Emptyatload
+976,Washington,,Chelan,KHNW,FM,88.3,None,,Twitter,right_only,Emptyatload
+977,Washington,,Forks,KNWU,FM,91.5,None,,Twitter,right_only,Emptyatload
+978,Washington,,Mount Vernon,KMWS,FM,90.1,None,,Twitter,right_only,Emptyatload
+979,Washington,,Tacoma,KNKX,FM,88.5,@knkxfm,,Twitter,right_only,Emptyatload
+980,Washington,,Tumwater,KUOW,AM,1340,@kuow,,Twitter,right_only,Emptyatload
+981,Washington,,Tacoma,KVTI,FM,90.9,None,,Twitter,right_only,Emptyatload
+982,Washington,,Yakima,KYVT,FM,88.5,None,,Twitter,right_only,Emptyatload
+651,West Virginia,Buckhannon,Buckhannon,WVPW,FM,88.9,None,,Twitter,both,Emptyatload
+653,West Virginia,Huntington,Huntington,WVWV,FM,89.9,None,,Twitter,both,Emptyatload
+654,West Virginia,Martinsburg,Martinsburg,WVEP,FM,88.9,@wvpublic,,Twitter,both,Emptyatload
+655,West Virginia,Morgantown,Morgantown,WVPM,FM,90.9,@wvpublic,,Twitter,both,Emptyatload
+656,West Virginia,Parkersburg,Parkersburg,WVPG,FM,90.3,None,,Twitter,both,Emptyatload
+658,West Virginia,Wheeling,Wheeling,WVNP,FM,89.9,None,,Twitter,both,Emptyatload
+650,West Virginia,Beckley,,WVPB,FM,91.7,@wvpublic,,Twitter,left_only,Emptyatload
+652,West Virginia,Charleston,,WVPN,FM,88.5,@wvpublic,,Twitter,left_only,Emptyatload
+657,West Virginia,Petersburg,,WAUA,FM,89.5,None,,Twitter,left_only,Emptyatload
+983,West Virginia,,Beckley,WVBY,FM,91.7,None,,Twitter,right_only,Emptyatload
+984,West Virginia,,Charleston,WVPB,FM,88.5,@wvpublic,,Twitter,right_only,Emptyatload
+985,West Virginia,,Frost,WVMR,AM,1370,@mtnradio,,Twitter,right_only,Emptyatload
+986,West Virginia,,Petersburg,WVDS,FM,89.5,None,,Twitter,right_only,Emptyatload
+660,Wisconsin,Auburndale,Auburndale,WLBL,AM,930,None,,Twitter,both,Emptyatload
+661,Wisconsin,Brule,Brule,WHSA,FM,89.9,@wpr,,Twitter,both,Emptyatload
+662,Wisconsin,Delafield,Delafield,WHAD,FM,90.7,@wpr,,Twitter,both,Emptyatload
+663,Wisconsin,Eau Claire,Eau Claire,WUEC,FM,89.7,@wpr,,Twitter,both,Emptyatload
+664,Wisconsin,Green Bay,Green Bay,WHID,FM,88.1,@wpr,,Twitter,both,Emptyatload
+665,Wisconsin,Green Bay,Green Bay,WPNE,FM,89.3,@wispublictv,,Twitter,both,Emptyatload
+666,Wisconsin,Hayward,Hayward,WOJB,FM,88.9,@wojb,,Twitter,both,Emptyatload
+667,Wisconsin,Highland,Highland,WHHI,FM,91.3,@wpr,,Twitter,both,Emptyatload
+668,Wisconsin,Kenosha,Kenosha,WGTD,FM,91.1,None,,Twitter,both,Emptyatload
+669,Wisconsin,La Crosse,La Crosse,WHLA,FM,90.3,None,,Twitter,both,Emptyatload
+670,Wisconsin,La Crosse,La Crosse,WLSU,FM,88.9,@wpr,,Twitter,both,Emptyatload
+671,Wisconsin,Madison,Madison,WERN,FM,88.7,@wpr,,Twitter,both,Emptyatload
+672,Wisconsin,Madison,Madison,WHA,AM,970,@wpr,,Twitter,both,Emptyatload
+673,Wisconsin,Madison,Sheboygan,WSHS,FM,91.7,@wpr,,Twitter,both,Emptyatload
+674,Wisconsin,Sheboygan,Sheboygan,WSHS,FM,91.7,@wpr,,Twitter,both,Emptyatload
+675,Wisconsin,Menomonie,Menomonie,WHWC,FM,88.3,@wpr,,Twitter,both,Emptyatload
+676,Wisconsin,Menomonie,Menomonie,WVSS,FM,90.7,@wpr,,Twitter,both,Emptyatload
+677,Wisconsin,Milwaukee,Milwaukee,WUWM,FM,89.7,@wuwmradio,,Twitter,both,Emptyatload
+678,Wisconsin,Oshkosh,Oshkosh,WRST,FM,90.3,@wrstfm,,Twitter,both,Emptyatload
+679,Wisconsin,Park Falls,Park Falls,WHBM,FM,90.3,@wpr,,Twitter,both,Emptyatload
+680,Wisconsin,Rhinelander,Rhinelander,WXPR,FM,91.7,@wxpr,,Twitter,both,Emptyatload
+681,Wisconsin,River Falls,River Falls,WRFW,FM,88.7,@wrfwfm,,Twitter,both,Emptyatload
+682,Wisconsin,Sister Bay,Sister Bay,WHDI,FM,91.1,@wpr,,Twitter,both,Emptyatload
+683,Wisconsin,Sister Bay,Sister Bay,WHND,FM,89.7,@wpr,,Twitter,both,Emptyatload
+684,Wisconsin,Superior,Superior,KUWS,FM,91.3,@wpr,,Twitter,both,Emptyatload
+685,Wisconsin,Wausau,Wausau,WHRM,FM,90.9,@wpr,,Twitter,both,Emptyatload
+686,Wisconsin,Wausau,Wausau,WLBL,FM,91.9,@wpr,,Twitter,both,Emptyatload
+687,Wisconsin,Wausau,Wausau,WXPW,FM,91.9,None,,Twitter,both,Emptyatload
+659,Wisconsin,Appleton,,WLFM,FM,91.1,None,,Twitter,left_only,Emptyatload
+987,Wisconsin,,Milwaukee,WYMS,FM,88.9,@RadioMilwaukee,,Twitter,right_only,Emptyatload
+688,Wyoming,Afton,Afton,KUWA,FM,91.3,@WYpublicradio,,Twitter,both,Emptyatload
+689,Wyoming,Buffalo,Buffalo,KBUW,FM,90.5,@WYpublicradio,,Twitter,both,Emptyatload
+690,Wyoming,Casper,Casper,KUWC,FM,91.3,@WYpublicradio,,Twitter,both,Emptyatload
+691,Wyoming,Douglas,Douglas,KDUW,FM,91.7,None,,Twitter,both,Emptyatload
+692,Wyoming,Gillette,Gillette,KUWG,FM,90.9,@WYpublicradio,,Twitter,both,Emptyatload
+693,Wyoming,Jackson,Jackson,KUWJ,FM,90.3,@WYpublicradio,,Twitter,both,Emptyatload
+694,Wyoming,Laramie,Laramie,KUWR,FM,91.9,@WYpublicradio,,Twitter,both,Emptyatload
+695,Wyoming,Newcastle,Newcastle,KUWN,FM,90.5,None,,Twitter,both,Emptyatload
+696,Wyoming,Pinedale,Pinedale,KUWX,FM,90.9,None,,Twitter,both,Emptyatload
+697,Wyoming,Powell,Powell,KUWP,FM,90.1,None,,Twitter,both,Emptyatload
+698,Wyoming,Rock Springs,Rock Springs,KUWZ,FM,90.5,None,,Twitter,both,Emptyatload
+699,Wyoming,Sheridan,Sheridan,KSUW,FM,91.3,None,,Twitter,both,Emptyatload
+700,Wyoming,Sundance,Sundance,KUWD,FM,91.5,None,,Twitter,both,Emptyatload
+701,Wyoming,Thermopolis,Thermopolis,KUWT,FM,91.3,None,,Twitter,both,Emptyatload
+988,Wyoming,,Ethete,KWRR,FM,89.5,None,,Twitter,right_only,Emptyatload
+597,Texas,Lufkin,Lufkin,KLDN,FM,88.9,@881TheOne,,Twitter,both,
+545,Pennsylvania,Pittsburgh,,WDUQ,FM,90.5,@905wesa,,Twitter,left_only,
+484,Ohio,Cincinnati,Cincinnati,WGUC,FM,90.9,@909WGUC,,Twitter,both,
+585,Texas,Beaumont,Beaumont,KVLU,FM,91.3,@913KVLU,,Twitter,both,
+485,Ohio,Cincinnati,Cincinnati,WVXU,FM,91.7,@917wvxu,,Twitter,both,
+627,Virginia,Norfolk,Norfolk,WHRV,FM,89.5,@hot91,,Twitter,both,
+594,Texas,Houston,Houston,KUHF,FM,88.7,@HoustonPubMedia,@HoustonPubMedia,Twitter,both,
+583,Texas,Abilene,,KACU,FM,89.7,@KACU895,,Twitter,left_only,
+586,Texas,College Station,College Station,KAMU,FM,90.9,@KAMUTVFM,,Twitter,both,
+632,Washington,Bellingham,Bellingham,KZAZ,FM,91.7,@KCBS,,Twitter,both,
+509,Oklahoma,Lawton,Lawton,KCCU,FM,89.3,@KCCURadio,,Twitter,both,
+607,Utah,Logan,Logan,KUSU,FM,91.5,@KCPW,,Twitter,both,
+608,Utah,Salt Lake City,,KCPW,FM,88.3,@KCPWRadio,,Twitter,left_only,
+587,Texas,College Station,College Station,KEOS,FM,89.1,@KEOSRADIO,,Twitter,both,
+589,Texas,Dallas,Dallas-Fort Worth,KERA,FM,90.1,@keranews,(@keratx),Twitter,both,
+590,Texas,Dallas,Denton,KERA,FM,90.1,@keratx,,Twitter,both,
+641,Washington,Richland,Richland,KFAE,FM,89.1,@kexp,,Twitter,both,
+510,Oklahoma,Norman,Norman,KGOU,FM,106.3,@kgounews,,Twitter,both,
+523,Oregon,Eugene,Eugene,KLCC,FM,89.7,@KLCCEugeneOR,,Twitter,both,
+526,Oregon,Gresham,Gresham,KMHD,FM,89.1,@KMHD_JAZZ_Radio,,Twitter,both,
+591,Texas,Denton,Denton,KNTU,FM,88.1,@KNTU881,,Twitter,both,
+512,Oklahoma,Stillwater,Stillwater,KOSU,FM,91.7,@KOSURadio,,Twitter,both,
+645,Washington,Spokane,Spokane,KSFC,FM,91.9,@KPLUpr,,Twitter,both,
+599,Texas,Odessa,,KOCV,FM,91.3,@KPVU913FM,,Twitter,left_only,
+610,Utah,Salt Lake City,Salt Lake City,KUER,FM,90.1,@KRCLradio,,Twitter,both,
+592,Texas,El Paso,El Paso,KTEP,FM,88.5,@ktep885fm,,Twitter,both,
+609,Utah,Salt Lake City,,KPCW,FM,91.9,@KUER_FM,,Twitter,left_only,
+642,Washington,Seattle,Seattle,KEXP,FM,90.3,@KUOW,,Twitter,both,
+584,Texas,Austin,Austin,KUT,FM,90.5,@KUT,,Twitter,both,
+600,Texas,Prairie View,Prairie View,KPVU,FM,91.3,@KUTX,,Twitter,both,
+604,Texas,Victoria,Victoria,KVRT,FM,90.7,@KWBU,,Twitter,both,
+513,Oklahoma,Tulsa,Tulsa,KWGS,FM,89.5,@KWGSNEWS,,Twitter,both,
+593,Texas,Harlingen,,KMBH,FM,88.9,@PublicRadio88FM,,Twitter,left_only,
+633,Washington,Bellevue,,KBCS,FM,91.3,@radio905,,Twitter,left_only,
+550,Puerto Rico,Rio Piedras,Ro Piedras,WRTU,FM,89.7,@radioupr,,Twitter,both,
+554,South Carolina,Aiken,Aiken,WLJK,FM,89.1,@SCPublicRadio,,Twitter,both,
+555,South Carolina,Beaufort,Beaufort,WJWJ,FM,89.9,@SCPublicRadio,,Twitter,both,
+556,South Carolina,Charleston,Charleston,WSCI,FM,89.3,@SCPublicRadio,,Twitter,both,
+557,South Carolina,Columbia,Columbia,WLTR,FM,91.3,@SCPublicRadio,,Twitter,both,
+558,South Carolina,Conway,Conway,WHMC,FM,90.1,@SCPublicRadio,,Twitter,both,
+559,South Carolina,Greenville,Greenville,WEPR,FM,90.1,@SCPublicRadio,,Twitter,both,
+560,South Carolina,Orangeburg,Orangeburg,WSSB,FM,90.3,@SCPublicRadio,,Twitter,both,
+561,South Carolina,Rock Hill,Rock Hill,WNSC,FM,88.9,@SCPublicRadio,,Twitter,both,
+630,Virginia,Roanoke,Roanoke,WVTF,FM,89.1,@Uva_Wise,,Twitter,both,
+487,Ohio,Columbus,Columbus,WCBE,FM,90.5,@WCBE905Columbus,,Twitter,both,
+486,Ohio,Cleveland,Cleveland,WCPN,FM,90.3,@WCPN,,Twitter,both,
+628,Virginia,Norfolk,,WNSB,FM,91.1,@wcve,,Twitter,left_only,
+533,Pennsylvania,Allentown,Allentown,WDIY,FM,88.1,@WDIYFM,,Twitter,both,
+576,Tennessee,Johnson City,Johnson City,WETS,FM,89.5,@WETSFM,,Twitter,both,
+625,Virginia,Marion,Marion,WVTR,FM,91.9,@WHRO,,Twitter,both,
+626,Virginia,Norfolk,Norfolk,WHRO,FM,90.3,@whrvfm,,Twitter,both,
+542,Pennsylvania,Philadelphia,Philadelphia,WHYY,FM,90.9,@whyy,,Twitter,both,
+535,Pennsylvania,Harrisburg,Harrisburg,WITF,FM,89.5,@WITF,,Twitter,both,
+579,Tennessee,Memphis,Memphis,WKNO,FM,91.1,@WKNOFM,,Twitter,both,
+493,Ohio,Kent,Kent,WKSU,FM,89.7,@WKSU,,Twitter,both,
+612,US Virgin Islands,St. Thomas,,WVGN,FM,107.3,@WKUF943,,Twitter,left_only,
+621,Virginia,Christiansburg,Christiansburg,WWVT,AM,1260,@WMLUradio,,Twitter,both,
+580,Tennessee,Murfreesboro,Murfreesboro,WMOT,FM,89.5,@WMOT,,Twitter,both,
+622,Virginia,Farmville,Farmville,WMLU,FM,91.3,@WMRAPublicRadio,,Twitter,both,
+551,Puerto Rico,San Juan,,WOSO,AM,1030,@WOSO1030AM,,Twitter,left_only,
+488,Ohio,Columbus,,WOSU,AM,820,@WOSU,,Twitter,left_only,
+481,Ohio,Cambridge,Cambridge,WOUC,FM,89.1,@wouc,,Twitter,both,
+578,Tennessee,Madison,Madison,WPLN,AM,1430,@WPLN,,Twitter,both,
+581,Tennessee,Nashville,Nashville,WPLN,FM,90.3,@WPLN,,Twitter,both,
+549,Pennsylvania,State College,State College,WPSU,FM,91.5,@WPSU,,Twitter,both,
+539,Pennsylvania,Johnstown,Johnstown,WQEJ,FM,89.7,@wqed,,Twitter,both,
+546,Pennsylvania,Pittsburgh,Pittsburgh,WQED,FM,89.3,@WQEDFM,,Twitter,both,
+534,Pennsylvania,Erie,Erie,WQLN,FM,91.3,@WQLN,,Twitter,both,
+543,Pennsylvania,Philadelphia,Philadelphia,WRTI,FM,90.1,@WRTImusic,,Twitter,both,
+613,Vermont,Bennington,Bennington,WBTN,FM,94.3,@WRUVFM,,Twitter,both,
+577,Tennessee,Knoxville,Knoxville,WUOT,FM,91.9,@WUOTFM,,Twitter,both,
+572,Tennessee,Chattanooga,Chattanooga,WUTC,FM,88.1,@WUTC_FM,,Twitter,both,
+629,Virginia,Richmond,Richmond,WCVE,FM,88.9,@WVFTRADIOIQ,,Twitter,both,
+548,Pennsylvania,Scranton,Scranton,WVIA,FM,89.9,@WVIATVFM,,Twitter,both,
+544,Pennsylvania,Philadelphia,Philadelphia,WXPN,FM,88.5,@wxpnfm,,Twitter,both,
+547,Pennsylvania,Pittsburgh,Pittsburgh,WYEP,FM,91.3,@WYEP,,Twitter,both,
+505,Ohio,Yellow Springs,Yellow Springs,WYSO,FM,91.3,@WYSO,,Twitter,both,
+506,Ohio,Youngstown,Youngstown,WYSU,FM,88.5,@WYSU,,Twitter,both,
+588,Texas,Corpus Christi,Corpus Christi,KEDT,FM,90.3,@YourKEDT,,Twitter,both,
+66,California,Northridge,Northridge,KCSN,FM,88.5,@885fmsocal,,Twitter,both,
+246,Kentucky,Richmond,Richmond,WEKU,FM,88.9,@889weku,,Twitter,both,
+28,Alaska,McGrath,,KSKO,AM,870,@89point5_KSKO,,Twitter,left_only,
+68,California,Pacific Grove,Seaside,KAZU,FM,90.3,@903kazu,,Twitter,both,
+54,California,Arcata,Arcata,KHSU,FM,90.5,@905khsu,,Twitter,both,
+203,Indiana,Goshen,,WGCS,FM,91.1,@911TheGlobe,,Twitter,left_only,
+9,Alabama,Muscle Shoals,Muscle Shoals,WQPR,FM,88.7,@Alpublicradio,,Twitter,both,
+10,Alabama,Selma,Selma,WAPR,FM,88.3,@Alpublicradio,,Twitter,both,
+11,Alabama,Tuscaloosa,Tuscaloosa,WUAL,FM,91.5,@Alpublicradio,,Twitter,both,
+95,Colorado,Aspen,Aspen,KAJX,FM,91.5,@aspenpubradio,,Twitter,both,
+44,Arizona,Tucson,Tucson,KUAZ,AM,1550,@azpm,,Twitter,both,
+45,Arizona,Tucson,Tucson,KUAZ,FM,89.1,@azpm,,Twitter,both,
+36,Arizona,Flagstaff,Flagstaff,KPUB,FM,91.7,@AZPubRadio,,Twitter,both,
+37,Arizona,Flagstaff,Flagstaff,KNAU,FM,88.7,@AZPubRadio,,Twitter,both,
+38,Arizona,Grand Canyon,Grand Canyon,KNAG,FM,90.3,@AZPubRadio,,Twitter,both,
+42,Arizona,Prescott,Prescott,KNAQ,FM,89.3,@AZPubRadio,,Twitter,both,
+43,Arizona,Show Low,Show Low,KNAA,FM,90.7,@AZPubRadio,,Twitter,both,
+175,Idaho,Twin Falls,Twin Falls,KBSW,FM,91.7,@BSX915,,Twitter,both,
+173,Idaho,Rexburg,Rexburg,KBYI,FM,100.5,@byuidahoradio,,Twitter,both,
+88,California,Stockton,Sacramento,KUOP,FM,91.3,@capradionews,,Twitter,both,
+89,California,Tahoe City,Tahoe City,KKTO,FM,90.5,@capradionews,,Twitter,both,
+74,California,Sacramento,,KXJZ,FM,88.9,@capradionews,,Twitter,left_only,
+75,California,Sacramento,,KXPR,FM,90.9,@capradionews,,Twitter,left_only,
+63,California,Los Angeles,Los Angeles,KUSC,FM,91.5,@classicalkusc,,Twitter,both,
+83,California,Santa Barbara,,KFAC,FM,88.7,@Classicalkusc,,Twitter,left_only,
+179,Illinois,DeKalb,,WNIU,FM,90.5,@classicalwniu,,Twitter,left_only,
+96,Colorado,Boulder,Boulder,KCFC,AM,1490,@copublicradio,,Twitter,both,
+108,Colorado,Montrose,Montrose,KPRH,FM,88.3,@copublicradio,,Twitter,both,
+111,Colorado,Pueblo,Pueblo,KCFP,FM,91.9,@copublicradio,,Twitter,both,
+112,Colorado,Pueblo,Pueblo,KKPC,AM,1230,@copublicradio,,Twitter,both,
+114,Colorado,Vail,Vail,KPRE,FM,89.9,@copublicradio,,Twitter,both,
+101,Colorado,Delta,Delta,KPRU,FM,103.3,@cprclassical,,Twitter,both,
+102,Colorado,Denver,,KCFR,AM,1340,@cprclassical,,Twitter,left_only,
+104,Colorado,Denver,,KVOD,FM,90.1,@cprclassical,,Twitter,left_only,
+159,Georgia,Warm Springs,Warm Springs,WJSP,FM,88.1,@gpbnewmedia,,Twitter,both,
+148,Georgia,Augusta,Augusta,WACG,FM,90.7,@gpbradioaugusta,,Twitter,both,
+156,Georgia,Savannah,Savannah,WSVH,FM,91.1,@gpbsavannah,,Twitter,both,
+157,Georgia,Tifton,Tifton,WABR,FM,91.1,@gpbsavannah,,Twitter,both,
+226,Kansas,Garden City,Garden City,KANZ,FM,91.1,@hppr,,Twitter,both,
+228,Kansas,Hill City,Hill City,KZNA,FM,90.5,@hppr,,Twitter,both,
+198,Indiana,Anderson,Anderson,WBSB,FM,89.5,@INPublicRadio,,Twitter,both,
+204,Indiana,Hagerstown,Hagerstown,WBSH,FM,91.1,@INPublicRadio,,Twitter,both,
+207,Indiana,Marion,Marion,WBSW,FM,90.9,@INPublicRadio,,Twitter,both,
+208,Indiana,Muncie,Muncie,WBST,FM,92.1,@INPublicRadio,,Twitter,both,
+211,Indiana,Portland,Portland,WBSJ,FM,91.7,@INpublicradio,,Twitter,both,
+214,Iowa,Ames,Ames,WOI,AM,640,@iowapublicradio,,Twitter,both,
+215,Iowa,Ames,Ames,WOI,FM,90.1,@iowapublicradio,,Twitter,both,
+216,Iowa,Cedar Falls,Cedar Falls,KUNI,FM,90.9,@iowapublicradio,,Twitter,both,
+220,Iowa,Iowa City,Iowa City,WSUI,AM,910,@iowapublicradio,,Twitter,both,
+221,Iowa,Iowa City,Iowa City,KSUI,FM,91.7,@iowapublicradio,,Twitter,both,
+222,Iowa,Mason City,Mason City,KRNI,AM,1010,@iowapublicradio,,Twitter,both,
+299,Michigan,Interlochen,Interlochen,WIAA,FM,88.7,@IPRNewsRadio,,Twitter,both,
+311,Michigan,Traverse City,Traverse City,WICA,FM,91.5,@iprnewsradio,,Twitter,both,
+217,Iowa,Cedar Rapids,Cedar Rapids,KCCK,FM,88.3,@jazz883kcck,,Twitter,both,
+146,Georgia,Atlanta,Atlanta,WCLK,FM,91.9,@Jazz919WCLKatl,,Twitter,both,
+79,California,San Francisco,San Francisco,KALW,FM,91.7,@kalw,,Twitter,both,
+51,Arkansas,Jonesboro,Jonesboro,KASU,FM,91.9,@kasuradio,,Twitter,both,
+48,Arizona,Yuma,Yuma,KAWC,FM,88.9,@kawc,,Twitter,both,
+47,Arizona,Yuma,,KAWC,AM,1320,@kawc,,Twitter,left_only,
+321,Minnesota,Grand Rapids,Grand Rapids,KAXE,FM,91.7,@KAXE,,Twitter,both,
+40,Arizona,Phoenix,Phoenix,KBAQ,FM,89.5,@kbaq,,Twitter,both,
+22,Alaska,Homer,Homer,KBBI,AM,890,@KBBINews,,Twitter,both,
+346,Missouri,Columbia,Columbia,KBIA,FM,91.3,@kbia,,Twitter,both,
+355,Montana,Bozeman,Bozeman,KBMC,FM,102.1,@kbmc,,Twitter,both,
+166,Idaho,Boise,Boise,KBSU,FM,90.3,@kbsu903,,Twitter,both,
+165,Idaho,Boise,,KBSU,AM,730,@kbsu903,,Twitter,left_only,
+167,Idaho,Boise,Boise,KBSX,FM,91.5,@kbsx915,,Twitter,both,
+170,Idaho,McCall,McCall,KBSM,FM,91.7,@KBSX915,,Twitter,both,
+100,Colorado,Crested Butte,Crested Butte,KBUT,FM,90.3,@kbutradio,,Twitter,both,
+81,California,San Luis Obispo,San Luis Obispo,KCBX,FM,90.1,@kcbxfm,,Twitter,both,
+27,Alaska,McCarthy,McCarthy,KXKM,FM,89.7,@kchuradio,,Twitter,both,
+34,Alaska,Valdez,Valdez,KCHU,AM,770,@kchuradio,,Twitter,both,
+90,California,Thousand Oaks,Thousand Oaks,KCLU,FM,88.3,@kclulive,,Twitter,both,
+61,California,Indio,Indio,KCRI,FM,89.3,@kcrw,,Twitter,both,
+67,California,Oxnard,Oxnard,KCRU,FM,89.1,@kcrw,,Twitter,both,
+85,California,Santa Monica,Los Angeles,KCRW,FM,89.9,@kcrw,,Twitter,both,
+86,California,Santa Monica,Santa Monica,KCRW,FM,89.9,@kcrw,,Twitter,both,
+82,California,San Mateo,San Mateo,KCSM,FM,91.1,@kcsmjazz91,,Twitter,both,
+348,Missouri,Kansas City,Kansas City,KCUR,FM,89.3,@kcur,,Twitter,both,
+17,Alaska,Dillingham,Dillingham,KDLG,AM,670,@kdlgradio,,Twitter,both,
+97,Colorado,Carbondale,,KDNK,FM,90.5,@kdnkradio,,Twitter,left_only,
+252,Louisana,Monroe,,KEDM,FM,90.3,@kedmpublicradio,,Twitter,left_only,
+354,Montana,Billings,Billings,KEMC,FM,91.7,@kemc,,Twitter,both,
+29,Alaska,Petersburg,Petersburg,KFSK,FM,100.9,@KFSK1,,Twitter,both,
+21,Alaska,Haines,Haines,KHNS,FM,102.3,@KHNS_FM,,Twitter,both,
+62,California,Long Beach,,KKJZ,FM,88.1,@kjazz881,,Twitter,left_only,
+41,Arizona,Phoenix,Phoenix,KJZZ,FM,91.5,@kjzzphoenix,,Twitter,both,
+233,Kansas,Wichita,Wichita,KMUW,FM,89.1,@kmuw,,Twitter,both,
+26,Alaska,Kodiak,Kodiak,KMXT,FM,100.1,@kmxtnews,,Twitter,both,
+360,Montana,Havre,,KNMC,FM,90.1,@KNMCradio,,Twitter,left_only,
+347,Missouri,Columbia,Columbia,KOPN,FM,89.5,@kopnfm,,Twitter,both,
+113,Colorado,Telluride,Telluride,KOTO,FM,91.7,@koto_radio,,Twitter,both,
+78,California,San Diego,San Diego,KPBS,FM,89.5,@kpbsnews,,Twitter,both,
+70,California,Pasadena,Los Angeles,KPCC,FM,89.3,@kpcc,,Twitter,both,
+71,California,Pasadena,Pasadena,KPCC,FM,89.3,@kpcc,,Twitter,both,
+65,California,North Hollywood,,KPFK,FM,90.7,@KPFK,,Twitter,left_only,
+161,Guam,Agana,,KPRG,FM,89.3,@kprgfm,,Twitter,left_only,
+225,Kansas,Emporia,Emporia,KANH,FM,89.7,@kprnews,,Twitter,both,
+230,Kansas,Lawrence,Lawrence,KANU,FM,91.5,@kprnews,,Twitter,both,
+80,California,San Francisco,San Francisco,KQED,FM,88.5,@kqed,,Twitter,both,
+25,Alaska,Ketchikan,Ketchikan,KRBD,FM,105.9,@KRBDRadio,,Twitter,both,
+87,California,Santa Rosa,Santa Rosa,KRCB,FM,91.1,@krcbtv22,,Twitter,both,
+98,Colorado,Colorado Springs,Colorado Springs,KRCC,FM,91.5,@krcc,,Twitter,both,
+344,Missouri,Cape Girardeau,Cape Girardeau,KRCU,FM,90.9,@krcufm,,Twitter,both,
+231,Kansas,Pittsburg,Pittsburg,KRPS,FM,89.9,@krps899,,Twitter,both,
+251,Louisana,Lafayette,,KRVS,FM,88.7,@krvsmedia,,Twitter,left_only,
+94,Colorado,Alamosa,Alamosa,KRZA,FM,88.7,@krzaradio,,Twitter,both,
+99,Colorado,Cortez,Cortez,KSJD,FM,91.5,@ksjdradio,,Twitter,both,
+12,Alaska,Anchorage,Anchorage,KSKA,FM,91.1,@kska,,Twitter,both,
+69,California,Palm Springs,Palm Springs,KPSC,FM,88.5,@kspc,,Twitter,both,
+35,Alaska,Wrangell,Wrangell,KSTK,FM,101.7,@kstkradio,,Twitter,both,
+107,Colorado,Ignacio,Ignacio,KSUT,FM,91.3,@ksut,,Twitter,both,
+32,Alaska,Talkeetna,Talkeetna,KTNA,FM,88.5,@ktna,,Twitter,both,
+23,Alaska,Juneau,Juneau,KTOO,FM,104.3,@KTOOpubmedia,,Twitter,both,
+18,Alaska,Fairbanks,Fairbanks,KUAC,FM,89.9,@kuacfmtv,,Twitter,both,
+50,Arkansas,Fayetteville,Fayetteville,KUAF,FM,91.3,@kuaf,,Twitter,both,
+53,Arkansas,Little Rock,Little Rock,KUAR,FM,89.1,@kuarpublicradio,,Twitter,both,
+106,Colorado,Greeley,Greeley,KUNC,FM,91.5,@kunc,,Twitter,both,
+84,California,Santa Cruz,,KUSP,FM,88.9,@kusp,,Twitter,left_only,
+103,Colorado,Denver,Denver,KUVO,FM,89.3,@kuvojazz,,Twitter,both,
+77,California,San Bernardino,San Bernardino,KVCR,FM,91.9,@kvcr_tvfm,,Twitter,both,
+109,Colorado,Montrose,Montrose,KVMT,FM,89.1,@kvnfradio,,Twitter,both,
+110,Colorado,Paonia,Paonia,KVNF,FM,90.9,@kvnfradio,,Twitter,both,
+55,California,Bakersfield,Bakersfield,KPRX,FM,89.1,@kvpr,,Twitter,both,
+59,California,Fresno,Fresno,KVPR,FM,89.3,@kvpr,,Twitter,both,
+224,Iowa,Sioux City,Sioux City,KWIT,FM,90.3,@kwitkoji,,Twitter,both,
+349,Missouri,Maryville,Maryville,KXCV,FM,90.5,@kxcvkrnw,,Twitter,both,
+13,Alaska,Barrow,Barrow,KBRW,AM,680,@kyuknews,,Twitter,both,
+14,Alaska,Barrow,Barrow,KBRW,FM,91.9,@kyuknews,,Twitter,both,
+15,Alaska,Bethel,Bethel,KYUK,AM,640,@kyuknews,,Twitter,both,
+72,California,Philo,Philo,KZYX,FM,90.7,@kzyxmusic,,Twitter,both,
+92,California,Willits,Willits,KZYZ,FM,91.5,@kzyzfm,,Twitter,both,
+302,Michigan,Lansing,,WLNZ,FM,89.7,@LCCRadio,,Twitter,left_only,
+256,Maine,Bangor,Bangor,WMEH,FM,90.9,@MainePublic,,Twitter,both,
+257,Maine,Calais,Calais,WMED,FM,89.7,@MainePublic,,Twitter,both,
+260,Maine,Presque Isle,Presque Isle,WMEM,FM,106.1,@mainepublic,,Twitter,both,
+261,Maine,Waterville,Waterville,WMEW,FM,91.3,@mainepublic,,Twitter,both,
+288,Michigan,Ann Arbor,Ann Arbor,WUOM,FM,91.7,@MichiganRadio,,Twitter,both,
+294,Michigan,Flint,Flint,WFUM,FM,91.1,@michiganradio,,Twitter,both,
+296,Michigan,Grand Rapids,Grand Rapids,WVGR,FM,104.1,@michiganradio,,Twitter,both,
+337,Mississippi,Jackson,Jackson,WMPN,FM,91.3,@MPBNews,@MPBOnline,Twitter,both,
+259,Maine,Lewiston,Portland,WMEA,FM,90.1,@MPBNnews,,Twitter,both,
+331,Mississippi,Biloxi,Biloxi,WMAH,FM,90.3,@mpbonline,,Twitter,both,
+338,Mississippi,Lorman,Lorman,WPRL,FM,91.7,@mpbonline,,Twitter,both,
+339,Mississippi,Meridian,Meridian,WMAW,FM,88.1,@mpbonline,,Twitter,both,
+341,Mississippi,Oxford,Oxford,WMAV,FM,90.3,@mpbonline,,Twitter,both,
+315,Minnesota,Appleton,Appleton,KNCM,FM,88.5,@mprnews,,Twitter,both,
+316,Minnesota,Bemidji,Bemidji,KNBJ,FM,91.3,@mprnews,,Twitter,both,
+318,Minnesota,Buhl,Buhl,WIRN,FM,92.5,@mprnews,,Twitter,both,
+319,Minnesota,Collegeville,St. Cloud,KNSR,FM,88.9,@mprnews,,Twitter,both,
+320,Minnesota,Duluth,Cloquet,WSCN,FM,100.5,@mprnews,,Twitter,both,
+322,Minnesota,La Crescent,La Crescent,KXLC,FM,91.1,@mprnews,,Twitter,both,
+323,Minnesota,Moorhead,Moorhead,KCCD,FM,90.3,@mprnews,,Twitter,both,
+325,Minnesota,Rochester,Rochester,KMSE,FM,88.7,@mprnews,,Twitter,both,
+327,Minnesota,St. Paul,Minneapolis,KNOW,FM,91.1,@mprnews,,Twitter,both,
+328,Minnesota,St. Peters,Mankato,KNGA,FM,91.5,@mprnews,,Twitter,both,
+330,Minnesota,Worthington,Worthington,KNSW,FM,91.7,@mprnews,,Twitter,both,
+324,Minnesota,Northfield,,WCAL,FM,89.3,@mprnews,,Twitter,left_only,
+326,Minnesota,Rochester,,KZSE,FM,90.7,@mprnews,,Twitter,left_only,
+244,Kentucky,Morehead,Morehead,WMKY,FM,90.3,@mspr903fm,,Twitter,both,
+361,Montana,Helena,Helena,KUHM,FM,91.7,@mtpublicradio,,Twitter,both,
+362,Montana,Kalispell,Kalispell,KUKL,FM,89.9,@mtpublicradio,,Twitter,both,
+364,Montana,Missoula,Missoula,KUFM,FM,89.1,@mtpublicradio,,Twitter,both,
+143,Georgia,Albany,Albany,WUNV,FM,91.7,@mygpb,,Twitter,both,
+149,Georgia,Brunswick,Brunswick,WWIO,FM,89.1,@mygpb,,Twitter,both,
+152,Georgia,Dahlonega,Dahlonega,WNGU,FM,89.5,@mygpb,,Twitter,both,
+153,Georgia,Demorest,Demorest,WPPR,FM,88.3,@mygpb,,Twitter,both,
+154,Georgia,Ft. Gaines,Fort Gaines,WJWV,FM,90.9,@mygpb,,Twitter,both,
+158,Georgia,Valdosta,Valdosta,WWET,FM,91.7,@mygpb,,Twitter,both,
+160,Georgia,Waycross,Waycross,WXVS,FM,90.1,@mygpb,,Twitter,both,
+155,Georgia,Macon,,WDCO,FM,89.7,@mygpb,,Twitter,left_only,
+368,Nebraska,Hastings,Hastings,KHNE,FM,89.1,@NETNebraska,,Twitter,both,
+193,Illinois,Springfield,Springfield,WUIS,FM,91.9,@nprillinois,,Twitter,both,
+57,California,Chico,Chico,KCHO,FM,91.7,@nsprnews,,Twitter,both,
+73,California,Redding,Redding,KFPR,FM,88.9,@nsprnews,,Twitter,both,
+171,Idaho,Moscow,Moscow,KRFA,FM,91.7,@nwpbclassical,,Twitter,both,
+24,Alaska,Kenai,Kenai,KDLL,FM,91.9,@pickle_hill,,Twitter,both,
+229,Kansas,Hutchinson,Hutchinson,KHCC,FM,90.1,@radiokansas,,Twitter,both,
+232,Kansas,Salina,Salina,KHCD,FM,89.5,@radiokansas,,Twitter,both,
+30,Alaska,Sitka,Sitka,KCAW,FM,104.7,@ravenradio,,Twitter,both,
+248,Louisana,Alexandria,,KLSA,FM,90.7,@rrrpublicradio,,Twitter,left_only,
+254,Louisana,Shreveport,,KDAQ,FM,89.9,@rrrpublicradio,,Twitter,left_only,
+168,Idaho,Bonners Ferry,Bonners Ferry,KIBX,FM,92.1,@sprlocalnews,,Twitter,both,
+249,Louisana,Baton Rouge,,WBRH,FM,90.3,@talk1073,,Twitter,left_only,
+329,Minnesota,Thief River Falls,Thief River Falls,KNTN,FM,102.7,@TRFRADIO,,Twitter,both,
+182,Illinois,LaSalle,LaSalle,WNIW,FM,91.5,@tristatespr,,Twitter,both,
+183,Illinois,Macomb,Macomb,WIUM,FM,91.3,@tristatespr,,Twitter,both,
+1,Alabama,Dothan,Dothan,WRWA,FM,88.7,@troypublicradio,,Twitter,both,
+8,Alabama,Montgomery/Troy,Montgomery/Troy,WTSU,FM,89.9,@troypublicradio,,Twitter,both,
+151,Georgia,Columbus,Columbus,WTJB,FM,91.7,@TROYUNews,,Twitter,both,
+145,Georgia,Atlanta,Atlanta,WABE,FM,90.1,@wabenews,,Twitter,both,
+276,Massachusetts,Great Barrington,Great Barrington,WAMQ,FM,105.1,@wamcradio,,Twitter,both,
+122,District of Columbia,Washington,Washington,WAMU,FM,88.5,@wamu885,,Twitter,both,
+206,Indiana,Lafayette,West Lafayette,WBAA,AM,920,@wbaanews,@wbaaradio,Twitter,both,
+213,Indiana,West Lafayette,West Lafayette,WBAA,FM,101.3,@wbaaradio,@wbaanews,Twitter,both,
+178,Illinois,Chicago,Chicago,WBEZ,FM,91.5,@wbez,,Twitter,both,
+0,Alabama,Birmingham,Birmingham,WBHM,FM,90.3,@WBHM,,Twitter,both,
+2,Alabama,Gadsden,Gadsden,WSGN,FM,91.5,@WBHM903,,Twitter,both,
+202,Indiana,Fort Wayne,,WBNI,FM,89.1,@WBNI941,,Twitter,left_only,
+210,Indiana,Orland,,WBOI,FM,91.3,@wboi,,Twitter,left_only,
+272,Massachusetts,Boston,Boston,WBUR,FM,90.9,@WBUR,,Twitter,both,
+282,Massachusetts,W.Yarmouth,,WBUR,AM,1240,@wbur,,Twitter,left_only,
+283,Massachusetts,Woods Hole,Woods Hole,WCAI,FM,90.1,@wcai_npr,,Twitter,both,
+187,Illinois,Peoria,Peoria,WCBU,FM,89.9,@WCBURadio,,Twitter,both,
+287,Michigan,Alpena,Alpena,WCML,FM,91.7,@wcmunews,,Twitter,both,
+297,Michigan,Harbor Springs,Harbor Springs,WCMW,FM,103.9,@wcmunews,,Twitter,both,
+305,Michigan,Mt. Pleasant,Mt. Pleasant,WCMU,FM,89.5,@WCMUNews,@WCMUTV,Twitter,both,
+309,Michigan,Sault Ste. Marie,Sault Ste. Marie,WCMZ,FM,98.3,@wcmunews,@wcmutv,Twitter,both,
+290,Michigan,Detroit,Detroit,WDET,FM,101.9,@wdet,,Twitter,both,
+162,Hawaii,Honolulu,Honolulu,KHPR,FM,88.1,@wearehpr,,Twitter,both,
+163,Hawaii,Honolulu,Honolulu,KIPO,FM,89.3,@wearehpr,,Twitter,both,
+120,Connecticut,Willimantic,Willimantic,WECS,FM,90.1,@wecsfm,,Twitter,both,
+314,Michigan,Ypsilanti,Ypsilanti,WEMU,FM,89.1,@wemu891,,Twitter,both,
+123,District of Columbia,Washington,Washington,WETA,FM,90.9,@wetatvfm,,Twitter,both,
+270,Massachusetts,Amherst,Amherst,WFCR,FM,88.5,@wfcr885,,Twitter,both,
+177,Illinois,Champaign,,WEFT,FM,90.1,@WFETradio,,Twitter,left_only,
+130,Florida,Melbourne,Melbourne,WFIT,FM,89.5,@wfit895fm,,Twitter,both,
+199,Indiana,Bloomington,Bloomington,WFIU,FM,103.7,@wfiu,,Twitter,both,
+242,Kentucky,Louisville,Louisville,WFPK,FM,91.9,@wfpk,,Twitter,both,
+243,Kentucky,Louisville,Louisville,WFPL,FM,89.3,@wfplnews,,Twitter,both,
+134,Florida,Panama City,Panama City,WFSW,FM,89.1,@wfsu,,Twitter,both,
+138,Florida,Tallahassee,Tallahassee,WFSQ,FM,91.5,@wfsumedia,,Twitter,both,
+139,Florida,Tallahassee,Tallahassee,WFSU,FM,88.9,@wfsumedia,,Twitter,both,
+205,Indiana,Indianapolis,Indianapolis,WFYI,FM,90.1,@wfyi,,Twitter,both,
+273,Massachusetts,Boston,Boston,WGBH,FM,89.7,@wgbh,,Twitter,both,
+124,Florida,Ft. Myers,Ft. Myers,WGCU,FM,90.1,@wgcu,,Twitter,both,
+185,Illinois,Normal,Normal,WGLT,FM,89.1,@wgltnews,,Twitter,both,
+286,Michigan,Allendale,Allendale,WGVU,FM,88.5,@WGVUPublicMedia,,Twitter,both,
+301,Michigan,Kentwood,Kentwood,WGVU,AM,1480,@WGVUPublicMedia,,Twitter,both,
+6,Alabama,Mobile,Mobile,WHIL,FM,91.3,@WHILFM,,Twitter,both,
+285,Massachusetts,Worcester,Worcester,WICN,FM,90.5,@WICN905,,Twitter,both,
+195,Illinois,Urbana,Urbana,WILL,AM,580,@willpublicmedia,,Twitter,both,
+196,Illinois,Urbana,,WILL,FM,90.9,@willpublicmedia,,Twitter,left_only,
+3,Alabama,Huntsville,Huntsville,WJAB,FM,90.9,@WJAB-TV,,Twitter,both,
+128,Florida,Jacksonville,Jacksonville,WJCT,FM,89.9,@wjctjax,,Twitter,both,
+292,Michigan,East Lansing,East Lansing,WKAR,AM,870,@wkar,,Twitter,both,
+293,Michigan,East Lansing,East Lansing,WKAR,FM,90.5,@wkar,,Twitter,both,
+135,Florida,Panama City,Panama City,WKGC,AM,1480,@WKGCNews,,Twitter,both,
+136,Florida,Panama City,Panama City,WKGC,FM,90.7,@WKGCNews,,Twitter,both,
+269,Maryland,Worton,Worton,WKHS,FM,90.5,@wkhsradio,,Twitter,both,
+245,Kentucky,Murray,Murray,WKMS,FM,91.3,@wkms,,Twitter,both,
+235,Kentucky,Bowling Green,Bowling Green,WKYU,FM,88.9,@wkupublicradio,,Twitter,both,
+236,Kentucky,Elizabethtown,Elizabethtown,WKUE,FM,90.9,@wkupublicradio,,Twitter,both,
+239,Kentucky,Henderson,Henderson,WKPB,FM,89.5,@wkupublicradio,,Twitter,both,
+247,Kentucky,Somerset,Somerset,WDCL,FM,89.7,@wkupublicradio,,Twitter,both,
+5,Alabama,Jacksonville,Jacksonville,WLJS,FM,91.9,@WLJS_919,,Twitter,both,
+4,Alabama,Huntsville,Huntsville,WLRH,FM,89.3,@WLRH_893FMHD,,Twitter,both,
+131,Florida,Miami,Miami,WLRN,FM,91.3,@wlrn,,Twitter,both,
+132,Florida,Orlando,Orlando,WMFE,FM,90.7,@wmfeorlando,,Twitter,both,
+140,Florida,Tampa,Tampa,WMNF,FM,88.5,@wmnf,,Twitter,both,
+300,Michigan,Kalamazoo,Kalamazoo,WMUK,FM,102.1,@wmuk1021,,Twitter,both,
+191,Illinois,Rockford,DeKalb,WNIJ,FM,89.5,@wnijnews,,Twitter,both,
+192,Illinois,Rockford,Rockford,WNIJ,FM,89.5,@wnijnews,,Twitter,both,
+194,Illinois,Sterling,Sterling,WNIQ,FM,91.5,@wnijnews,,Twitter,both,
+201,Indiana,Evansville,Evansville,WNIN,FM,88.3,@WNIN,,Twitter,both,
+240,Kentucky,Highland Heights,,WNKU,FM,89.7,@wnku,,Twitter,left_only,
+304,Michigan,Marquette,Marquette,WNMU,FM,90.1,@WNMU,,Twitter,both,
+118,Connecticut,Stamford,Stamford,WEDW,FM,88.5,@wnpr,,Twitter,both,
+116,Connecticut,Meriden,,WPKT,FM,90.5,@wnpr,,Twitter,left_only,
+117,Connecticut,Norwich,,WNPR,FM,89.1,@wnpr,,Twitter,left_only,
+125,Florida,Ft. Pierce,Ft. Pierce,WQCS,FM,88.9,@wqcsnews,,Twitter,both,
+188,Illinois,Pittsfield,Pittsfield,WIPA,FM,89.3,@wqub,,Twitter,both,
+147,Georgia,Atlanta,,WRFG,FM,89.3,@wrfgatlanta,,Twitter,left_only,
+250,Louisana,Baton Rouge,,WRKF,FM,89.3,@wrkf,,Twitter,left_only,
+121,Delaware,Dover,Dover,WRTX,FM,91.7,@wrtimusic,,Twitter,both,
+237,Kentucky,Georgetown,,WRVG,FM,89.9,@wrvg,,Twitter,left_only,
+266,Maryland,Ocean City,Ocean City,WSDL,FM,90.7,@wscl_wsdl,,Twitter,both,
+268,Maryland,Salisbury,Salisbury,WSCL,FM,89.5,@wscl_wsdl,,Twitter,both,
+281,Massachusetts,Sandwich,Sandwich,WSDH,FM,91.5,@WSDHradio,,Twitter,both,
+115,Connecticut,Fairfield,Fairfield,WSHU,FM,91.1,@wshupublicradio,,Twitter,both,
+119,Connecticut,Westport,Westport,WSHU,AM,1260,@wshupublicradio,,Twitter,both,
+180,Illinois,Edwardsville,Edwardsville,WSIE,FM,88.7,@wsie887thesound,,Twitter,both,
+184,Illinois,Mt.Vernon,Mt. Vernon,WVSI,FM,88.9,@wsiuradio,,Twitter,both,
+186,Illinois,Olney,Olney,WUSI,FM,90.3,@wsiuradio,,Twitter,both,
+176,Illinois,Carbondale,Carbondale,WSIU,FM,91.9,@wsiutv,,Twitter,both,
+133,Florida,Orlando,Orlando,WUCF,FM,89.9,@wucftv,,Twitter,both,
+289,Michigan,Bay City,Bay City,WUCX,FM,90.1,@wucx,,Twitter,both,
+127,Florida,Inverness,Inverness,WJUF,FM,90.1,@wuftmedia,,Twitter,both,
+126,Florida,Gainesville,Gainesville,WUFT,FM,89.1,@wuftnews,,Twitter,both,
+144,Georgia,Athens,Athens,WUGA,FM,91.7,@wugafm,,Twitter,both,
+241,Kentucky,Lexington,Lexington,WUKY,FM,91.3,@wuky,,Twitter,both,
+274,Massachusetts,Boston,Boston,WUMB,FM,91.9,@wumbradio,,Twitter,both,
+275,Massachusetts,Falmouth,Falmouth,WFPB,FM,91.9,@wumbradio,,Twitter,both,
+280,Massachusetts,Orleans,Orleans,WFPB,AM,1170,@wumbradio,,Twitter,both,
+284,Massachusetts,Worcester,Worcester,WBPR,FM,91.9,@wumbradio,,Twitter,both,
+279,Massachusetts,Newburyport,,WNAF,FM,91.7,@wumbradio,,Twitter,left_only,
+141,Florida,Tampa,Tampa,WUSF,FM,89.7,@wusf,,Twitter,both,
+137,Florida,Pensacola,Pensacola,WUWF,FM,88.1,@wuwf,,Twitter,both,
+7,Alabama,Montgomery,Montgomery,WVAS,FM,90.7,@WVAS,,Twitter,both,
+190,Illinois,Rock Island,Rock Island,WVIK,FM,90.3,@wvikfm,,Twitter,both,
+200,Indiana,Elkhart,Elkhart,WVPE,FM,88.1,@wvpe,,Twitter,both,
+253,Louisana,New Orleans,,WWNO,FM,89.9,@wwno,,Twitter,left_only,
+255,Louisana,Thibodaux,,KTLN,FM,90.5,@wwno,,Twitter,left_only,
+142,Florida,West Palm Beach,,WXEL,FM,90.7,@wxeltv,,Twitter,left_only,
+263,Maryland,Baltimore,Baltimore,WYPR,FM,88.1,@wypr881FM,,Twitter,both,
+264,Maryland,Frostburg,Frostburg,WFWM,FM,91.9,@xfsrfrostburg,,Twitter,both,
+16,Alaska,Chevak,Chevak,KCUK,FM,88.1,None,,Twitter,both,
+19,Alaska,Galena,Galena,KIYU,AM,910,None,,Twitter,both,
+20,Alaska,Glennallen,Glennallen,KXGA,FM,90.5,None,,Twitter,both,
+31,Alaska,St. Paul,,KUSB,FM,91.9,None,,Twitter,left_only,
+33,Alaska,Unalaska,,KIAL,AM,1450,None,,Twitter,left_only,
+39,Arizona,Page,Page,KNAD,FM,91.7,None,,Twitter,both,
+46,Arizona,White River,White River,KNNB,FM,88.1,None,,Twitter,both,
+49,Arkansas,El Dorado,El Dorado,KBSA,FM,90.9,None,,Twitter,both,
+52,Arkansas,Little Rock,Little Rock,KLRE,FM,90.5,None,,Twitter,both,
+56,California,Burney,Burney,KNCA,FM,89.7,None,,Twitter,both,
+58,California,Crescent City,Crescent City,KHSR,FM,91.9,None,,Twitter,both,
+60,California,Groveland,Groveland,KXSR,FM,91.7,None,,Twitter,both,
+64,California,Mt. Shasta,Mount Shasta,KNSQ,FM,88.1,None,,Twitter,both,
+93,California,Yreka,Yreka,KNYR,FM,91.3,None,,Twitter,both,
+76,California,San Ardo,,KBDH,FM,91.7,None,,Twitter,left_only,
+91,California,Thousand Oaks,,KCPB,FM,91.1,None,,Twitter,left_only,
+105,Colorado,Grand Junction,Grand Junction,KPRN,FM,89.5,None,,Twitter,both,
+129,Florida,Marco,Marco,WMKO,FM,91.7,None,,Twitter,both,
+150,Georgia,Carrolton,,WWGC,FM,90.7,None,,Twitter,left_only,
+164,Hawaii,Wailuku,Wailuku,KKUA,FM,90.7,None,,Twitter,both,
+169,Idaho,Cottonwood,Cottonwood,KNWO,FM,90.1,None,,Twitter,both,
+172,Idaho,Pocatello,Pocatello,KISU,FM,91.1,None,,Twitter,both,
+174,Idaho,Twin Falls,,KEJZ,AM,1450,None,,Twitter,left_only,
+181,Illinois,Freeport,Freeport,WNIE,FM,89.1,None,,Twitter,both,
+189,Illinois,Quincy,Quincy,WQUB,FM,90.3,None,,Twitter,both,
+197,Illinois,Warsaw,Warsaw,WIUW,FM,89.5,None,,Twitter,both,
+209,Indiana,North Manchester,,WBKE,FM,89.5,None,,Twitter,left_only,
+212,Indiana,Richmond,,WVXR,FM,89.3,None,,Twitter,left_only,
+218,Iowa,Decorah,Decorah,KLNI,FM,88.7,None,,Twitter,both,
+219,Iowa,Fort Dodge,,KTPR,FM,91.1,None,,Twitter,left_only,
+223,Iowa,Mason City,,KUNY,FM,91.5,None,,Twitter,left_only,
+227,Kansas,Great Bend,Great Bend,KHCT,FM,90.9,None,,Twitter,both,
+238,Kentucky,Hazard,Hazard,WEKH,FM,90.9,None,,Twitter,both,
+234,Kentucky,Booneville,,WOCS,FM,88.3,None,,Twitter,left_only,
+258,Maine,Fort Kent,Fort Kent,WMEF,FM,106.5,None,,Twitter,both,
+262,Maryland,Baltimore,Baltimore,WEAA,FM,88.9,None,,Twitter,both,
+267,Maryland,Princess Anne,Princess Anne,WESM,FM,91.3,None,,Twitter,both,
+265,Maryland,Hagerstown,,WETH,FM,89.1,None,,Twitter,left_only,
+277,Massachusetts,Harwich,Harwich,WCCT,FM,90.3,None,,Twitter,both,
+278,Massachusetts,Nantucket,Nantucket,WNAN,FM,91.1,None,,Twitter,both,
+271,Massachusetts,Amherst,,WPNI,AM,1430,None,,Twitter,left_only,
+295,Michigan,Grand Rapids,Grand Rapids,WBLU,FM,88.9,None,,Twitter,both,
+306,Michigan,Muskegon,Muskegon,WGVS,AM,850,None,,Twitter,both,
+307,Michigan,Oscoda,Oscoda,WCMB,FM,95.7,None,,Twitter,both,
+310,Michigan,Standish,Standish,WWCM,FM,96.9,None,,Twitter,both,
+312,Michigan,Twin Lake,Twin Lake,WBLV,FM,90.3,None,,Twitter,both,
+313,Michigan,Whitehall,Whitehall,WGVS,FM,95.3,None,,Twitter,both,
+291,Michigan,East Jordan,,WIZY,FM,100.9,None,,Twitter,left_only,
+298,Michigan,Houghton,,WGGL,FM,91.9,None,,Twitter,left_only,
+303,Michigan,Manistee,,WVXM,FM,97.7,None,,Twitter,left_only,
+308,Michigan,Rogers City,,WVXA,FM,96.7,None,,Twitter,left_only,
+317,Minnesota,Brainerd,Brainerd,KBPR,FM,90.7,None,,Twitter,both,
+356,Montana,Butte,Butte,KAPC,FM,91.3,None,,Twitter,both,
+357,Montana,Fort Belknap,Fort Belknap,KGVA,FM,88.1,None,,Twitter,both,
+358,Montana,Great Falls,Great Falls,KGPR,FM,89.9,None,,Twitter,both,
+359,Montana,Hamilton,Hamilton,KUFN,FM,91.9,None,,Twitter,both,
+363,Montana,Miles City,,KECC,FM,90.7,None,,Twitter,left_only,
+365,Nebraska,Alliance,Alliance,KTNE,FM,91.1,None,,Twitter,both,
+366,Nebraska,Bassett,Bassett,KMNE,FM,90.3,None,,Twitter,both,
+367,Nebraska,Chadron,Chadron,KCNE,FM,91.9,None,,Twitter,both,
+369,Nebraska,Lexington,Lexington,KLNE,FM,88.7,None,,Twitter,both,
+370,Nebraska,Lincoln,Lincoln,KUCV,FM,91.1,None,,Twitter,both,
+371,Nebraska,Merriman,Merriman,KRNE,FM,91.5,None,,Twitter,both,
+372,Nebraska,Norfolk,Norfolk,KXNE,FM,89.3,None,,Twitter,both,
+582,Tennessee,Tullahoma,Tullahoma,WTML,FM,91.5,None,,Twitter,both,
+598,Texas,McAllen,McAllen,KHID,FM,88.1,None,,Twitter,both,
+602,Texas,San Antonio,San Antonio,KSTX,FM,89.1,None,,Twitter,both,
+603,Texas,Texarkana,Texarkana,KTXK,FM,91.5,None,,Twitter,both,
+605,Texas,Waco,Waco,KWBU,FM,103.3,None,,Twitter,both,
+596,Texas,Lubbock,,KOHM,FM,89.1,None,,Twitter,left_only,
+601,Texas,San Angelo,,KUTX,FM,90.1,None,,Twitter,left_only,
+606,Utah,Coalville,,KCUA,FM,92.5,None,,Twitter,left_only,
+611,Utah,Salt Lake City,,KRCL,FM,90.9,None,,Twitter,left_only,
+614,Vermont,Burlington,Burlington,WVPS,FM,107.9,None,,Twitter,both,
+615,Vermont,Rutland,Rutland,WRVT,FM,88.7,None,,Twitter,both,
+616,Vermont,St. Johnsbury,St. Johnsbury,WVPA,FM,88.5,None,,Twitter,both,
+617,Vermont,Windsor,Windsor,WVPR,FM,89.5,None,,Twitter,both,
+618,Virginia,Charlottesville,Charlottesville,WVTU,FM,89.3,None,,Twitter,both,
+619,Virginia,Charlottesville,Charlottesville,WVTW,FM,88.5,None,,Twitter,both,
+620,Virginia,Charlottesville,Charlottesville,WMRY,FM,103.5,None,,Twitter,both,
+623,Virginia,Harrisonburg,Harrisonburg,WMRA,FM,90.7,None,,Twitter,both,
+624,Virginia,Lexington,Lexington,WMRL,FM,89.9,None,,Twitter,both,
+631,Virginia,Wise,Wise,WISE,FM,90.5,None,,Twitter,both,
+634,Washington,Clarkston,Clarkston,KNWV,FM,90.5,None,,Twitter,both,
+635,Washington,Ellensburg,Ellensburg,KNWR,FM,90.7,None,,Twitter,both,
+636,Washington,Moses Lake,Moses Lake,KLWS,FM,91.5,None,,Twitter,both,
+637,Washington,Omak,Omak,KQWS,FM,90.1,None,,Twitter,both,
+638,Washington,Port Angeles,Port Angeles,KNWP,FM,90.1,None,,Twitter,both,
+639,Washington,Pullman,Pullman,KWSU,AM,1250,None,,Twitter,both,
+643,Washington,Seattle,Seattle,KUOW,FM,94.9,None,,Twitter,both,
+644,Washington,Spokane,Spokane,KPBX,FM,91.1,None,,Twitter,both,
+640,Washington,Pullman,,KRFA,FM,91.7,None,,Twitter,left_only,
+646,Washington,Seattle/Tacoma,,KPLU,FM,88.5,None,,Twitter,left_only,
