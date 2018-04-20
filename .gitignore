@@ -26,3 +26,5 @@ __pycache__/config.cpython-36.pyc
 .ipynb_checkpoints/NPR_Tweets-checkpoint.ipynb
 
 .ipynb_checkpoints/LocalTV_Tweets-checkpoint.ipynb
+
+Resources/EO_Immigration_Tweets.json
