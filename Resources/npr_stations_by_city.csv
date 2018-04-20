@@ -1,22 +1,703 @@
-,City,State,Station Identifier,AM/FM Number,AM/FM Number.1,Latitude,Longitude
-0,Birmingham,Alabama,WBHM,FM,90.3,33.5206608,-86.80248999999999
-1,Dothan,Alabama,WRWA,FM,88.7,31.2232313,-85.3904888
-2,Gadsden,Alabama,WSGN,FM,91.5,34.014264,-86.0066386
-3,Huntsville,Alabama,WJAB,FM,90.9,34.7303688,-86.5861037
-4,Huntsville,Alabama,WLRH,FM,89.3,34.7303688,-86.5861037
-5,Jacksonville,Alabama,WLJS,FM,91.9,33.8137125,-85.76135359999999
-6,Mobile,Alabama,WHIL,FM,91.3,30.6953657,-88.0398912
-7,Montgomery,Alabama,WVAS,FM,90.7,32.3668052,-86.2999689
-8,Montgomery/Troy,Alabama,WTSU,FM,89.9,32.3762523,-86.3108893
-9,Muscle Shoals,Alabama,WQPR,FM,88.7,34.7448112,-87.66752919999999
-10,Selma,Alabama,WAPR,FM,88.3,32.4073589,-87.02110069999999
-11,Tuscaloosa,Alabama,WUAL,FM,91.5,33.2098407,-87.56917349999999
-12,Anchorage,Alaska,KSKA,FM,91.1,61.2180556,-149.9002778
-13,Barrow,Alaska,KBRW,AM,680.0,71.29055559999999,-156.788611
-14,Barrow,Alaska,KBRW,FM,91.9,71.29055559999999,-156.788611
-15,Bethel,Alaska,KYUK,AM,640.0,60.7922222,-161.7558334
-16,Chevak,Alaska,KCUK,FM,88.1,61.5277778,-165.5863889
-17,Dillingham,Alaska,KDLG,AM,670.0,59.03972219999999,-158.4575
-18,Fairbanks,Alaska,KUAC,FM,89.9,64.8377778,-147.7163888
-19,Galena,Alaska,KIYU,AM,910.0,64.7333333,-156.9275
-20,Glennallen,Alaska,KXGA,FM,90.5,62.1097214,-145.5573019
+,State,City,Station Identifier,AM/FM,Channel Number,Twitter Handle,Alternate,Latitude,Longitude
+0,Alaska,Anchorage,KNBA,FM,90.3,@KNBA,@aprn,61.2180556,-149.9002778
+6,Alaska,Unalaska,KUCB,FM,89.7,@KUCBNews,,53.8844382,-166.5332434
+10,California,Angwin,KDFC,FM,89.9,@ClassicalKDFC,,38.5757402,-122.4499796
+12,California,Calexico,KQVO,FM,97.7,@kpbsnews,,32.6789476,-115.4988834
+13,California,Coachella,KVLA,FM,90.3,@kvlatv,,33.6803003,-116.173894
+14,California,McCloud,KLDD,FM,91.9,@JPRnews,,41.2557119,-122.1394487
+16,California,Mojave,KCRY,FM,88.1,@kcrw,,35.0524699,-118.1739645
+17,California,Morro Bay,KESC,FM,99.7,@classicalkusc,,35.3659445,-120.8499924
+20,California,Quincy,KQNC,FM,88.1,@capradionews,,39.9368363,-120.9471764
+21,California,Redlands,KUOR,FM,89.1,@scpr,,34.0555693,-117.1825381
+24,California,Sacramento,KXPR,FM,88.9,@capradionews,,38.5815719,-121.4943996
+25,California,San Ardo,KNBX,FM,91.7,@kcbxfm,,36.0205207,-120.9051826
+27,California,San Francisco,KUSF,FM,90.3,@kusforg,,37.7749295,-122.4194155
+28,California,Santa Barbara,KDRW,FM,88.7,@kcrw,,34.4208305,-119.6981901
+29,California,Santa Barbara,KCLU,AM,1340.0,@kclulive,,34.4208305,-119.6981901
+30,California,Santa Barbara,KSBX,FM,89.5,@kcbxfm,,34.4208305,-119.6981901
+32,California,Sutter,KXJS,FM,88.7,@capradionews,,39.1598915,-121.7527482
+33,California,Thousand Oaks,KDSC,FM,91.1,@classicalKUSC,,34.1705609,-118.8375937
+35,Colorado,Carbondale,KCJX,FM,88.9,@aspenpubradio,,39.4022054,-107.2111628
+36,Colorado,Carbondale,KDNK,FM,88.1,@kdnkradio,,39.4022054,-107.2111628
+39,Colorado,Denver,KCFR,FM,90.1,@COPublicRadio,,39.7392358,-104.990251
+40,Colorado,Denver,KVOD,FM,88.1,@COPublicRadio,,39.7392358,-104.990251
+41,Colorado,Fort Collins,KVXQ,FM,88.3,@COPublicRadio,,40.5852602,-105.084423
+42,Colorado,Ignacio,KUTE,FM,90.1,@ksut,,37.1150037,-107.633113
+45,Colorado,Steamboat Springs,KRNC,FM,88.5,@kunc,,40.4849769,-106.8317158
+46,Connecticut,Fairfield,WVOF,FM,88.5,@wvof885,,41.1408363,-73.2612615
+47,Connecticut,Meriden,WNPR,FM,90.5,@wnpr,,41.5381535,-72.80704349999999
+48,Connecticut,Middletown,WESU,FM,88.1,@WESUmiddletown,,41.5623209,-72.6506488
+52,Connecticut,Sharon,WQQQ,FM,103.3,@wqqq,,41.8793754,-73.4768697
+53,Delaware,Dover,WDDE,FM,91.1,@wdde,,39.158168,-75.5243682
+56,Florida,Miami,WDNA,FM,88.9,@wdnaradio,,25.7616798,-80.1917902
+57,Florida,Sarasota,WSMR,FM,89.1,@wusf,,27.3364347,-82.53065269999999
+59,Georgia,Chatsworth,WNGH,FM,98.9,@gpbnews,@mygpb,34.7659145,-84.7699385
+61,Georgia,Macon,WMUM,FM,89.7,@gpbmacon,,32.8406946,-83.6324022
+62,Georgia,Rome,WGPB,FM,97.7,@gpbnews,@mygpb,34.257038,-85.1646726
+73,Illinois,Galesburg,WVKC,FM,90.7,@TheWVKC,,40.94781580000001,-90.3712395
+74,Illinois,Glen Ellyn,WDCB,FM,90.9,@WDCBnews,,41.8775293,-88.0670118
+77,Illinois,Urbana,WILL,AM,90.9,@willpublicmedia,,40.1105875,-88.2072697
+80,Indiana,Fort Wayne,WBOI,FM,89.1,@WBOI,,41.079273,-85.1393513
+83,Indiana,Lowell,WLPR,FM,89.1,@WLPR891,,41.2914243,-87.4205903
+85,Indiana,Vincennes,WVUB,FM,91.1,@WVUB,,38.677269,-87.5286325
+96,Iowa,Okoboji,KOJI,FM,90.7,@kwitkoji,,43.3863521,-95.1483293
+97,Iowa,Ottumwa,KNSZ,FM,89.1,@Ottumwa_Radio,,41.01602930000001,-92.40830220000001
+98,Iowa,Ottumwa,KICW,FM,91.1,@kicwtv,,41.01602930000001,-92.40830220000001
+99,Iowa,Patterson,KICP,FM,105.9,@iowapublicradio,,41.3483244,-93.88050229999999
+100,Iowa,Pleasantville,KICL,FM,96.3,@iowapublicradio,,41.3869578,-93.2682683
+101,Iowa,Waterloo,KBBG,FM,88.1,@kbbgradio,,42.492786,-92.34257749999999
+102,Kansas,Chanute,KANQ,FM,90.3,@kprnews,,37.6792135,-95.4572034
+103,Kansas,Hays,KZAN,FM,91.7,@hppr,,38.8791783,-99.3267702
+104,Kansas,Olsburg,KANV,FM,91.3,@kprnews,,39.4305527,-96.6155634
+106,Kentucky,Louisville,WUOL,FM,90.5,@wuol,,38.2526647,-85.7584557
+107,Louisiana,Alexandria,KLSA,FM,90.7,@rrrpublicradio,,31.3112936,-92.4451371
+109,Louisiana,Baton Rouge,WRKF,FM,89.3,@wrkf,,30.4514677,-91.18714659999999
+110,Louisiana,Hammond,KSLU,FM,90.9,@kslutwitter,,30.5043583,-90.46119949999999
+111,Louisiana,Lafayette,KRVS,FM,88.7,@krvsmedia,,30.2240897,-92.0198427
+112,Louisiana,Monroe,KEDM,FM,90.3,@kedmpublicradio,,32.5093109,-92.1193012
+113,Louisiana,New Orleans,WWNO,FM,89.9,@wwno,,29.95106579999999,-90.0715323
+114,Louisiana,Shreveport,KDAQ,FM,89.9,@rrrpublicradio,,32.5251516,-93.7501789
+116,Maine,Camden,WMEP,FM,90.5,@mainepublic,,44.2097928,-69.0647838
+117,Maryland,Frederick,WYPF,FM,88.1,@wypf881fm,,39.41426879999999,-77.4105409
+118,Maryland,Hagerstown,WGMS,FM,89.1,@wetatvfm,,39.6417629,-77.71999319999999
+121,Maryland,Towson,WTMD,FM,89.7,@wtmd,,39.4014955,-76.6019125
+122,Massachusetts,Brewster,WZAI,FM,94.3,@wcai_npr,,41.7600902,-70.0827905
+123,Massachusetts,Deerfield,WNNZ,FM,91.7,@wfcr885,,42.5445588,-72.6056435
+124,Massachusetts,Lowell,WCRB,FM,99.5,@995wcrb,,42.6334247,-71.31617179999999
+126,Massachusetts,Newburyport,WNEF,FM,91.7,@wumbradio,,42.8125913,-70.87727509999999
+129,Massachusetts,Stow,WUMG,FM,91.7,@wumbradio,,42.4370374,-71.5056199
+131,Massachusetts,Westfield,WNNZ,AM,640.0,@wfcr885,,42.1250929,-72.749538
+132,Michigan,Berrien Springs,WAUS,FM,90.7,@wausfm,,41.9464342,-86.338905
+134,Michigan,Houghton,WGGL,FM,91.1,@mprnews,,47.12113309999999,-88.5694182
+135,Michigan,Mackinaw City,WIAB,FM,88.5,@IPRNewsRadio,,45.7774987,-84.72714649999999
+136,Michigan,Manistee,WLMN,FM,89.7,@IPRNewsRadio,,44.2444473,-86.324253
+137,Minnesota,Appleton,KRSU,FM,91.3,@rsuradio,,45.1991667,-96.0244443
+138,Minnesota,Austin,KNSE,FM,90.1,@mpr,,43.6666296,-92.97463669999999
+139,Minnesota,Bemidji,KCRB,FM,88.5,@mpr,,47.471573,-94.8826861
+140,Minnesota,Brainerd,KBPN,FM,88.3,@mpr,,46.3526733,-94.2020084
+141,Minnesota,St. Cloud,KSJR,FM,90.1,@mpr,,45.5579451,-94.16324039999999
+142,Minnesota,Duluth,KUMD,FM,103.3,@kumd1033fm,,46.78667189999999,-92.1004852
+143,Minnesota,Duluth,WSCD,FM,92.9,@mpr,,46.78667189999999,-92.1004852
+144,Minnesota,Fergus Falls,KCMF,FM,89.7,@mpr,,46.2835212,-96.0777887
+145,Minnesota,Fergus Falls,KNWF,FM,91.5,@mpr,,46.2835212,-96.0777887
+147,Minnesota,Grand Marais,WMLS,FM,88.7,@classicalmpr,,47.7504469,-90.3342727
+148,Minnesota,Grand Marais,WTIP,FM,90.7,@wtipradio,,47.7504469,-90.3342727
+149,Minnesota,Grand Portage,WGPO,FM,90.1,@wtipradio,,47.9637433,-89.68487119999999
+150,Minnesota,Hinckley,WGRH,FM,88.5,@mpr,,46.015,-92.9388889
+151,Minnesota,International Falls,KITF,FM,88.3,@mpr,,48.6023149,-93.4040679
+152,Minnesota,Mankato,KMSU,FM,89.7,@kmsutwitter,,44.1635775,-93.99939959999999
+153,Minnesota,Minneapolis,KBEM,FM,88.5,@kbemfm,,44.977753,-93.2650108
+154,Minnesota,Minneapolis,KFAI,FM,90.3,@kfainews,,44.977753,-93.2650108
+155,Minnesota,Moorhead,KCCM,FM,91.1,@mpr,,46.8737648,-96.76780389999999
+156,Minnesota,"St. Paul Minneapolis, Minnesota",KCMP,FM,89.3,@kcmpnews,,44.9537029,-93.0899578
+157,Minnesota,Redwood Falls,KRFI,FM,88.1,@mpr,,44.5394039,-95.1169424
+158,Minnesota,Rochester,KLSE,FM,90.7,@mpr,,44.0121221,-92.4801989
+159,Minnesota,Rochester,KZSE,FM,91.7,@mpr,,44.0121221,-92.4801989
+161,Minnesota,Minneapolis,KSJN,FM,99.5,@mpr,,44.977753,-93.2650108
+162,Minnesota,Mankato,KGAC,FM,90.5,@mpr,,44.1635775,-93.99939959999999
+163,Minnesota,Thief River Falls,KQMN,FM,91.5,@mpr,,48.1191353,-96.18114729999999
+164,Minnesota,Hibbing,WIRR,FM,90.9,@mpr,,47.42715459999999,-92.9376887
+166,Mississippi,Booneville,WMAE,FM,89.5,@mpbonline,,34.6581596,-88.5667036
+167,Mississippi,Bude,WMAU,FM,88.9,@mpbonline,,31.4629491,-90.8501014
+169,Mississippi,Holly Springs,WURC,FM,88.1,@wurc881,,34.76759670000001,-89.44868939999999
+170,Mississippi,Jackson,WJSU,FM,88.5,@wjsu885,,32.2987573,-90.1848103
+171,Mississippi,Mississippi State,WMAB,FM,89.9,@mpbonline,,33.4555279,-88.7903868
+173,Mississippi,Starkville,WMSV,FM,91.1,@msuradio_wmsv,,33.4503998,-88.81838719999999
+174,Missouri,Branson,KSMS,FM,90.5,@ksmu,,36.6436731,-93.21851439999999
+175,Missouri,Chillicothe,KRNW,FM,88.9,@kxcvkrnw,,39.7952946,-93.5524358
+176,Missouri,Springfield,KSMU,FM,91.1,@ksmu,,37.2089572,-93.29229889999999
+177,Missouri,St. Louis,KWMU,FM,90.7,@stlpublicradio,,38.6270025,-90.19940419999999
+178,Missouri,Warrensburg,KTBG,FM,90.9,@909thebridge,,38.7627893,-93.73604979999999
+180,Missouri,Rolla,KMST,FM,88.5,@stlpublicradio,,37.948544,-91.7715303
+182,Missouri,West Plains,KSMW,FM,90.9,@ksmu,,36.7281154,-91.8523711
+183,Montana,Bozeman,KGLT,FM,91.9,@kgltfm,,45.6769979,-111.0429339
+187,Nebraska,Omaha,KIOS,FM,91.5,@kiosomaha,,41.2565369,-95.9345034
+188,Nebraska,Lincoln,KZUM,FM,89.3,@kzumradio,,40.813616,-96.7025955
+189,Nevada,Elko,KNCC,FM,91.5,@renopublicradio,,40.8324211,-115.7631232
+190,Nevada,Las Vegas,KUNV,FM,91.5,@kunvradio,,36.1699412,-115.1398296
+193,Nevada,Reno,KUNR,FM,88.7,@renopublicradio,,39.5296329,-119.8138027
+195,Nevada,Las Vegas,KNPR,FM,89.5,@knprnews,,36.1699412,-115.1398296
+197,Nevada,Las Vegas,KCNV,FM,89.7,@knprnews,,36.1699412,-115.1398296
+198,Nevada,Las Vegas,KNPR,FM,88.9,@knprnews,,36.1699412,-115.1398296
+200,New Hampshire,Concord,WEVO,FM,89.1,@nhpr,,43.2081366,-71.5375718
+203,New Hampshire,Keene,WEVN,FM,90.7,@nhpr,,42.933692,-72.2781409
+204,New Hampshire,Jackson,WEVJ,FM,99.5,@nhpr,,44.1462613,-71.1850996
+206,New Jersey,Atlantic City,WNJN,FM,89.7,@njtvnews,,,
+210,New Jersey,Lincroft,WBJB,FM,90.5,@wbjb,,40.3306656,-74.1209748
+212,New Jersey,Newark,WBGO,FM,88.3,@wbgo,,40.735657,-74.1723667
+215,New Jersey,Hackettstown,WNTI,FM,91.9,@centenary_nj,,40.8539879,-74.8290555
+216,New Jersey,Atlantic City,WRTQ,FM,91.3,@wrtimusic,,,
+219,New Mexico,Albuquerque,KANW,FM,89.1,@kanwfm,,35.0843859,-106.650422
+220,New Mexico,Albuquerque,KUNM,FM,89.9,@kunmnews,,35.0843859,-106.650422
+221,New Mexico,Gallup,KGLP,FM,91.7,@KGLPradio,,35.5280783,-108.7425843
+222,New Mexico,Las Cruces,KRWG,FM,90.7,@krwg,,32.3199396,-106.7636538
+223,New Mexico,Maljamar,KMTH,FM,98.7,@KENWpublicmedia,,32.8562301,-103.7627277
+224,New Mexico,Portales,KENW,FM,89.5,@KENWpublicmedia,,34.1861922,-103.3343978
+226,New Mexico,Magdalena,KABR,AM,1500.0,@kabrradio,,34.1167305,-107.2439251
+230,New York,Albany,WAMC,FM,90.3,@WAMCradio,,42.6525793,-73.7562317
+231,New York,Binghamton,WSKG,FM,89.3,@WSKG,,42.09868669999999,-75.91797380000001
+232,New York,Binghamton,WSQX,FM,91.5,@WSKG,,42.09868669999999,-75.91797380000001
+235,New York,Brookville,WCWP,FM,88.1,@wcwpsports,,40.8131553,-73.5673482
+236,New York,Buffalo,WBFO,FM,88.7,@wbfo,,42.88644679999999,-78.8783689
+238,New York,Canton,WSLU,FM,89.5,@ncpr,,44.5956163,-75.1690942
+241,New York,Ithaca,WSQG,FM,90.9,@wskg,,42.4439614,-76.5018807
+242,New York,Jamestown,WUBJ,FM,88.1,@wbfo,,42.0970023,-79.23532589999999
+243,New York,Jeffersonville,WJFF,FM,90.5,@wjffradio,,41.7809217,-74.9337755
+247,New York,New York City,WFUV,FM,90.7,@wfuv,,40.7127753,-74.0059728
+248,New York,New York City,WNYC,AM,820.0,@wnyc,,40.7127753,-74.0059728
+249,New York,New York City,WNYC,FM,93.9,@wnyc,,40.7127753,-74.0059728
+251,New York,Olean,WOLN,FM,91.3,@wbfo,,42.083639,-78.42992699999999
+253,New York,Oswego,WRVO,FM,89.9,@WRVO,,43.4553461,-76.5104973
+255,New York,Plattsburgh,WCEL,FM,91.9,@WMACradio,,44.6994873,-73.4529124
+256,New York,Poughkeepsie,WRHV,FM,88.7,@wwfmclassical,,41.7003713,-73.9209701
+257,New York,Rochester,WXXI,AM,1370.0,@WXXInews,,43.15657789999999,-77.6088465
+258,New York,Rochester,WXXI,FM,91.5,@WXXInews,,43.15657789999999,-77.6088465
+259,New York,Saranac Lake,WSLL,FM,90.5,@ncpr,,44.329496,-74.1312662
+260,New York,Schenectady,WMHT,FM,89.1,@wmhtpubmedia,,42.8142432,-73.9395687
+261,New York,Selden,WSUF,FM,89.9,@wshunews,,40.8664873,-73.0356625
+263,New York,Syracuse,WAER,FM,88.3,@waer883,,43.0481221,-76.14742439999999
+264,New York,Syracuse,WCNY,FM,91.3,@wcny,,43.0481221,-76.14742439999999
+267,New York,Utica,WUNY,FM,89.5,@wcny,,43.100903,-75.232664
+271,New York,Buffalo,WNED,AM,970.0,@wned,,42.88644679999999,-78.8783689
+272,New York,Buffalo,WNED,FM,89.3,@wned,,42.88644679999999,-78.8783689
+273,New York,Geneva,WEOS,FM,89.7,@WEOSmorning,,42.8679836,-76.985557
+276,New York,Southampton,WLIU,FM,88.3,@WLIU_BK,,40.8598656,-72.5678041
+278,New York,Boonville,WXLB,FM,91.7,@ncpr,,43.4836801,-75.33656069999999
+279,New York,Buffalo,WNED,FM,94.5,@wned,@wnedtv,42.88644679999999,-78.8783689
+281,New York,Fredonia,WCVF,FM,91.3,@fredoniaradio,,42.4400576,-79.3317105
+282,New York,Geneva,WEOS,FM,89.5,@WEOSmorning,,42.8679836,-76.985557
+283,New York,Gouverneur,WXLB,FM,90.5,@ncpr,,44.33672809999999,-75.462993
+284,New York,Hamilton,WRCU,FM,90.1,@wrcucolgate,,42.8270136,-75.5446238
+285,New York,Houghton,WXXY,FM,90.3,@WXXIrochester,,42.4233981,-78.1572319
+286,New York,Jamestown,WNJA,FM,89.7,@wned,,42.0970023,-79.23532589999999
+288,New York,Peru,WXLU,FM,88.1,@ncpr,,44.5731475,-73.54523089999999
+289,New York,Rochester,WRUR,FM,88.5,@wrurfm,,43.15657789999999,-77.6088465
+290,New York,Southampton,WPPB,FM,88.3,@wppb,,40.8598656,-72.5678041
+291,New York,Tupper Lake,WXLS,FM,88.3,@ncpr,,44.2239488,-74.4640575
+292,North Carolina,Asheville,WCQS,FM,88.1,@news_bpr,,35.5950581,-82.5514869
+293,North Carolina,Atlantic Beach,WBJD,FM,91.5,@publicradioeast,,34.6990505,-76.7402108
+295,North Carolina,Chapel Hill,WUNC,FM,91.5,@wunc,,35.9131996,-79.0558445
+296,North Carolina,Charlotte,WFAE,FM,90.7,@wfae,,35.2270869,-80.8431267
+297,North Carolina,Davidson,WDAV,FM,89.9,@wdav,,35.4993031,-80.8486846
+298,North Carolina,Durham,WNCU,FM,90.7,@wncu,,35.9940329,-78.898619
+299,North Carolina,Fayetteville,WFSS,FM,91.9,@wunc,,35.0526641,-78.87835849999999
+300,North Carolina,Franklin,WFQS,FM,91.3,@news_bpr,,35.1823171,-83.3815429
+303,North Carolina,New Bern,WTEB,FM,89.3,@publicradioeast,,35.108493,-77.04411429999999
+304,North Carolina,Spindale,WNCW,FM,88.7,@wncw,,35.3601212,-81.929271
+305,North Carolina,Wilmington,WHQR,FM,91.3,@whqr,,34.2257255,-77.9447102
+306,North Carolina,Winston-Salem,WFDD,FM,88.5,@wfdd,,36.09985959999999,-80.244216
+307,North Carolina,Kingston,WKNS,FM,90.5,@publicradioeast,,35.2626635,-77.5816353
+309,North Carolina,Rocky Mount,WRQM,FM,90.0,@wunc,,35.9382103,-77.7905339
+310,North Carolina,Elizabeth City,WRVS,FM,89.9,@wrvs899,,36.2946008,-76.2510461
+311,North Carolina,Kinston,WKNS,FM,90.3,@publicradioeast,,35.2626635,-77.5816353
+312,North Carolina,Manteo,WUND,FM,88.9,@wunc,,35.9082256,-75.67573019999999
+313,North Carolina,New Bern,WZNB,FM,88.5,@publicradioeast,,35.108493,-77.04411429999999
+314,North Carolina,Raleigh,WSHA,FM,88.9,@889fmwsha,,35.7795897,-78.6381787
+315,North Carolina,Raleigh,WCPE,FM,89.7,@wcpe,,35.7795897,-78.6381787
+316,North Carolina,Rocky Mount,WRQM,FM,90.9,@wunc,,35.9382103,-77.7905339
+317,North Carolina,Winston-Salem,WSNC,FM,90.5,@wsncradio,,36.09985959999999,-80.244216
+318,North Dakota,Belcourt,KEYA,FM,88.5,@KEYApublicradio,,48.8391712,-99.7448689
+319,North Dakota,Bismarck,KCND,FM,90.5,@prairiepublic,,46.8083268,-100.7837392
+320,North Dakota,Dickinson,KDPR,FM,89.9,@KDPRknows,,46.8791756,-102.7896242
+321,North Dakota,Fargo,KDSU,FM,91.9,@prairiepublic,,46.8771863,-96.7898034
+322,North Dakota,Grand Forks,KUND,FM,89.3,@prairiepublic,,47.9252568,-97.0328547
+323,North Dakota,Jamestown,KPRJ,FM,91.5,@prairiepublic,,46.9105438,-98.7084357
+325,North Dakota,Williston,KPPR,FM,89.5,@prairiepublic,,48.1469683,-103.6179745
+327,Ohio,Athens,WOUB,AM,1340.0,@woub,,39.3292396,-82.1012554
+328,Ohio,Athens,WOUB,FM,91.3,@woub,,39.3292396,-82.1012554
+332,Ohio,Dayton,WDPR,FM,88.1,@discoverdpr,,39.7589478,-84.1916069
+334,Ohio,Ironton,WOUL,FM,89.1,@woub,,38.5367471,-82.6829406
+336,Ohio,Mansfield,WOSV,FM,91.7,@wosu,,40.75839,-82.5154471
+339,Ohio,Oxford,WMUB,FM,88.5,@917wvxu,,39.5069974,-84.74523099999999
+341,Ohio,Toledo,WGTE,FM,91.3,@wtgepublic,,41.6528052,-83.5378674
+342,Ohio,Wooster,WKRW,FM,89.3,@wksu,,40.8050565,-81.935143
+345,Ohio,Mt. Gilead,WVXG,FM,95.1,@951rocks,,40.5492265,-82.8274014
+346,Ohio,Thompson,WSKV,FM,89.1,@wskv,,41.6702348,-81.0533854
+349,Ohio,Columbus,WOSU,FM,89.7,@wosu,,39.9611755,-82.99879419999999
+356,Oklahoma,Altus,KOCU,FM,90.1,@kucofm,,34.637765,-99.3340442
+358,Oklahoma,Ketchum,KOSN,FM,107.5,@kosuradio,,36.5245267,-95.0238513
+359,Oklahoma,Tulsa,KWTU,FM,88.7,@kwgsnews,,36.1539816,-95.99277500000001
+360,Oklahoma,Woodward,KWOU,FM,88.1,@kwouonline,,36.4336481,-99.3903862
+361,Oregon,Ashland,KAGI,AM,930.0,@jprnews,,42.1945758,-122.7094767
+362,Oregon,Ashland,KSJK,AM,1230.0,@jprnews,,42.1945758,-122.7094767
+363,Oregon,Ashland,KSMF,FM,89.1,@jprnews,,42.1945758,-122.7094767
+364,Oregon,Ashland,KSRG,FM,88.3,@jprnews,,42.1945758,-122.7094767
+365,Oregon,Ashland,KSOR,FM,90.1,@jprnews,,42.1945758,-122.7094767
+366,Oregon,Astoria,KMUN,FM,91.9,@coastradio,,46.1878841,-123.8312534
+367,Oregon,Bend,KOAB,FM,91.3,@opb,,44.0581728,-121.3153096
+368,Oregon,Coos Bay,KSBA,FM,88.5,@ksbanews,,43.3665007,-124.2178903
+369,Oregon,Corvallis,KOAC,AM,550.0,@opb,,44.5645659,-123.2620435
+370,Oregon,Eugene,KRVM,AM,1280.0,@91krvm,,44.0520691,-123.0867536
+371,Oregon,Florence,KLFO,FM,88.1,@klcceugeneor,,43.9826214,-124.099841
+372,Oregon,Klamath Falls,KSKF,FM,90.9,@jprnews,,42.224867,-121.7816704
+373,Oregon,Newport,KLCO,FM,90.5,@klcceugeneor,,44.6367836,-124.0534505
+375,Oregon,Portland,KOPB,FM,91.5,@opb,,45.5230622,-122.6764815
+378,Oregon,Eugene,KOPB,AM,1600.0,@opb,,44.0520691,-123.0867536
+379,Oregon,Klamath Falls,KLMF,FM,88.5,@jprnews,,42.224867,-121.7816704
+381,Oregon,Roseburg,KTBR,AM,950.0,@jprnews,,43.216505,-123.3417381
+383,Oregon,Tillamook,KTCB,FM,89.5,@coastradio,,45.4562158,-123.8440137
+384,Oregon,Warrenton,KCPB,FM,90.9,@coastradio,,46.1651049,-123.9237557
+390,Pennsylvania,Kane,WPSX,FM,90.1,@wpsu,,41.6628394,-78.81114269999999
+391,Pennsylvania,Middletown,WXPH,FM,88.7,@wxpnfm,,40.199814,-76.7310806
+392,Pennsylvania,Pittsburgh,WESA,FM,90.5,@905wesa,,40.44062479999999,-79.9958864
+393,Pennsylvania,Williamsport,WVYA,FM,89.7,@wviatvfm,,41.2411897,-77.00107860000001
+394,Rhode Island,North Providence,WRNI,AM,1290.0,@ripr,,41.8535518,-71.46766389999999
+395,Rhode Island,Westerly,WXNI,AM,1230.0,@ripr,,41.3775987,-71.82728709999999
+397,Rhode Island,South Coast of Massachusetts and Narragansett Bay communities,WXNI,FM,89.3,@ripr,,41.7240907,-71.1437037
+398,Rhode Island,Coventry and central RI,WCVY,FM,91.5,@wcvy915,,41.6742388,-71.5544142
+399,Rhode Island,"Narragansett and southern RI, Block Island, Aquidneck Island, and parts of the East Bay",WRNI,FM,102.7,@wrni,,41.3791668,-71.5104708
+400,South Carolina,Sumter,WRJA,FM,88.1,@scetv,,33.9204354,-80.3414693
+403,South Dakota,Lowry,KQSD,FM,91.9,@SoDakPB,,45.3160993,-99.9826202
+406,South Dakota,Rapid City,KBHE,FM,89.3,@SoDakPB,,44.0805434,-103.2310149
+408,South Dakota,Sioux Falls,KCSD,FM,90.9,@SoDakPB,,43.5445959,-96.73110340000001
+409,South Dakota,Vermillion,KUSD,FM,89.7,@SoDakPB,,42.7794417,-96.9292104
+410,South Dakota,Sioux Falls,KRSD,FM,88.1,@mpr,,43.5445959,-96.73110340000001
+411,Tennessee,Cookeville,WHRS,FM,91.7,@WPLN,,36.162839,-85.5016423
+413,Tennessee,Jackson,WKNP,FM,90.1,@wknofm,,35.6145169,-88.81394689999999
+414,Tennessee,Collegedale,WSMC,FM,90.5,@wsmcfm,,35.0531301,-85.0502276
+415,Tennessee,Nashville,WFCL,FM,91.1,@WPLN,,36.1626638,-86.7816016
+416,Texas,Ingram,KTXI,FM,90.1,@tprnews,,30.0774307,-99.24032129999999
+417,Texas,Abilene,KACU,FM,89.5,@kacu895,,32.4487364,-99.73314390000002
+418,Texas,Amarillo,KJJP,FM,105.7,@hppr,,35.2219971,-101.8312969
+420,Texas,Commerce,KETR,FM,88.9,@ketrradio,,33.2470567,-95.8999656
+422,Texas,Harlingen,KJJF,FM,88.9,@RGVpublicradio,,26.1906306,-97.69610259999999
+423,Texas,Houston,KTSU,FM,90.9,@officialktsu909,,29.7604267,-95.3698028
+424,Texas,Llano,KVHL,FM,91.7,@tprnews,,30.75934519999999,-98.67503789999999
+425,Texas,Lubbock,KTTZ,FM,89.1,@kttz,,33.5778631,-101.8551665
+426,Texas,Marfa,KRTS,FM,93.5,@marfaradio,,30.3094622,-104.020623
+427,Texas,Odessa,KXWT,FM,91.3,@kxwt,,31.8456816,-102.3676431
+428,Texas,San Angelo,KNCH,FM,90.1,@kttz,,31.4637723,-100.4370375
+429,Texas,San Antonio,KPAC,FM,88.3,@tprclassical,,29.4241219,-98.49362819999999
+430,Texas,Sherman,KERA,FM,99.3,@keratx,,33.6356618,-96.6088805
+431,Texas,Snyder,KTPR,FM,89.9,@tprnews,,32.7178862,-100.9176184
+432,Texas,Spearman,KTOT,FM,89.5,@hppr,,36.1983665,-101.1923795
+433,Texas,Stephenville,KTRL,FM,90.5,@ktrlradio,,32.2206958,-98.2022633
+434,Texas,Tyler,KERA,FM,100.1,@keratx,,32.3512601,-95.30106239999999
+435,Texas,Wichita Falls,KMCU,FM,88.7,@kccuradio,,33.9137085,-98.4933873
+436,Texas,Wichita Falls,KERA,FM,88.3,@keratx,,33.9137085,-98.4933873
+437,Utah,Logan,KUSR,FM,89.5,@utahpublicradio,,41.7369803,-111.8338359
+439,Utah,Park City,KPCW,FM,91.7,@kpcwtwitter,,40.6460622,-111.4979729
+440,Utah,Price,KCEU,FM,89.7,@TTBook,,39.5994095,-110.8107148
+441,Utah,Richfield,KUSL,FM,89.3,@utahpublicradio,,38.7724673,-112.0840943
+442,Utah,St. George,KSGU,FM,90.3,@stgeorgechamber,,37.0965278,-113.5684164
+444,Vermont,Bristol,WXLQ,FM,90.5,@ncpr,,44.1333912,-73.0790076
+445,Vermont,Colchester,WVTX,FM,88.7,@vprnet,,44.5439375,-73.1479068
+446,Vermont,Norwich,WNCH,FM,88.1,@vprnet,,43.7153482,-72.307869
+450,Virginia,Hot Springs,WCHG,FM,107.1,@mtnradio,,37.9993993,-79.831587
+451,Virginia,Monterey,WVLS,FM,89.7,@mtnradio,,38.4123429,-79.5806036
+452,Washington,Walla Walla,KWWS,FM,89.7,@nwptv,,46.0645809,-118.3430208
+455,Washington,Chehalis,KSWS,FM,88.9,@nwptv,,46.6620478,-122.9640175
+459,Washington,Tacoma,KNKX,FM,88.5,@knkxfm,,47.2528768,-122.4442906
+460,Washington,Tumwater,KUOW,AM,1340.0,@kuow,,47.0073187,-122.9093063
+465,West Virginia,Martinsburg,WVEP,FM,88.9,@wvpublic,,39.4562099,-77.96388689999999
+466,West Virginia,Morgantown,WVPM,FM,90.9,@wvpublic,,39.629526,-79.95589679999999
+469,West Virginia,Beckley,WVPB,FM,91.7,@wvpublic,,37.7781702,-81.1881557
+470,West Virginia,Charleston,WVPN,FM,88.5,@wvpublic,,38.3498195,-81.6326234
+473,West Virginia,Charleston,WVPB,FM,88.5,@wvpublic,,38.3498195,-81.6326234
+474,West Virginia,Frost,WVMR,AM,1370.0,@mtnradio,,38.2708362,-79.87798339999999
+477,Wisconsin,Brule,WHSA,FM,89.9,@wpr,,46.5630932,-91.5863112
+478,Wisconsin,Delafield,WHAD,FM,90.7,@wpr,,43.060842,-88.4037079
+479,Wisconsin,Eau Claire,WUEC,FM,89.7,@wpr,,44.811349,-91.4984941
+480,Wisconsin,Green Bay,WHID,FM,88.1,@wpr,,44.5133188,-88.0132958
+481,Wisconsin,Green Bay,WPNE,FM,89.3,@wispublictv,,44.5133188,-88.0132958
+482,Wisconsin,Hayward,WOJB,FM,88.9,@wojb,,46.0130065,-91.4846208
+483,Wisconsin,Highland,WHHI,FM,91.3,@wpr,,43.0466579,-90.3798465
+486,Wisconsin,La Crosse,WLSU,FM,88.9,@wpr,,43.8137751,-91.25190169999999
+487,Wisconsin,Madison,WERN,FM,88.7,@wpr,,43.0730517,-89.4012302
+488,Wisconsin,Madison,WHA,AM,970.0,@wpr,,43.0730517,-89.4012302
+489,Wisconsin,Madison,WSHS,FM,91.7,@wpr,,43.0730517,-89.4012302
+490,Wisconsin,Sheboygan,WSHS,FM,91.7,@wpr,,43.7508284,-87.71453
+491,Wisconsin,Menomonie,WHWC,FM,88.3,@wpr,,44.8755183,-91.9193422
+492,Wisconsin,Menomonie,WVSS,FM,90.7,@wpr,,44.8755183,-91.9193422
+493,Wisconsin,Milwaukee,WUWM,FM,89.7,@wuwmradio,,43.0389025,-87.9064736
+494,Wisconsin,Oshkosh,WRST,FM,90.3,@wrstfm,,44.0247062,-88.5426136
+495,Wisconsin,Park Falls,WHBM,FM,90.3,@wpr,,45.9343981,-90.4415527
+496,Wisconsin,Rhinelander,WXPR,FM,91.7,@wxpr,,45.6366228,-89.4120753
+497,Wisconsin,River Falls,WRFW,FM,88.7,@wrfwfm,,44.8613563,-92.6238082
+498,Wisconsin,Sister Bay,WHDI,FM,91.1,@wpr,,45.1872112,-87.12094499999999
+499,Wisconsin,Sister Bay,WHND,FM,89.7,@wpr,,45.1872112,-87.12094499999999
+500,Wisconsin,Superior,KUWS,FM,91.3,@wpr,,46.7207737,-92.10407959999999
+501,Wisconsin,Wausau,WHRM,FM,90.9,@wpr,,44.9591352,-89.6301221
+502,Wisconsin,Wausau,WLBL,FM,91.9,@wpr,,44.9591352,-89.6301221
+505,Wisconsin,Milwaukee,WYMS,FM,88.9,@RadioMilwaukee,,43.0389025,-87.9064736
+506,Wyoming,Afton,KUWA,FM,91.3,@WYpublicradio,,42.7249282,-110.9318687
+507,Wyoming,Buffalo,KBUW,FM,90.5,@WYpublicradio,,44.3483072,-106.6989375
+508,Wyoming,Casper,KUWC,FM,91.3,@WYpublicradio,,42.8500769,-106.3251749
+510,Wyoming,Gillette,KUWG,FM,90.9,@WYpublicradio,,44.2910915,-105.5022205
+511,Wyoming,Jackson,KUWJ,FM,90.3,@WYpublicradio,,43.4799291,-110.7624282
+512,Wyoming,Laramie,KUWR,FM,91.9,@WYpublicradio,,41.3113669,-105.5911007
+521,Texas,Lufkin,KLDN,FM,88.9,@881TheOne,,31.3382406,-94.729097
+522,Pennsylvania,Pittsburgh,WDUQ,FM,90.5,@905wesa,,40.44062479999999,-79.9958864
+523,Ohio,Cincinnati,WGUC,FM,90.9,@909WGUC,,39.1031182,-84.5120196
+524,Texas,Beaumont,KVLU,FM,91.3,@913KVLU,,30.080174,-94.1265562
+525,Ohio,Cincinnati,WVXU,FM,91.7,@917wvxu,,39.1031182,-84.5120196
+526,Virginia,Norfolk,WHRV,FM,89.5,@hot91,,36.8507689,-76.28587259999999
+527,Texas,Houston,KUHF,FM,88.7,@HoustonPubMedia,@HoustonPubMedia,29.7604267,-95.3698028
+528,Texas,Abilene,KACU,FM,89.7,@KACU895,,32.4487364,-99.73314390000002
+529,Texas,College Station,KAMU,FM,90.9,@KAMUTVFM,,30.627977,-96.3344068
+530,Washington,Bellingham,KZAZ,FM,91.7,@KCBS,,48.7519112,-122.4786854
+531,Oklahoma,Lawton,KCCU,FM,89.3,@KCCURadio,,34.6035669,-98.39592909999999
+532,Utah,Logan,KUSU,FM,91.5,@KCPW,,41.7369803,-111.8338359
+533,Utah,Salt Lake City,KCPW,FM,88.3,@KCPWRadio,,40.7607793,-111.8910474
+534,Texas,College Station,KEOS,FM,89.1,@KEOSRADIO,,30.627977,-96.3344068
+535,Texas,Dallas,KERA,FM,90.1,@keranews,(@keratx),32.7766642,-96.79698789999999
+536,Texas,Dallas,KERA,FM,90.1,@keratx,,32.7766642,-96.79698789999999
+537,Washington,Richland,KFAE,FM,89.1,@kexp,,46.28042000000001,-119.2751996
+538,Oklahoma,Norman,KGOU,FM,106.3,@kgounews,,35.2225668,-97.4394777
+539,Oregon,Eugene,KLCC,FM,89.7,@KLCCEugeneOR,,44.0520691,-123.0867536
+540,Oregon,Gresham,KMHD,FM,89.1,@KMHD_JAZZ_Radio,,45.5059203,-122.4486119
+541,Texas,Denton,KNTU,FM,88.1,@KNTU881,,33.2148412,-97.13306829999999
+542,Oklahoma,Stillwater,KOSU,FM,91.7,@KOSURadio,,36.1156071,-97.0583681
+543,Washington,Spokane,KSFC,FM,91.9,@KPLUpr,,47.6587802,-117.4260465
+544,Texas,Odessa,KOCV,FM,91.3,@KPVU913FM,,31.8456816,-102.3676431
+545,Utah,Salt Lake City,KUER,FM,90.1,@KRCLradio,,40.7607793,-111.8910474
+546,Texas,El Paso,KTEP,FM,88.5,@ktep885fm,,31.7618778,-106.4850217
+547,Utah,Salt Lake City,KPCW,FM,91.9,@KUER_FM,,40.7607793,-111.8910474
+548,Washington,Seattle,KEXP,FM,90.3,@KUOW,,47.6062095,-122.3320708
+549,Texas,Austin,KUT,FM,90.5,@KUT,,30.267153,-97.7430608
+550,Texas,Prairie View,KPVU,FM,91.3,@KUTX,,30.0932737,-95.9877339
+551,Texas,Victoria,KVRT,FM,90.7,@KWBU,,28.8052674,-97.0035982
+552,Oklahoma,Tulsa,KWGS,FM,89.5,@KWGSNEWS,,36.1539816,-95.99277500000001
+553,Texas,Harlingen,KMBH,FM,88.9,@PublicRadio88FM,,26.1906306,-97.69610259999999
+554,Washington,Bellevue,KBCS,FM,91.3,@radio905,,47.6101497,-122.2015159
+555,Puerto Rico,Rio Piedras,WRTU,FM,89.7,@radioupr,,18.3831308,-66.0656843
+556,South Carolina,Aiken,WLJK,FM,89.1,@SCPublicRadio,,33.5604168,-81.7195533
+557,South Carolina,Beaufort,WJWJ,FM,89.9,@SCPublicRadio,,32.4315813,-80.6698286
+558,South Carolina,Charleston,WSCI,FM,89.3,@SCPublicRadio,,32.7764749,-79.93105120000001
+559,South Carolina,Columbia,WLTR,FM,91.3,@SCPublicRadio,,34.0007104,-81.0348144
+560,South Carolina,Conway,WHMC,FM,90.1,@SCPublicRadio,,33.8360034,-79.0478143
+561,South Carolina,Greenville,WEPR,FM,90.1,@SCPublicRadio,,34.85261759999999,-82.3940104
+562,South Carolina,Orangeburg,WSSB,FM,90.3,@SCPublicRadio,,33.4918203,-80.8556476
+563,South Carolina,Rock Hill,WNSC,FM,88.9,@SCPublicRadio,,34.9248667,-81.02507840000001
+564,Virginia,Roanoke,WVTF,FM,89.1,@Uva_Wise,,37.2709704,-79.9414266
+565,Ohio,Columbus,WCBE,FM,90.5,@WCBE905Columbus,,39.9611755,-82.99879419999999
+566,Ohio,Cleveland,WCPN,FM,90.3,@WCPN,,41.49932,-81.6943605
+567,Virginia,Norfolk,WNSB,FM,91.1,@wcve,,36.8507689,-76.28587259999999
+568,Pennsylvania,Allentown,WDIY,FM,88.1,@WDIYFM,,40.6022939,-75.4714098
+569,Tennessee,Johnson City,WETS,FM,89.5,@WETSFM,,36.3134397,-82.3534727
+570,Virginia,Marion,WVTR,FM,91.9,@WHRO,,36.8348383,-81.5148368
+571,Virginia,Norfolk,WHRO,FM,90.3,@whrvfm,,36.8507689,-76.28587259999999
+572,Pennsylvania,Philadelphia,WHYY,FM,90.9,@whyy,,39.9525839,-75.1652215
+573,Pennsylvania,Harrisburg,WITF,FM,89.5,@WITF,,40.2731911,-76.8867008
+574,Tennessee,Memphis,WKNO,FM,91.1,@WKNOFM,,35.1495343,-90.0489801
+575,Ohio,Kent,WKSU,FM,89.7,@WKSU,,41.1536674,-81.3578859
+576,US Virgin Islands,St. Thomas,WVGN,FM,107.3,@WKUF943,,18.3380965,-64.8940946
+577,Virginia,Christiansburg,WWVT,AM,1260.0,@WMLUradio,,37.1298517,-80.4089389
+578,Tennessee,Murfreesboro,WMOT,FM,89.5,@WMOT,,35.8456213,-86.39027
+579,Virginia,Farmville,WMLU,FM,91.3,@WMRAPublicRadio,,37.3020965,-78.3919401
+580,Puerto Rico,San Juan,WOSO,AM,1030.0,@WOSO1030AM,,18.4655394,-66.1057355
+581,Ohio,Columbus,WOSU,AM,820.0,@WOSU,,39.9611755,-82.99879419999999
+582,Ohio,Cambridge,WOUC,FM,89.1,@wouc,,40.031183,-81.5884561
+583,Tennessee,Madison,WPLN,AM,1430.0,@WPLN,,36.25620019999999,-86.7143516
+584,Tennessee,Nashville,WPLN,FM,90.3,@WPLN,,36.1626638,-86.7816016
+585,Pennsylvania,State College,WPSU,FM,91.5,@WPSU,,40.7933949,-77.8600012
+586,Pennsylvania,Johnstown,WQEJ,FM,89.7,@wqed,,40.32674069999999,-78.9219698
+587,Pennsylvania,Pittsburgh,WQED,FM,89.3,@WQEDFM,,40.44062479999999,-79.9958864
+588,Pennsylvania,Erie,WQLN,FM,91.3,@WQLN,,42.12922409999999,-80.085059
+589,Pennsylvania,Philadelphia,WRTI,FM,90.1,@WRTImusic,,39.9525839,-75.1652215
+590,Vermont,Bennington,WBTN,FM,94.3,@WRUVFM,,42.8781345,-73.1967741
+591,Tennessee,Knoxville,WUOT,FM,91.9,@WUOTFM,,35.9606384,-83.9207392
+592,Tennessee,Chattanooga,WUTC,FM,88.1,@WUTC_FM,,35.0456297,-85.3096801
+593,Virginia,Richmond,WCVE,FM,88.9,@WVFTRADIOIQ,,37.5407246,-77.4360481
+594,Pennsylvania,Scranton,WVIA,FM,89.9,@WVIATVFM,,41.408969,-75.66241219999999
+595,Pennsylvania,Philadelphia,WXPN,FM,88.5,@wxpnfm,,39.9525839,-75.1652215
+596,Pennsylvania,Pittsburgh,WYEP,FM,91.3,@WYEP,,40.44062479999999,-79.9958864
+597,Ohio,Yellow Springs,WYSO,FM,91.3,@WYSO,,39.8064486,-83.88687399999999
+598,Ohio,Youngstown,WYSU,FM,88.5,@WYSU,,41.0997803,-80.6495194
+599,Texas,Corpus Christi,KEDT,FM,90.3,@YourKEDT,,27.8005828,-97.39638099999999
+600,California,Northridge,KCSN,FM,88.5,@885fmsocal,,34.2381251,-118.530123
+601,Kentucky,Richmond,WEKU,FM,88.9,@889weku,,37.7478572,-84.2946539
+602,Alaska,McGrath,KSKO,AM,870.0,@89point5_KSKO,,62.9532043,-155.5959922
+603,California,Pacific Grove,KAZU,FM,90.3,@903kazu,,36.6177374,-121.9166215
+604,California,Arcata,KHSU,FM,90.5,@905khsu,,40.8665166,-124.0828396
+605,Indiana,Goshen,WGCS,FM,91.1,@911TheGlobe,,41.5822716,-85.8344383
+606,Alabama,Muscle Shoals,WQPR,FM,88.7,@Alpublicradio,,34.7448112,-87.66752919999999
+607,Alabama,Selma,WAPR,FM,88.3,@Alpublicradio,,32.4073589,-87.02110069999999
+608,Alabama,Tuscaloosa,WUAL,FM,91.5,@Alpublicradio,,33.2098407,-87.56917349999999
+609,Colorado,Aspen,KAJX,FM,91.5,@aspenpubradio,,39.1910983,-106.8175387
+610,Arizona,Tucson,KUAZ,AM,1550.0,@azpm,,32.2226066,-110.9747108
+611,Arizona,Tucson,KUAZ,FM,89.1,@azpm,,32.2226066,-110.9747108
+612,Arizona,Flagstaff,KPUB,FM,91.7,@AZPubRadio,,35.1982836,-111.651302
+613,Arizona,Flagstaff,KNAU,FM,88.7,@AZPubRadio,,35.1982836,-111.651302
+614,Arizona,Grand Canyon,KNAG,FM,90.3,@AZPubRadio,,36.1069652,-112.1129972
+615,Arizona,Prescott,KNAQ,FM,89.3,@AZPubRadio,,34.5400242,-112.4685025
+616,Arizona,Show Low,KNAA,FM,90.7,@AZPubRadio,,34.2542084,-110.0298327
+617,Idaho,Twin Falls,KBSW,FM,91.7,@BSX915,,42.5558381,-114.4700518
+618,Idaho,Rexburg,KBYI,FM,100.5,@byuidahoradio,,43.8231096,-111.7924237
+619,California,Stockton,KUOP,FM,91.3,@capradionews,,37.9577016,-121.2907796
+620,California,Tahoe City,KKTO,FM,90.5,@capradionews,,39.1677134,-120.1451812
+621,California,Sacramento,KXJZ,FM,88.9,@capradionews,,38.5815719,-121.4943996
+622,California,Sacramento,KXPR,FM,90.9,@capradionews,,38.5815719,-121.4943996
+623,California,Los Angeles,KUSC,FM,91.5,@classicalkusc,,34.0522342,-118.2436849
+624,California,Santa Barbara,KFAC,FM,88.7,@Classicalkusc,,34.4208305,-119.6981901
+625,Illinois,DeKalb,WNIU,FM,90.5,@classicalwniu,,41.9294736,-88.75036469999999
+626,Colorado,Boulder,KCFC,AM,1490.0,@copublicradio,,40.0149856,-105.2705456
+627,Colorado,Montrose,KPRH,FM,88.3,@copublicradio,,38.4783198,-107.8761738
+628,Colorado,Pueblo,KCFP,FM,91.9,@copublicradio,,38.2544472,-104.6091409
+629,Colorado,Pueblo,KKPC,AM,1230.0,@copublicradio,,38.2544472,-104.6091409
+630,Colorado,Vail,KPRE,FM,89.9,@copublicradio,,39.6402638,-106.3741955
+631,Colorado,Delta,KPRU,FM,103.3,@cprclassical,,38.7422062,-108.0689582
+632,Colorado,Denver,KCFR,AM,1340.0,@cprclassical,,39.7392358,-104.990251
+633,Colorado,Denver,KVOD,FM,90.1,@cprclassical,,39.7392358,-104.990251
+634,Georgia,Warm Springs,WJSP,FM,88.1,@gpbnewmedia,,32.8904081,-84.6810381
+635,Georgia,Augusta,WACG,FM,90.7,@gpbradioaugusta,,33.4734978,-82.0105148
+636,Georgia,Savannah,WSVH,FM,91.1,@gpbsavannah,,32.0835407,-81.09983419999999
+637,Georgia,Tifton,WABR,FM,91.1,@gpbsavannah,,31.4504629,-83.5084973
+638,Kansas,Garden City,KANZ,FM,91.1,@hppr,,37.9716898,-100.8726618
+639,Kansas,Hill City,KZNA,FM,90.5,@hppr,,39.3647281,-99.8420649
+640,Indiana,Anderson,WBSB,FM,89.5,@INPublicRadio,,40.1053196,-85.6802541
+641,Indiana,Hagerstown,WBSH,FM,91.1,@INPublicRadio,,39.9111576,-85.1616315
+642,Indiana,Marion,WBSW,FM,90.9,@INPublicRadio,,40.5583739,-85.6591442
+643,Indiana,Muncie,WBST,FM,92.1,@INPublicRadio,,40.1933767,-85.3863599
+644,Indiana,Portland,WBSJ,FM,91.7,@INpublicradio,,40.43448950000001,-84.9777455
+645,Iowa,Ames,WOI,AM,640.0,@iowapublicradio,,42.0307812,-93.63191309999999
+646,Iowa,Ames,WOI,FM,90.1,@iowapublicradio,,42.0307812,-93.63191309999999
+647,Iowa,Cedar Falls,KUNI,FM,90.9,@iowapublicradio,,42.5348993,-92.4453161
+648,Iowa,Iowa City,WSUI,AM,910.0,@iowapublicradio,,41.6611277,-91.5301683
+649,Iowa,Iowa City,KSUI,FM,91.7,@iowapublicradio,,41.6611277,-91.5301683
+650,Iowa,Mason City,KRNI,AM,1010.0,@iowapublicradio,,43.1535728,-93.20103669999999
+651,Michigan,Interlochen,WIAA,FM,88.7,@IPRNewsRadio,,44.64537379999999,-85.7676077
+652,Michigan,Traverse City,WICA,FM,91.5,@iprnewsradio,,44.7630567,-85.62063169999999
+653,Iowa,Cedar Rapids,KCCK,FM,88.3,@jazz883kcck,,41.9778795,-91.6656232
+654,Georgia,Atlanta,WCLK,FM,91.9,@Jazz919WCLKatl,,33.7489954,-84.3879824
+655,California,San Francisco,KALW,FM,91.7,@kalw,,37.7749295,-122.4194155
+656,Arkansas,Jonesboro,KASU,FM,91.9,@kasuradio,,35.84229670000001,-90.704279
+657,Arizona,Yuma,KAWC,FM,88.9,@kawc,,32.6926512,-114.6276916
+658,Arizona,Yuma,KAWC,AM,1320.0,@kawc,,32.6926512,-114.6276916
+659,Minnesota,Grand Rapids,KAXE,FM,91.7,@KAXE,,47.2371658,-93.53021419999999
+660,Arizona,Phoenix,KBAQ,FM,89.5,@kbaq,,33.4483771,-112.0740373
+661,Alaska,Homer,KBBI,AM,890.0,@KBBINews,,59.64250000000001,-151.5483333
+662,Missouri,Columbia,KBIA,FM,91.3,@kbia,,38.9517053,-92.3340724
+663,Montana,Bozeman,KBMC,FM,102.1,@kbmc,,45.6769979,-111.0429339
+664,Idaho,Boise,KBSU,FM,90.3,@kbsu903,,43.6187102,-116.2146068
+665,Idaho,Boise,KBSU,AM,730.0,@kbsu903,,43.6187102,-116.2146068
+666,Idaho,Boise,KBSX,FM,91.5,@kbsx915,,43.6187102,-116.2146068
+667,Idaho,McCall,KBSM,FM,91.7,@KBSX915,,44.906183,-116.1171311
+668,Colorado,Crested Butte,KBUT,FM,90.3,@kbutradio,,38.8697146,-106.9878231
+669,California,San Luis Obispo,KCBX,FM,90.1,@kcbxfm,,35.2827524,-120.6596156
+670,Alaska,McCarthy,KXKM,FM,89.7,@kchuradio,,61.4333333,-142.9216667
+671,Alaska,Valdez,KCHU,AM,770.0,@kchuradio,,61.13083330000001,-146.3483334
+672,California,Thousand Oaks,KCLU,FM,88.3,@kclulive,,34.1705609,-118.8375937
+673,California,Indio,KCRI,FM,89.3,@kcrw,,33.7205771,-116.2155619
+674,California,Oxnard,KCRU,FM,89.1,@kcrw,,34.1975048,-119.1770516
+675,California,Santa Monica,KCRW,FM,89.9,@kcrw,,34.0194543,-118.4911912
+676,California,Santa Monica,KCRW,FM,89.9,@kcrw,,34.0194543,-118.4911912
+677,California,San Mateo,KCSM,FM,91.1,@kcsmjazz91,,37.5629917,-122.3255254
+678,Missouri,Kansas City,KCUR,FM,89.3,@kcur,,39.0997265,-94.5785667
+679,Alaska,Dillingham,KDLG,AM,670.0,@kdlgradio,,59.03972219999999,-158.4575
+680,Colorado,Carbondale,KDNK,FM,90.5,@kdnkradio,,39.4022054,-107.2111628
+681,Louisana,Monroe,KEDM,FM,90.3,@kedmpublicradio,,32.5093109,-92.1193012
+682,Montana,Billings,KEMC,FM,91.7,@kemc,,45.7832856,-108.5006904
+683,Alaska,Petersburg,KFSK,FM,100.9,@KFSK1,,56.8125,-132.9555556
+684,Alaska,Haines,KHNS,FM,102.3,@KHNS_FM,,59.2358333,-135.445
+685,California,Long Beach,KKJZ,FM,88.1,@kjazz881,,33.7700504,-118.1937395
+686,Arizona,Phoenix,KJZZ,FM,91.5,@kjzzphoenix,,33.4483771,-112.0740373
+687,Kansas,Wichita,KMUW,FM,89.1,@kmuw,,37.68717609999999,-97.33005299999999
+688,Alaska,Kodiak,KMXT,FM,100.1,@kmxtnews,,57.79000000000001,-152.4072221
+689,Montana,Havre,KNMC,FM,90.1,@KNMCradio,,48.549999,-109.6840887
+690,Missouri,Columbia,KOPN,FM,89.5,@kopnfm,,38.9517053,-92.3340724
+691,Colorado,Telluride,KOTO,FM,91.7,@koto_radio,,37.9374939,-107.8122852
+692,California,San Diego,KPBS,FM,89.5,@kpbsnews,,32.715738,-117.1610838
+693,California,Pasadena,KPCC,FM,89.3,@kpcc,,34.1477849,-118.1445155
+694,California,Pasadena,KPCC,FM,89.3,@kpcc,,34.1477849,-118.1445155
+695,California,North Hollywood,KPFK,FM,90.7,@KPFK,,34.187044,-118.3812562
+696,Guam,Agana,KPRG,FM,89.3,@kprgfm,,13.4762824,144.7502228
+697,Kansas,Emporia,KANH,FM,89.7,@kprnews,,38.403903,-96.18166260000001
+698,Kansas,Lawrence,KANU,FM,91.5,@kprnews,,38.9716689,-95.2352501
+699,California,San Francisco,KQED,FM,88.5,@kqed,,37.7749295,-122.4194155
+700,Alaska,Ketchikan,KRBD,FM,105.9,@KRBDRadio,,55.34222219999999,-131.6461112
+701,California,Santa Rosa,KRCB,FM,91.1,@krcbtv22,,38.440429,-122.7140548
+702,Colorado,Colorado Springs,KRCC,FM,91.5,@krcc,,38.8338816,-104.8213634
+703,Missouri,Cape Girardeau,KRCU,FM,90.9,@krcufm,,37.3058839,-89.51814759999999
+704,Kansas,Pittsburg,KRPS,FM,89.9,@krps899,,37.410884,-94.70496
+705,Louisana,Lafayette,KRVS,FM,88.7,@krvsmedia,,30.2240897,-92.0198427
+706,Colorado,Alamosa,KRZA,FM,88.7,@krzaradio,,37.4694491,-105.8700214
+707,Colorado,Cortez,KSJD,FM,91.5,@ksjdradio,,37.3488827,-108.5859265
+708,Alaska,Anchorage,KSKA,FM,91.1,@kska,,61.2180556,-149.9002778
+709,California,Palm Springs,KPSC,FM,88.5,@kspc,,33.8302961,-116.5452921
+710,Alaska,Wrangell,KSTK,FM,101.7,@kstkradio,,56.4708333,-132.3766666
+711,Colorado,Ignacio,KSUT,FM,91.3,@ksut,,37.1150037,-107.633113
+712,Alaska,Talkeetna,KTNA,FM,88.5,@ktna,,62.32090460000001,-150.1066221
+713,Alaska,Juneau,KTOO,FM,104.3,@KTOOpubmedia,,58.3019444,-134.4197221
+714,Alaska,Fairbanks,KUAC,FM,89.9,@kuacfmtv,,64.8377778,-147.7163888
+715,Arkansas,Fayetteville,KUAF,FM,91.3,@kuaf,,36.082156,-94.17185420000001
+716,Arkansas,Little Rock,KUAR,FM,89.1,@kuarpublicradio,,34.7464809,-92.28959479999999
+717,Colorado,Greeley,KUNC,FM,91.5,@kunc,,40.4233142,-104.7091322
+718,California,Santa Cruz,KUSP,FM,88.9,@kusp,,36.9741171,-122.0307963
+719,Colorado,Denver,KUVO,FM,89.3,@kuvojazz,,39.7392358,-104.990251
+720,California,San Bernardino,KVCR,FM,91.9,@kvcr_tvfm,,34.1083449,-117.2897652
+721,Colorado,Montrose,KVMT,FM,89.1,@kvnfradio,,38.4783198,-107.8761738
+722,Colorado,Paonia,KVNF,FM,90.9,@kvnfradio,,38.8683204,-107.5920017
+723,California,Bakersfield,KPRX,FM,89.1,@kvpr,,35.3732921,-119.0187125
+724,California,Fresno,KVPR,FM,89.3,@kvpr,,36.7377981,-119.7871247
+725,Iowa,Sioux City,KWIT,FM,90.3,@kwitkoji,,42.4999942,-96.40030689999999
+726,Missouri,Maryville,KXCV,FM,90.5,@kxcvkrnw,,40.3461017,-94.8724706
+727,Alaska,Barrow,KBRW,AM,680.0,@kyuknews,,71.29055559999999,-156.788611
+728,Alaska,Barrow,KBRW,FM,91.9,@kyuknews,,71.29055559999999,-156.788611
+729,Alaska,Bethel,KYUK,AM,640.0,@kyuknews,,60.7922222,-161.7558334
+730,California,Philo,KZYX,FM,90.7,@kzyxmusic,,39.0657324,-123.4450093
+731,California,Willits,KZYZ,FM,91.5,@kzyzfm,,39.4096079,-123.3555656
+732,Michigan,Lansing,WLNZ,FM,89.7,@LCCRadio,,42.732535,-84.5555347
+733,Maine,Bangor,WMEH,FM,90.9,@MainePublic,,44.8016128,-68.7712257
+734,Maine,Calais,WMED,FM,89.7,@MainePublic,,45.1889633,-67.27860380000001
+735,Maine,Presque Isle,WMEM,FM,106.1,@mainepublic,,46.68115299999999,-68.01586139999999
+736,Maine,Waterville,WMEW,FM,91.3,@mainepublic,,44.5520105,-69.6317121
+737,Michigan,Ann Arbor,WUOM,FM,91.7,@MichiganRadio,,42.2808256,-83.7430378
+738,Michigan,Flint,WFUM,FM,91.1,@michiganradio,,43.0125274,-83.6874562
+739,Michigan,Grand Rapids,WVGR,FM,104.1,@michiganradio,,42.9633599,-85.6680863
+740,Mississippi,Jackson,WMPN,FM,91.3,@MPBNews,@MPBOnline,32.2987573,-90.1848103
+741,Maine,Lewiston,WMEA,FM,90.1,@MPBNnews,,44.100351,-70.21477639999999
+742,Mississippi,Biloxi,WMAH,FM,90.3,@mpbonline,,30.3960318,-88.88530779999999
+743,Mississippi,Lorman,WPRL,FM,91.7,@mpbonline,,31.8204396,-91.05010569999999
+744,Mississippi,Meridian,WMAW,FM,88.1,@mpbonline,,32.3643098,-88.703656
+745,Mississippi,Oxford,WMAV,FM,90.3,@mpbonline,,34.3664951,-89.5192484
+746,Minnesota,Appleton,KNCM,FM,88.5,@mprnews,,45.1991667,-96.0244443
+747,Minnesota,Bemidji,KNBJ,FM,91.3,@mprnews,,47.471573,-94.8826861
+748,Minnesota,Buhl,WIRN,FM,92.5,@mprnews,,47.4935403,-92.77795990000001
+749,Minnesota,Collegeville,KNSR,FM,88.9,@mprnews,,45.59388149999999,-94.3641026
+750,Minnesota,Duluth,WSCN,FM,100.5,@mprnews,,46.78667189999999,-92.1004852
+751,Minnesota,La Crescent,KXLC,FM,91.1,@mprnews,,43.82646949999999,-91.30355139999999
+752,Minnesota,Moorhead,KCCD,FM,90.3,@mprnews,,46.8737648,-96.76780389999999
+753,Minnesota,Rochester,KMSE,FM,88.7,@mprnews,,44.0121221,-92.4801989
+754,Minnesota,St. Paul,KNOW,FM,91.1,@mprnews,,44.9537029,-93.0899578
+755,Minnesota,St. Peters,KNGA,FM,91.5,@mprnews,,44.3258932,-93.955691
+756,Minnesota,Worthington,KNSW,FM,91.7,@mprnews,,43.6210985,-95.59414360000001
+757,Minnesota,Northfield,WCAL,FM,89.3,@mprnews,,44.4582983,-93.161604
+758,Minnesota,Rochester,KZSE,FM,90.7,@mprnews,,44.0121221,-92.4801989
+759,Kentucky,Morehead,WMKY,FM,90.3,@mspr903fm,,38.1839705,-83.4326841
+760,Montana,Helena,KUHM,FM,91.7,@mtpublicradio,,46.5891452,-112.0391057
+761,Montana,Kalispell,KUKL,FM,89.9,@mtpublicradio,,48.1919889,-114.316813
+762,Montana,Missoula,KUFM,FM,89.1,@mtpublicradio,,46.8721284,-113.9940314
+763,Georgia,Albany,WUNV,FM,91.7,@mygpb,,31.5785074,-84.15574099999999
+764,Georgia,Brunswick,WWIO,FM,89.1,@mygpb,,31.1499528,-81.49148939999999
+765,Georgia,Dahlonega,WNGU,FM,89.5,@mygpb,,34.5261465,-83.9843953
+766,Georgia,Demorest,WPPR,FM,88.3,@mygpb,,34.565098,-83.5451724
+767,Georgia,Ft. Gaines,WJWV,FM,90.9,@mygpb,,31.6090569,-85.0471505
+768,Georgia,Valdosta,WWET,FM,91.7,@mygpb,,30.8327022,-83.2784851
+769,Georgia,Waycross,WXVS,FM,90.1,@mygpb,,31.2135511,-82.3540178
+770,Georgia,Macon,WDCO,FM,89.7,@mygpb,,32.8406946,-83.6324022
+771,Nebraska,Hastings,KHNE,FM,89.1,@NETNebraska,,40.5862583,-98.38987259999999
+772,Illinois,Springfield,WUIS,FM,91.9,@nprillinois,,39.78172130000001,-89.6501481
+773,California,Chico,KCHO,FM,91.7,@nsprnews,,39.7284944,-121.8374777
+774,California,Redding,KFPR,FM,88.9,@nsprnews,,40.5865396,-122.3916754
+775,Idaho,Moscow,KRFA,FM,91.7,@nwpbclassical,,46.73238749999999,-117.000165
+776,Alaska,Kenai,KDLL,FM,91.9,@pickle_hill,,60.55444439999999,-151.2583333
+777,Kansas,Hutchinson,KHCC,FM,90.1,@radiokansas,,38.0608445,-97.92977429999999
+778,Kansas,Salina,KHCD,FM,89.5,@radiokansas,,38.8402805,-97.61142369999999
+779,Alaska,Sitka,KCAW,FM,104.7,@ravenradio,,57.0530556,-135.33
+780,Louisana,Alexandria,KLSA,FM,90.7,@rrrpublicradio,,31.3112936,-92.4451371
+781,Louisana,Shreveport,KDAQ,FM,89.9,@rrrpublicradio,,32.5251516,-93.7501789
+782,Idaho,Bonners Ferry,KIBX,FM,92.1,@sprlocalnews,,48.6913257,-116.3163092
+783,Louisana,Baton Rouge,WBRH,FM,90.3,@talk1073,,30.4514677,-91.18714659999999
+784,Minnesota,Thief River Falls,KNTN,FM,102.7,@TRFRADIO,,48.1191353,-96.18114729999999
+785,Illinois,LaSalle,WNIW,FM,91.5,@tristatespr,,41.3621503,-89.0418249
+786,Illinois,Macomb,WIUM,FM,91.3,@tristatespr,,40.4592076,-90.67179709999999
+787,Alabama,Dothan,WRWA,FM,88.7,@troypublicradio,,31.2232313,-85.3904888
+788,Alabama,Montgomery/Troy,WTSU,FM,89.9,@troypublicradio,,32.3762523,-86.3108893
+789,Georgia,Columbus,WTJB,FM,91.7,@TROYUNews,,32.4609764,-84.9877094
+790,Georgia,Atlanta,WABE,FM,90.1,@wabenews,,33.7489954,-84.3879824
+791,Massachusetts,Great Barrington,WAMQ,FM,105.1,@wamcradio,,42.1959798,-73.362008
+792,District of Columbia,Washington,WAMU,FM,88.5,@wamu885,,38.9071923,-77.0368707
+793,Indiana,Lafayette,WBAA,AM,920.0,@wbaanews,@wbaaradio,40.4167022,-86.87528689999999
+794,Indiana,West Lafayette,WBAA,FM,101.3,@wbaaradio,@wbaanews,40.4258686,-86.90806549999999
+795,Illinois,Chicago,WBEZ,FM,91.5,@wbez,,41.8781136,-87.6297982
+796,Alabama,Birmingham,WBHM,FM,90.3,@WBHM,,33.5206608,-86.80248999999999
+797,Alabama,Gadsden,WSGN,FM,91.5,@WBHM903,,34.014264,-86.0066386
+798,Indiana,Fort Wayne,WBNI,FM,89.1,@WBNI941,,41.079273,-85.1393513
+799,Indiana,Orland,WBOI,FM,91.3,@wboi,,41.7306059,-85.17163760000001
+800,Massachusetts,Boston,WBUR,FM,90.9,@WBUR,,42.3600825,-71.0588801
+801,Massachusetts,W.Yarmouth,WBUR,AM,1240.0,@wbur,,41.6501114,-70.2411312
+802,Massachusetts,Woods Hole,WCAI,FM,90.1,@wcai_npr,,41.5264977,-70.6730857
+803,Illinois,Peoria,WCBU,FM,89.9,@WCBURadio,,40.6936488,-89.5889864
+804,Michigan,Alpena,WCML,FM,91.7,@wcmunews,,45.0616794,-83.4327528
+805,Michigan,Harbor Springs,WCMW,FM,103.9,@wcmunews,,45.43167589999999,-84.9919992
+806,Michigan,Mt. Pleasant,WCMU,FM,89.5,@WCMUNews,@WCMUTV,43.59780749999999,-84.7675139
+807,Michigan,Sault Ste. Marie,WCMZ,FM,98.3,@wcmunews,@wcmutv,46.49771150000001,-84.3475876
+808,Michigan,Detroit,WDET,FM,101.9,@wdet,,42.331427,-83.0457538
+809,Hawaii,Honolulu,KHPR,FM,88.1,@wearehpr,,21.3069444,-157.8583333
+810,Hawaii,Honolulu,KIPO,FM,89.3,@wearehpr,,21.3069444,-157.8583333
+811,Connecticut,Willimantic,WECS,FM,90.1,@wecsfm,,41.7106543,-72.2081338
+812,Michigan,Ypsilanti,WEMU,FM,89.1,@wemu891,,42.2411499,-83.61299389999999
+813,District of Columbia,Washington,WETA,FM,90.9,@wetatvfm,,38.9071923,-77.0368707
+814,Massachusetts,Amherst,WFCR,FM,88.5,@wfcr885,,42.3732216,-72.5198537
+815,Illinois,Champaign,WEFT,FM,90.1,@WFETradio,,40.1164204,-88.2433829
+816,Florida,Melbourne,WFIT,FM,89.5,@wfit895fm,,28.0836269,-80.60810889999999
+817,Indiana,Bloomington,WFIU,FM,103.7,@wfiu,,39.165325,-86.52638569999999
+818,Kentucky,Louisville,WFPK,FM,91.9,@wfpk,,38.2526647,-85.7584557
+819,Kentucky,Louisville,WFPL,FM,89.3,@wfplnews,,38.2526647,-85.7584557
+820,Florida,Panama City,WFSW,FM,89.1,@wfsu,,30.1588129,-85.6602058
+821,Florida,Tallahassee,WFSQ,FM,91.5,@wfsumedia,,30.4382559,-84.28073289999999
+822,Florida,Tallahassee,WFSU,FM,88.9,@wfsumedia,,30.4382559,-84.28073289999999
+823,Indiana,Indianapolis,WFYI,FM,90.1,@wfyi,,39.768403,-86.158068
+824,Massachusetts,Boston,WGBH,FM,89.7,@wgbh,,42.3600825,-71.0588801
+825,Florida,Ft. Myers,WGCU,FM,90.1,@wgcu,,26.640628,-81.8723084
+826,Illinois,Normal,WGLT,FM,89.1,@wgltnews,,40.5142026,-88.9906312
+827,Michigan,Allendale,WGVU,FM,88.5,@WGVUPublicMedia,,42.97219339999999,-85.9540407
+828,Michigan,Kentwood,WGVU,AM,1480.0,@WGVUPublicMedia,,42.8694731,-85.64474919999999
+829,Alabama,Mobile,WHIL,FM,91.3,@WHILFM,,30.6953657,-88.0398912
+830,Massachusetts,Worcester,WICN,FM,90.5,@WICN905,,42.2625932,-71.8022934
+831,Illinois,Urbana,WILL,AM,580.0,@willpublicmedia,,40.1105875,-88.2072697
+832,Illinois,Urbana,WILL,FM,90.9,@willpublicmedia,,40.1105875,-88.2072697
+833,Alabama,Huntsville,WJAB,FM,90.9,@WJAB-TV,,34.7303688,-86.5861037
+834,Florida,Jacksonville,WJCT,FM,89.9,@wjctjax,,30.3321838,-81.65565099999999
+835,Michigan,East Lansing,WKAR,AM,870.0,@wkar,,42.7369792,-84.48386540000001
+836,Michigan,East Lansing,WKAR,FM,90.5,@wkar,,42.7369792,-84.48386540000001
+837,Florida,Panama City,WKGC,AM,1480.0,@WKGCNews,,30.1588129,-85.6602058
+838,Florida,Panama City,WKGC,FM,90.7,@WKGCNews,,30.1588129,-85.6602058
+839,Maryland,Worton,WKHS,FM,90.5,@wkhsradio,,39.2745539,-76.09217009999999
+840,Kentucky,Murray,WKMS,FM,91.3,@wkms,,36.6103334,-88.31476099999999
+841,Kentucky,Bowling Green,WKYU,FM,88.9,@wkupublicradio,,36.9685219,-86.4808043
+842,Kentucky,Elizabethtown,WKUE,FM,90.9,@wkupublicradio,,37.7030646,-85.8649408
+843,Kentucky,Henderson,WKPB,FM,89.5,@wkupublicradio,,37.8361538,-87.59001339999999
+844,Kentucky,Somerset,WDCL,FM,89.7,@wkupublicradio,,37.0920222,-84.6041084
+845,Alabama,Jacksonville,WLJS,FM,91.9,@WLJS_919,,33.8137125,-85.76135359999999
+846,Alabama,Huntsville,WLRH,FM,89.3,@WLRH_893FMHD,,34.7303688,-86.5861037
+847,Florida,Miami,WLRN,FM,91.3,@wlrn,,25.7616798,-80.1917902
+848,Florida,Orlando,WMFE,FM,90.7,@wmfeorlando,,28.5383355,-81.3792365
+849,Florida,Tampa,WMNF,FM,88.5,@wmnf,,27.950575,-82.4571776
+850,Michigan,Kalamazoo,WMUK,FM,102.1,@wmuk1021,,42.2917069,-85.5872286
+851,Illinois,Rockford,WNIJ,FM,89.5,@wnijnews,,42.2711311,-89.0939952
+852,Illinois,Rockford,WNIJ,FM,89.5,@wnijnews,,42.2711311,-89.0939952
+853,Illinois,Sterling,WNIQ,FM,91.5,@wnijnews,,41.788642,-89.69621939999999
+854,Indiana,Evansville,WNIN,FM,88.3,@WNIN,,37.9715592,-87.5710898
+855,Kentucky,Highland Heights,WNKU,FM,89.7,@wnku,,39.0331169,-84.4518854
+856,Michigan,Marquette,WNMU,FM,90.1,@WNMU,,46.5475825,-87.39559539999999
+857,Connecticut,Stamford,WEDW,FM,88.5,@wnpr,,41.0534302,-73.5387341
+858,Connecticut,Meriden,WPKT,FM,90.5,@wnpr,,41.5381535,-72.80704349999999
+859,Connecticut,Norwich,WNPR,FM,89.1,@wnpr,,41.5242649,-72.07591049999999
+860,Florida,Ft. Pierce,WQCS,FM,88.9,@wqcsnews,,27.4467056,-80.3256056
+861,Illinois,Pittsfield,WIPA,FM,89.3,@wqub,,39.6078254,-90.8051289
+862,Georgia,Atlanta,WRFG,FM,89.3,@wrfgatlanta,,33.7489954,-84.3879824
+863,Louisana,Baton Rouge,WRKF,FM,89.3,@wrkf,,30.4514677,-91.18714659999999
+864,Delaware,Dover,WRTX,FM,91.7,@wrtimusic,,39.158168,-75.5243682
+865,Kentucky,Georgetown,WRVG,FM,89.9,@wrvg,,38.2097967,-84.55883109999999
+866,Maryland,Ocean City,WSDL,FM,90.7,@wscl_wsdl,,38.3365032,-75.0849058
+867,Maryland,Salisbury,WSCL,FM,89.5,@wscl_wsdl,,38.3606736,-75.5993692
+868,Massachusetts,Sandwich,WSDH,FM,91.5,@WSDHradio,,41.7589615,-70.49393169999999
+869,Connecticut,Fairfield,WSHU,FM,91.1,@wshupublicradio,,41.1408363,-73.2612615
+870,Connecticut,Westport,WSHU,AM,1260.0,@wshupublicradio,,41.1414717,-73.3579049
+871,Illinois,Edwardsville,WSIE,FM,88.7,@wsie887thesound,,38.8114364,-89.95315699999999
+872,Illinois,Mt.Vernon,WVSI,FM,88.9,@wsiuradio,,38.3172714,-88.9031201
+873,Illinois,Olney,WUSI,FM,90.3,@wsiuradio,,38.7308811,-88.0853154
+874,Illinois,Carbondale,WSIU,FM,91.9,@wsiutv,,37.7272727,-89.2167501
+875,Florida,Orlando,WUCF,FM,89.9,@wucftv,,28.5383355,-81.3792365
+876,Michigan,Bay City,WUCX,FM,90.1,@wucx,,43.5944677,-83.8888647
+877,Florida,Inverness,WJUF,FM,90.1,@wuftmedia,,28.8354507,-82.3313955
+878,Florida,Gainesville,WUFT,FM,89.1,@wuftnews,,29.6516344,-82.32482619999999
+879,Georgia,Athens,WUGA,FM,91.7,@wugafm,,33.9519347,-83.357567
+880,Kentucky,Lexington,WUKY,FM,91.3,@wuky,,38.0405837,-84.5037164
+881,Massachusetts,Boston,WUMB,FM,91.9,@wumbradio,,42.3600825,-71.0588801
+882,Massachusetts,Falmouth,WFPB,FM,91.9,@wumbradio,,41.5532208,-70.60858859999999
+883,Massachusetts,Orleans,WFPB,AM,1170.0,@wumbradio,,41.7898354,-69.9897323
+884,Massachusetts,Worcester,WBPR,FM,91.9,@wumbradio,,42.2625932,-71.8022934
+885,Massachusetts,Newburyport,WNAF,FM,91.7,@wumbradio,,42.8125913,-70.87727509999999
+886,Florida,Tampa,WUSF,FM,89.7,@wusf,,27.950575,-82.4571776
+887,Florida,Pensacola,WUWF,FM,88.1,@wuwf,,30.42130899999999,-87.2169149
+888,Alabama,Montgomery,WVAS,FM,90.7,@WVAS,,32.3668052,-86.2999689
+889,Illinois,Rock Island,WVIK,FM,90.3,@wvikfm,,41.5094771,-90.5787476
+890,Indiana,Elkhart,WVPE,FM,88.1,@wvpe,,41.6819935,-85.9766671
+891,Louisana,New Orleans,WWNO,FM,89.9,@wwno,,29.95106579999999,-90.0715323
+892,Louisana,Thibodaux,KTLN,FM,90.5,@wwno,,29.7957633,-90.82287099999999
+893,Florida,West Palm Beach,WXEL,FM,90.7,@wxeltv,,26.7153424,-80.0533746
+894,Maryland,Baltimore,WYPR,FM,88.1,@wypr881FM,,39.2903848,-76.6121893
+895,Maryland,Frostburg,WFWM,FM,91.9,@xfsrfrostburg,,39.6581424,-78.92835699999999
