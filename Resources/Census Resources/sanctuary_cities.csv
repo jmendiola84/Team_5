@@ -1,0 +1,388 @@
+FIPS,County,State
+06001,Alameda,California
+06003,Alpine,California
+06005,Amador,California
+06007,Butte,California
+06009,Calaveras,California
+06011,Colusa,California
+06013,Contra Costa,California
+06015,Del Norte,California
+06017,El Dorado,California
+06019,Fresno,California
+06021,Glenn,California
+06023,Humboldt,California
+06025,Imperial,California
+06027,Inyo,California
+06029,Kern,California
+06031,Kings,California
+06033,Lake,California
+06035,Lassen,California
+06037,Los Angeles,California
+06039,Madera,California
+06041,Marin,California
+06043,Mariposa,California
+06045,Mendocino,California
+06047,Merced,California
+06049,Modoc,California
+06051,Mono,California
+06053,Monterey,California
+06055,Napa,California
+06057,Nevada,California
+06059,Orange,California
+06061,Placer,California
+06063,Plumas,California
+06065,Riverside,California
+06067,Sacramento,California
+06069,San Benito,California
+06071,San Bernardino,California
+06073,San Diego,California
+06075,San Francisco,California
+06077,San Joaquin,California
+06079,San Luis Obispo,California
+06081,San Mateo,California
+06083,Santa Barbara,California
+06085,Santa Clara,California
+06087,Santa Cruz,California
+06089,Shasta,California
+06091,Sierra,California
+06093,Siskiyou,California
+06095,Solano,California
+06097,Sonoma,California
+06099,Stanislaus,California
+06101,Sutter,California
+06103,Tehama,California
+06105,Trinity,California
+06107,Tulare,California
+06109,Tuolumne,California
+06111,Ventura,California
+06113,Yolo,California
+06115,Yuba,California
+08001,Adams,Colorado
+08003,Alamosa,Colorado
+08005,Arapahoe,Colorado
+08007,Archuleta,Colorado
+08009,Baca,Colorado
+08011,Bent,Colorado
+08013,Boulder,Colorado
+,Broomfield,Colorado
+08015,Chaffee,Colorado
+08017,Cheyenne,Colorado
+08019,Clear Creek,Colorado
+08021,Conejos,Colorado
+08023,Costilla,Colorado
+08025,Crowley,Colorado
+08027,Custer,Colorado
+08029,Delta,Colorado
+08031,Denver,Colorado
+08033,Dolores,Colorado
+08035,Douglas,Colorado
+08037,Eagle,Colorado
+08041,El Paso,Colorado
+08039,Elbert,Colorado
+08043,Fremont,Colorado
+08045,Garfield,Colorado
+08047,Gilpin,Colorado
+08049,Grand,Colorado
+08051,Gunnison,Colorado
+08053,Hinsdale,Colorado
+08055,Huerfano,Colorado
+08057,Jackson,Colorado
+08059,Jefferson,Colorado
+08061,Kiowa,Colorado
+08063,Kit Carson,Colorado
+08067,La Plata,Colorado
+08065,Lake,Colorado
+08069,Larimer,Colorado
+08071,Las Animas,Colorado
+08073,Lincoln,Colorado
+08075,Logan,Colorado
+08077,Mesa,Colorado
+08079,Mineral,Colorado
+08081,Moffat,Colorado
+08083,Montezuma,Colorado
+08085,Montrose,Colorado
+08087,Morgan,Colorado
+08089,Otero,Colorado
+08091,Ouray,Colorado
+08093,Park,Colorado
+08095,Phillips,Colorado
+08097,Pitkin,Colorado
+08099,Prowers,Colorado
+08101,Pueblo,Colorado
+08103,Rio Blanco,Colorado
+08105,Rio Grande,Colorado
+08107,Routt,Colorado
+08109,Saguache,Colorado
+08111,San Juan,Colorado
+08113,San Miguel,Colorado
+08115,Sedgwick,Colorado
+08117,Summit,Colorado
+08119,Teller,Colorado
+08121,Washington,Colorado
+08123,Weld,Colorado
+08125,Yuma,Colorado
+,East Haven,Connecticut
+09003,Hartford,Connecticut
+11001,Washington,District of Columbia
+12001,Alachua County,Florida
+12019,Clay County,Florida
+,West Palm Beach,Florida
+13063,Clayton County,Georgia
+13089,DeKalb County,Georgia
+17001,Adams,Illinois
+17003,Alexander,Illinois
+17005,Bond,Illinois
+17007,Boone,Illinois
+17009,Brown,Illinois
+17011,Bureau,Illinois
+17013,Calhoun,Illinois
+17015,Carroll,Illinois
+17017,Cass,Illinois
+17019,Champaign,Illinois
+17021,Christian,Illinois
+17023,Clark,Illinois
+17025,Clay,Illinois
+17027,Clinton,Illinois
+17029,Coles,Illinois
+17031,Cook,Illinois
+17033,Crawford,Illinois
+17035,Cumberland,Illinois
+17039,De Witt,Illinois
+17037,DeKalb,Illinois
+17041,Douglas,Illinois
+17043,DuPage,Illinois
+17045,Edgar,Illinois
+17047,Edwards,Illinois
+17049,Effingham,Illinois
+17051,Fayette,Illinois
+17053,Ford,Illinois
+17055,Franklin,Illinois
+17057,Fulton,Illinois
+17059,Gallatin,Illinois
+17061,Greene,Illinois
+17063,Grundy,Illinois
+17065,Hamilton,Illinois
+17067,Hancock,Illinois
+17069,Hardin,Illinois
+17071,Henderson,Illinois
+17073,Henry,Illinois
+17075,Iroquois,Illinois
+17077,Jackson,Illinois
+17079,Jasper,Illinois
+17081,Jefferson,Illinois
+17083,Jersey,Illinois
+17085,Jo Daviess,Illinois
+17087,Johnson,Illinois
+17089,Kane,Illinois
+17091,Kankakee,Illinois
+17093,Kendall,Illinois
+17095,Knox,Illinois
+17099,La Salle,Illinois
+17097,Lake,Illinois
+17101,Lawrence,Illinois
+17103,Lee,Illinois
+17105,Livingston,Illinois
+17107,Logan,Illinois
+17115,Macon,Illinois
+17117,Macoupin,Illinois
+17119.,Madison,Illinois
+17121,Marion,Illinois
+17123,Marshall,Illinois
+17125,Mason,Illinois
+17127,Massac,Illinois
+17109,McDonough,Illinois
+17111,McHenry,Illinois
+17113,McLean,Illinois
+17129,Menard,Illinois
+17131,Mercer,Illinois
+17133,Monroe,Illinois
+17135,Montgomery,Illinois
+17137,Morgan,Illinois
+17139,Moultrie,Illinois
+17141,Ogle,Illinois
+17143,Peoria,Illinois
+17145,Perry,Illinois
+17147,Piatt,Illinois
+17149,Pike,Illinois
+17151,Pope,Illinois
+17153,Pulaski,Illinois
+17155,Putnam,Illinois
+17157,Randolph,Illinois
+17159,Richland,Illinois
+17161,Rock Island,Illinois
+17165,Saline,Illinois
+17167,Sangamon,Illinois
+17169,Schuyler,Illinois
+17171,Scott,Illinois
+17173,Shelby,Illinois
+17163,St. Clair,Illinois
+17175,Stark,Illinois
+17177,Stephenson,Illinois
+17179,Tazewell,Illinois
+17181,Union,Illinois
+17183,Vermilion,Illinois
+17185,Wabash,Illinois
+17187,Warren,Illinois
+17189,Washington,Illinois
+17191,Wayne,Illinois
+17193,White,Illinois
+17195,Whiteside,Illinois
+17197,Will,Illinois
+17199,Williamson,Illinois
+17201,Winnebago,Illinois
+17203,Woodford,Illinois
+19011,Benton County,Iowa
+19029,Cass County,Iowa
+19069,Franklin County,Iowa
+19071,Fremont County,Iowa
+19073,Greene County,Iowa
+19093,Ida County,Iowa
+19103,Johnson County,Iowa
+19101,Jefferson County,Iowa
+19125,Marion County,Iowa
+19133,Monona County,Iowa
+19137,Montgomery County,Iowa
+19155,Pottawattamie County,Iowa
+19167,Sioux County,Iowa
+20015,Butler County,Kansas
+20079,Harvey County,Kansas
+24005,Baltimore,Maryland
+24031,Montgomery County,Maryland
+24033,Prince George's County,Maryland
+27053,Hennepin County,Minnesota
+28059,Jackson ,Mississippi
+31079,Hall County,Nebraska
+31153,Sarpy County,Nebraska
+32031,Washoe County,Nevada
+34023,Middlesex County,New Jersey
+34029,Ocean County,New Jersey
+34039,Union County,New Jersey
+35001,Bernalillo County,New Mexico
+35003,Catron,New Mexico
+35005,Chaves,New Mexico
+35006,Cibola,New Mexico
+35007,Colfax,New Mexico
+35009,Curry,New Mexico
+35011,De Baca,New Mexico
+35013,Dona Ana,New Mexico
+35015,Eddy,New Mexico
+35017,Grant,New Mexico
+35019,Guadalupe,New Mexico
+35021,Harding,New Mexico
+35023,Hidalgo,New Mexico
+35025,Lea,New Mexico
+35027,Lincoln,New Mexico
+35028,Los Alamos,New Mexico
+35029,Luna,New Mexico
+35031,McKinley,New Mexico
+35033,Mora,New Mexico
+35035,Otero,New Mexico
+35037,Quay,New Mexico
+35039,Rio Arriba,New Mexico
+35041,Roosevelt,New Mexico
+35045,San Juan,New Mexico
+35047,San Miguel,New Mexico
+35043,Sandoval,New Mexico
+35049,Santa Fe,New Mexico
+35051,Sierra,New Mexico
+35053,Socorro,New Mexico
+35055,Taos,New Mexico
+35057,Torrance,New Mexico
+35059,Union,New Mexico
+35061,Valencia,New Mexico
+36001,Albany,New York
+36003,Franklin County,New York
+36059,Nassau County,New York
+36061,New York City,New York
+36067,Omondaga County,New York
+36089,St. Lawrence County,New York
+36117,Wayne County,New York
+41001,Baker,Oregon
+41003,Benton,Oregon
+41005,Clackamas,Oregon
+41007,Clatsop,Oregon
+41009,Columbia,Oregon
+41011,Coos,Oregon
+41013,Crook,Oregon
+41015,Curry,Oregon
+41017,Deschutes,Oregon
+41019,Douglas,Oregon
+41021,Gilliam,Oregon
+41023,Grant,Oregon
+41025,Harney,Oregon
+41027,Hood River,Oregon
+41029,Jackson,Oregon
+41031,Jefferson,Oregon
+41033,Josephine,Oregon
+41035,Klamath,Oregon
+41037,Lake,Oregon
+41039,Lane,Oregon
+41041,Lincoln,Oregon
+41043,Linn,Oregon
+41045,Malheur,Oregon
+41047,Marion,Oregon
+41049,Morrow,Oregon
+41051,Multnomah,Oregon
+41053,Polk,Oregon
+41055,Sherman,Oregon
+41057,Tillamook,Oregon
+41059,Umatilla,Oregon
+41061,Union,Oregon
+41063,Wallowa,Oregon
+41065,Wasco,Oregon
+41067,Washington,Oregon
+41069,Wheeler,Oregon
+41071,Yamhill,Oregon
+42005,Bradford County,Pennsylvania
+42017,Bucks County,Pennsylvania
+42019,Butler County,Pennsylvania
+42029,Chester County,Pennsylvania
+42031,Clarion County,Pennsylvania
+42045,Delaware County,Pennsylvania
+42049,Eerie County,Pennsylvania
+42055,Franklin County,Pennsylvania
+42075,Lebanon County,Pennsylvania
+42077,Lehigh County,Pennsylvania
+42081,Lycoming County,Pennsylvania
+42083,Montgomery County,Pennsylvania
+42093,Montour County,Pennsylvania
+42099,Perry County,Pennsylvania
+42101,Philadelphia,Pennsylvania
+42103,Pike County,Pennsylvania
+42129,Westmoreland County,Pennsylvania
+44077,Providence,Rhode Island
+48113,Dallas County,Texas
+48453,Travis County,Texas
+50001,Addison,Vermont
+50003,Bennington,Vermont
+50005,Caledonia,Vermont
+50007,Chittenden,Vermont
+50009,Essex,Vermont
+50011,Franklin,Vermont
+50013,Grand Isle,Vermont
+50015,Lamoille,Vermont
+50017,Orange,Vermont
+50017,Orleans,Vermont
+50021,Rutland,Vermont
+50023,Washington,Vermont
+50025,Windham,Vermont
+50027,Windsor,Vermont
+51013,Arlington County,Virginia
+51041,Chesterfield County,Virginia
+53007,Chelan County,Washington
+53009,Clallam County,Washington
+53011,Clark County,Washington
+53015,Cowlitz County,Washington
+53021,Franklin County,Washington
+53031,Jefferson County,Washington
+53033,King County,Washington
+53035,Kitsap County,Washington
+53053,Pierce County,Washington
+53055,San Juan County,Washington
+53057,Skagit County,Washington
+53061,Snohomish County,Washington
+53065,Spokane County,Washington
+53067,Thurston County,Washington
+53071,Walla Walla County,Washington
+53073,Whatcom County,Washington
+53077,Yakima County,Washington
