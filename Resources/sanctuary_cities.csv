@@ -1,404 +1,388 @@
-County,State,"County, State"
-Alameda,California,"Alameda, California"
-Alpine,California,"Alpine, California"
-Amador,California,"Amador, California"
-Butte,California,"Butte, California"
-Calaveras,California,"Calaveras, California"
-Colusa,California,"Colusa, California"
-Contra Costa,California,"Contra Costa, California"
-Del Norte,California,"Del Norte, California"
-El Dorado,California,"El Dorado, California"
-Fresno,California,"Fresno, California"
-Glenn,California,"Glenn, California"
-Humboldt,California,"Humboldt, California"
-Imperial,California,"Imperial, California"
-Inyo,California,"Inyo, California"
-Kern,California,"Kern, California"
-Kings,California,"Kings, California"
-Lake,California,"Lake, California"
-Lassen,California,"Lassen, California"
-Los Angeles,California,"Los Angeles, California"
-Madera,California,"Madera, California"
-Marin,California,"Marin, California"
-Mariposa,California,"Mariposa, California"
-Mendocino,California,"Mendocino, California"
-Merced,California,"Merced, California"
-Modoc,California,"Modoc, California"
-Mono,California,"Mono, California"
-Monterey,California,"Monterey, California"
-Napa,California,"Napa, California"
-Nevada,California,"Nevada, California"
-Orange,California,"Orange, California"
-Placer,California,"Placer, California"
-Plumas,California,"Plumas, California"
-Riverside,California,"Riverside, California"
-Sacramento,California,"Sacramento, California"
-San Benito,California,"San Benito, California"
-San Bernardino,California,"San Bernardino, California"
-San Diego,California,"San Diego, California"
-San Francisco,California,"San Francisco, California"
-San Joaquin,California,"San Joaquin, California"
-San Luis Obispo,California,"San Luis Obispo, California"
-San Mateo,California,"San Mateo, California"
-Santa Barbara,California,"Santa Barbara, California"
-Santa Clara,California,"Santa Clara, California"
-Santa Cruz,California,"Santa Cruz, California"
-Shasta,California,"Shasta, California"
-Sierra,California,"Sierra, California"
-Siskiyou,California,"Siskiyou, California"
-Solano,California,"Solano, California"
-Sonoma,California,"Sonoma, California"
-Stanislaus,California,"Stanislaus, California"
-Sutter,California,"Sutter, California"
-Tehama,California,"Tehama, California"
-Trinity,California,"Trinity, California"
-Tulare,California,"Tulare, California"
-Tuolumne,California,"Tuolumne, California"
-Ventura,California,"Ventura, California"
-Yolo,California,"Yolo, California"
-Yuba,California,"Yuba, California"
-Adams,Colorado,"Adams, Colorado"
-Alamosa,Colorado,"Alamosa, Colorado"
-Arapahoe,Colorado,"Arapahoe, Colorado"
-Archuleta,Colorado,"Archuleta, Colorado"
-Baca,Colorado,"Baca, Colorado"
-Bent,Colorado,"Bent, Colorado"
-Boulder,Colorado,"Boulder, Colorado"
-Broomfield,Colorado,"Broomfield, Colorado"
-Chaffee,Colorado,"Chaffee, Colorado"
-Cheyenne,Colorado,"Cheyenne, Colorado"
-Clear Creek,Colorado,"Clear Creek, Colorado"
-Conejos,Colorado,"Conejos, Colorado"
-Costilla,Colorado,"Costilla, Colorado"
-Crowley,Colorado,"Crowley, Colorado"
-Custer,Colorado,"Custer, Colorado"
-Delta,Colorado,"Delta, Colorado"
-Denver,Colorado,"Denver, Colorado"
-Dolores,Colorado,"Dolores, Colorado"
-Douglas,Colorado,"Douglas, Colorado"
-Eagle,Colorado,"Eagle, Colorado"
-Elbert,Colorado,"Elbert, Colorado"
-El Paso,Colorado,"El Paso, Colorado"
-Fremont,Colorado,"Fremont, Colorado"
-Garfield,Colorado,"Garfield, Colorado"
-Gilpin,Colorado,"Gilpin, Colorado"
-Grand,Colorado,"Grand, Colorado"
-Gunnison,Colorado,"Gunnison, Colorado"
-Hinsdale,Colorado,"Hinsdale, Colorado"
-Huerfano,Colorado,"Huerfano, Colorado"
-Jackson,Colorado,"Jackson, Colorado"
-Jefferson,Colorado,"Jefferson, Colorado"
-Kiowa,Colorado,"Kiowa, Colorado"
-Kit Carson,Colorado,"Kit Carson, Colorado"
-Lake,Colorado,"Lake, Colorado"
-La Plata,Colorado,"La Plata, Colorado"
-Larimer,Colorado,"Larimer, Colorado"
-Las Animas,Colorado,"Las Animas, Colorado"
-Lincoln,Colorado,"Lincoln, Colorado"
-Logan,Colorado,"Logan, Colorado"
-Mesa,Colorado,"Mesa, Colorado"
-Mineral,Colorado,"Mineral, Colorado"
-Moffat,Colorado,"Moffat, Colorado"
-Montezuma,Colorado,"Montezuma, Colorado"
-Montrose,Colorado,"Montrose, Colorado"
-Morgan,Colorado,"Morgan, Colorado"
-Otero,Colorado,"Otero, Colorado"
-Ouray,Colorado,"Ouray, Colorado"
-Park,Colorado,"Park, Colorado"
-Phillips,Colorado,"Phillips, Colorado"
-Pitkin,Colorado,"Pitkin, Colorado"
-Prowers,Colorado,"Prowers, Colorado"
-Pueblo,Colorado,"Pueblo, Colorado"
-Rio Blanco,Colorado,"Rio Blanco, Colorado"
-Rio Grande,Colorado,"Rio Grande, Colorado"
-Routt,Colorado,"Routt, Colorado"
-Saguache,Colorado,"Saguache, Colorado"
-San Juan,Colorado,"San Juan, Colorado"
-San Miguel,Colorado,"San Miguel, Colorado"
-Sedgwick,Colorado,"Sedgwick, Colorado"
-Summit,Colorado,"Summit, Colorado"
-Teller,Colorado,"Teller, Colorado"
-Washington,Colorado,"Washington, Colorado"
-Weld,Colorado,"Weld, Colorado"
-Yuma,Colorado,"Yuma, Colorado"
-East Haven,Connecticut,"East Haven, Connecticut"
-Hartford,Connecticut,"Hartford, Connecticut"
-Washington,District of Columbia,"Washington, District of Columbia"
-Alachua County,Florida,"Alachua County, Florida"
-Clay County,Florida,"Clay County, Florida"
-West Palm Beach,Florida,"West Palm Beach, Florida"
-Clayton County,Georgia,"Clayton County, Georgia"
-DeKalb County,Georgia,"DeKalb County, Georgia"
-Adams,Illinois,"Adams, Illinois"
-Alexander,Illinois,"Alexander, Illinois"
-Bond,Illinois,"Bond, Illinois"
-Boone,Illinois,"Boone, Illinois"
-Brown,Illinois,"Brown, Illinois"
-Bureau,Illinois,"Bureau, Illinois"
-Calhoun,Illinois,"Calhoun, Illinois"
-Carroll,Illinois,"Carroll, Illinois"
-Cass,Illinois,"Cass, Illinois"
-Champaign,Illinois,"Champaign, Illinois"
-Christian,Illinois,"Christian, Illinois"
-Clark,Illinois,"Clark, Illinois"
-Clay,Illinois,"Clay, Illinois"
-Clinton,Illinois,"Clinton, Illinois"
-Coles,Illinois,"Coles, Illinois"
-Cook,Illinois,"Cook, Illinois"
-Crawford,Illinois,"Crawford, Illinois"
-Cumberland,Illinois,"Cumberland, Illinois"
-DeKalb,Illinois,"DeKalb, Illinois"
-De Witt,Illinois,"De Witt, Illinois"
-Douglas,Illinois,"Douglas, Illinois"
-DuPage,Illinois,"DuPage, Illinois"
-Edgar,Illinois,"Edgar, Illinois"
-Edwards,Illinois,"Edwards, Illinois"
-Effingham,Illinois,"Effingham, Illinois"
-Fayette,Illinois,"Fayette, Illinois"
-Ford,Illinois,"Ford, Illinois"
-Franklin,Illinois,"Franklin, Illinois"
-Fulton,Illinois,"Fulton, Illinois"
-Gallatin,Illinois,"Gallatin, Illinois"
-Greene,Illinois,"Greene, Illinois"
-Grundy,Illinois,"Grundy, Illinois"
-Hamilton,Illinois,"Hamilton, Illinois"
-Hancock,Illinois,"Hancock, Illinois"
-Hardin,Illinois,"Hardin, Illinois"
-Henderson,Illinois,"Henderson, Illinois"
-Henry,Illinois,"Henry, Illinois"
-Iroquois,Illinois,"Iroquois, Illinois"
-Jackson,Illinois,"Jackson, Illinois"
-Jasper,Illinois,"Jasper, Illinois"
-Jefferson,Illinois,"Jefferson, Illinois"
-Jersey,Illinois,"Jersey, Illinois"
-Jo Daviess,Illinois,"Jo Daviess, Illinois"
-Johnson,Illinois,"Johnson, Illinois"
-Kane,Illinois,"Kane, Illinois"
-Kankakee,Illinois,"Kankakee, Illinois"
-Kendall,Illinois,"Kendall, Illinois"
-Knox,Illinois,"Knox, Illinois"
-La Salle,Illinois,"La Salle, Illinois"
-Lake,Illinois,"Lake, Illinois"
-Lawrence,Illinois,"Lawrence, Illinois"
-Lee,Illinois,"Lee, Illinois"
-Livingston,Illinois,"Livingston, Illinois"
-Logan,Illinois,"Logan, Illinois"
-McDonough,Illinois,"McDonough, Illinois"
-McHenry,Illinois,"McHenry, Illinois"
-McLean,Illinois,"McLean, Illinois"
-Macon,Illinois,"Macon, Illinois"
-Macoupin,Illinois,"Macoupin, Illinois"
-Madison,Illinois,"Madison, Illinois"
-Marion,Illinois,"Marion, Illinois"
-Marshall,Illinois,"Marshall, Illinois"
-Mason,Illinois,"Mason, Illinois"
-Massac,Illinois,"Massac, Illinois"
-Menard,Illinois,"Menard, Illinois"
-Mercer,Illinois,"Mercer, Illinois"
-Monroe,Illinois,"Monroe, Illinois"
-Montgomery,Illinois,"Montgomery, Illinois"
-Morgan,Illinois,"Morgan, Illinois"
-Moultrie,Illinois,"Moultrie, Illinois"
-Ogle,Illinois,"Ogle, Illinois"
-Peoria,Illinois,"Peoria, Illinois"
-Perry,Illinois,"Perry, Illinois"
-Piatt,Illinois,"Piatt, Illinois"
-Pike,Illinois,"Pike, Illinois"
-Pope,Illinois,"Pope, Illinois"
-Pulaski,Illinois,"Pulaski, Illinois"
-Putnam,Illinois,"Putnam, Illinois"
-Randolph,Illinois,"Randolph, Illinois"
-Richland,Illinois,"Richland, Illinois"
-Rock Island,Illinois,"Rock Island, Illinois"
-Saline,Illinois,"Saline, Illinois"
-Sangamon,Illinois,"Sangamon, Illinois"
-Schuyler,Illinois,"Schuyler, Illinois"
-Scott,Illinois,"Scott, Illinois"
-Shelby,Illinois,"Shelby, Illinois"
-St. Clair,Illinois,"St. Clair, Illinois"
-Stark,Illinois,"Stark, Illinois"
-Stephenson,Illinois,"Stephenson, Illinois"
-Tazewell,Illinois,"Tazewell, Illinois"
-Union,Illinois,"Union, Illinois"
-Vermilion,Illinois,"Vermilion, Illinois"
-Wabash,Illinois,"Wabash, Illinois"
-Warren,Illinois,"Warren, Illinois"
-Washington,Illinois,"Washington, Illinois"
-Wayne,Illinois,"Wayne, Illinois"
-White,Illinois,"White, Illinois"
-Whiteside,Illinois,"Whiteside, Illinois"
-Will,Illinois,"Will, Illinois"
-Williamson,Illinois,"Williamson, Illinois"
-Winnebago,Illinois,"Winnebago, Illinois"
-Woodford,Illinois,"Woodford, Illinois"
-Benton County,Iowa,"Benton County, Iowa"
-Cass County,Iowa,"Cass County, Iowa"
-Franklin County,Iowa,"Franklin County, Iowa"
-Fremont County,Iowa,"Fremont County, Iowa"
-Greene County,Iowa,"Greene County, Iowa"
-Ida County,Iowa,"Ida County, Iowa"
-Iowa City,Iowa,"Iowa City, Iowa"
-"Iowa City, Johnson County",Iowa,"Iowa City, Johnson County, Iowa"
-Jefferson County,Iowa,"Jefferson County, Iowa"
-Marion County,Iowa,"Marion County, Iowa"
-Monona County,Iowa,"Monona County, Iowa"
-Montgomery County,Iowa,"Montgomery County, Iowa"
-Pottawattamie County,Iowa,"Pottawattamie County, Iowa"
-Sioux County,Iowa,"Sioux County, Iowa"
-Butler County,Kansas,"Butler County, Kansas"
-Harvey County,Kansas,"Harvey County, Kansas"
-Louisville,Kentucky,"Louisville, Kentucky"
-New Orleans,Lousiana,"New Orleans, Lousiana"
-Baltimore,Maryland,"Baltimore, Maryland"
-Montgomery County,Maryland,"Montgomery County, Maryland"
-Prince George's County,Maryland,"Prince George's County, Maryland"
-Amherst,Massachusets,"Amherst, Massachusets"
-Boston,Massachusets,"Boston, Massachusets"
-Cambridge,Massachusets,"Cambridge, Massachusets"
-Lawrence,Massachusets,"Lawrence, Massachusets"
-Northhampton,Massachusets,"Northhampton, Massachusets"
-Somerville,Massachusets,"Somerville, Massachusets"
-Hennepin County,Minnesota,"Hennepin County, Minnesota"
-Jackson ,Mississippi,"Jackson, Mississippi"
-Hall County,Nebraska,"Hall County, Nebraska"
-Sarpy County,Nebraska,"Sarpy County, Nebraska"
-Washoe County,Nevada,"Washoe County, Nevada"
-Middlesex County,New Jersey,"Middlesex County, New Jersey"
-Newark,New Jersey,"Newark, New Jersey"
-Ocean County,New Jersey,"Ocean County, New Jersey"
-Union County,New Jersey,"Union County, New Jersey"
-Bernalillo County,New Mexico,"Bernalillo County, New Mexico"
-New Mexico County Jails,New Mexico,"New Mexico County Jails, New Mexico"
-San Miguel,New Mexico,"San Miguel, New Mexico"
-Bernalillo,New Mexico,"Bernalillo, New Mexico"
-Catron,New Mexico,"Catron, New Mexico"
-Chaves,New Mexico,"Chaves, New Mexico"
-Cibola,New Mexico,"Cibola, New Mexico"
-Colfax,New Mexico,"Colfax, New Mexico"
-Curry,New Mexico,"Curry, New Mexico"
-De Baca,New Mexico,"De Baca, New Mexico"
-Dona Ana,New Mexico,"Dona Ana, New Mexico"
-Eddy,New Mexico,"Eddy, New Mexico"
-Grant,New Mexico,"Grant, New Mexico"
-Guadalupe,New Mexico,"Guadalupe, New Mexico"
-Harding,New Mexico,"Harding, New Mexico"
-Hidalgo,New Mexico,"Hidalgo, New Mexico"
-Lea,New Mexico,"Lea, New Mexico"
-Lincoln,New Mexico,"Lincoln, New Mexico"
-Los Alamos,New Mexico,"Los Alamos, New Mexico"
-Luna,New Mexico,"Luna, New Mexico"
-McKinley,New Mexico,"McKinley, New Mexico"
-Mora,New Mexico,"Mora, New Mexico"
-Otero,New Mexico,"Otero, New Mexico"
-Quay,New Mexico,"Quay, New Mexico"
-Rio Arriba,New Mexico,"Rio Arriba, New Mexico"
-Roosevelt,New Mexico,"Roosevelt, New Mexico"
-Sandoval,New Mexico,"Sandoval, New Mexico"
-San Juan,New Mexico,"San Juan, New Mexico"
-San Miguel,New Mexico,"San Miguel, New Mexico"
-Santa Fe,New Mexico,"Santa Fe, New Mexico"
-Sierra,New Mexico,"Sierra, New Mexico"
-Socorro,New Mexico,"Socorro, New Mexico"
-Taos,New Mexico,"Taos, New Mexico"
-Torrance,New Mexico,"Torrance, New Mexico"
-Union,New Mexico,"Union, New Mexico"
-Valencia,New Mexico,"Valencia, New Mexico"
-Albany,New York,"Albany, New York"
-Franklin County,New York,"Franklin County, New York"
-Ithaca,New York,"Ithaca, New York"
-Nassau County,New York,"Nassau County, New York"
-New York City,New York,"New York City, New York"
-Omondaga County,New York,"Omondaga County, New York"
-St. Lawrence County,New York,"St. Lawrence County, New York"
-Wayne County,New York,"Wayne County, New York"
-Baker,Oregon,"Baker, Oregon"
-Benton,Oregon,"Benton, Oregon"
-Clackamas,Oregon,"Clackamas, Oregon"
-Clatsop,Oregon,"Clatsop, Oregon"
-Columbia,Oregon,"Columbia, Oregon"
-Coos,Oregon,"Coos, Oregon"
-Crook,Oregon,"Crook, Oregon"
-Curry,Oregon,"Curry, Oregon"
-Deschutes,Oregon,"Deschutes, Oregon"
-Douglas,Oregon,"Douglas, Oregon"
-Gilliam,Oregon,"Gilliam, Oregon"
-Grant,Oregon,"Grant, Oregon"
-Harney,Oregon,"Harney, Oregon"
-Hood River,Oregon,"Hood River, Oregon"
-Jackson,Oregon,"Jackson, Oregon"
-Jefferson,Oregon,"Jefferson, Oregon"
-Josephine,Oregon,"Josephine, Oregon"
-Klamath,Oregon,"Klamath, Oregon"
-Lake,Oregon,"Lake, Oregon"
-Lane,Oregon,"Lane, Oregon"
-Lincoln,Oregon,"Lincoln, Oregon"
-Linn,Oregon,"Linn, Oregon"
-Malheur,Oregon,"Malheur, Oregon"
-Marion,Oregon,"Marion, Oregon"
-Morrow,Oregon,"Morrow, Oregon"
-Multnomah,Oregon,"Multnomah, Oregon"
-Polk,Oregon,"Polk, Oregon"
-Sherman,Oregon,"Sherman, Oregon"
-Tillamook,Oregon,"Tillamook, Oregon"
-Umatilla,Oregon,"Umatilla, Oregon"
-Union,Oregon,"Union, Oregon"
-Wallowa,Oregon,"Wallowa, Oregon"
-Wasco,Oregon,"Wasco, Oregon"
-Washington,Oregon,"Washington, Oregon"
-Wheeler,Oregon,"Wheeler, Oregon"
-Yamhill,Oregon,"Yamhill, Oregon"
-Bradford County,Pennsylvania,"Bradford County, Pennsylvania"
-Bucks County,Pennsylvania,"Bucks County, Pennsylvania"
-Butler County,Pennsylvania,"Butler County, Pennsylvania"
-Chester County,Pennsylvania,"Chester County, Pennsylvania"
-Clarion County,Pennsylvania,"Clarion County, Pennsylvania"
-Delaware County,Pennsylvania,"Delaware County, Pennsylvania"
-Eerie County,Pennsylvania,"Eerie County, Pennsylvania"
-Franklin County,Pennsylvania,"Franklin County, Pennsylvania"
-Lebanon County,Pennsylvania,"Lebanon County, Pennsylvania"
-Lehigh County,Pennsylvania,"Lehigh County, Pennsylvania"
-Lycoming County,Pennsylvania,"Lycoming County, Pennsylvania"
-Montgomery County,Pennsylvania,"Montgomery County, Pennsylvania"
-Montour County,Pennsylvania,"Montour County, Pennsylvania"
-Perry County,Pennsylvania,"Perry County, Pennsylvania"
-Philadelphia,Pennsylvania,"Philadelphia, Pennsylvania"
-Pike County,Pennsylvania,"Pike County, Pennsylvania"
-Westmoreland County,Pennsylvania,"Westmoreland County, Pennsylvania"
-Providence,Rhode Island,"Providence, Rhode Island"
-Dallas County,Texas,"Dallas County, Texas"
-Travis County,Texas,"Travis County, Texas"
-Addison,Vermont,"Addison, Vermont"
-Bennington,Vermont,"Bennington, Vermont"
-Caledonia,Vermont,"Caledonia, Vermont"
-Chittenden,Vermont,"Chittenden, Vermont"
-Essex,Vermont,"Essex, Vermont"
-Franklin,Vermont,"Franklin, Vermont"
-Grand Isle,Vermont,"Grand Isle, Vermont"
-Lamoille,Vermont,"Lamoille, Vermont"
-Orange,Vermont,"Orange, Vermont"
-Orleans,Vermont,"Orleans, Vermont"
-Rutland,Vermont,"Rutland, Vermont"
-Washington,Vermont,"Washington, Vermont"
-Windham,Vermont,"Windham, Vermont"
-Windsor,Vermont,"Windsor, Vermont"
-Arlington County,Virginia,"Arlington County, Virginia"
-Chesterfield County,Virginia,"Chesterfield County, Virginia"
-Chelan County,Washington,"Chelan County, Washington"
-Clallam County,Washington,"Clallam County, Washington"
-Clark County,Washington,"Clark County, Washington"
-Cowlitz County,Washington,"Cowlitz County, Washington"
-Franklin County,Washington,"Franklin County, Washington"
-Jefferson County,Washington,"Jefferson County, Washington"
-King County,Washington,"King County, Washington"
-Kitsap County,Washington,"Kitsap County, Washington"
-Pierce County,Washington,"Pierce County, Washington"
-San Juan County,Washington,"San Juan County, Washington"
-Skagit County,Washington,"Skagit County, Washington"
-Snohomish County,Washington,"Snohomish County, Washington"
-Spokane County,Washington,"Spokane County, Washington"
-Seattle,Washington,"Seattle, Washington"
-Thurston County,Washington,"Thurston County, Washington"
-Walla Walla County,Washington,"Walla Walla County, Washington"
-Wallowa County,Washington,"Wallowa County, Washington"
-Whatcom County,Washington,"Whatcom County, Washington"
-Yakima County,Washington,"Yakima County, Washington"
+FIPS,County,State
+06001,Alameda,California
+06003,Alpine,California
+06005,Amador,California
+06007,Butte,California
+06009,Calaveras,California
+06011,Colusa,California
+06013,Contra Costa,California
+06015,Del Norte,California
+06017,El Dorado,California
+06019,Fresno,California
+06021,Glenn,California
+06023,Humboldt,California
+06025,Imperial,California
+06027,Inyo,California
+06029,Kern,California
+06031,Kings,California
+06033,Lake,California
+06035,Lassen,California
+06037,Los Angeles,California
+06039,Madera,California
+06041,Marin,California
+06043,Mariposa,California
+06045,Mendocino,California
+06047,Merced,California
+06049,Modoc,California
+06051,Mono,California
+06053,Monterey,California
+06055,Napa,California
+06057,Nevada,California
+06059,Orange,California
+06061,Placer,California
+06063,Plumas,California
+06065,Riverside,California
+06067,Sacramento,California
+06069,San Benito,California
+06071,San Bernardino,California
+06073,San Diego,California
+06075,San Francisco,California
+06077,San Joaquin,California
+06079,San Luis Obispo,California
+06081,San Mateo,California
+06083,Santa Barbara,California
+06085,Santa Clara,California
+06087,Santa Cruz,California
+06089,Shasta,California
+06091,Sierra,California
+06093,Siskiyou,California
+06095,Solano,California
+06097,Sonoma,California
+06099,Stanislaus,California
+06101,Sutter,California
+06103,Tehama,California
+06105,Trinity,California
+06107,Tulare,California
+06109,Tuolumne,California
+06111,Ventura,California
+06113,Yolo,California
+06115,Yuba,California
+08001,Adams,Colorado
+08003,Alamosa,Colorado
+08005,Arapahoe,Colorado
+08007,Archuleta,Colorado
+08009,Baca,Colorado
+08011,Bent,Colorado
+08013,Boulder,Colorado
+,Broomfield,Colorado
+08015,Chaffee,Colorado
+08017,Cheyenne,Colorado
+08019,Clear Creek,Colorado
+08021,Conejos,Colorado
+08023,Costilla,Colorado
+08025,Crowley,Colorado
+08027,Custer,Colorado
+08029,Delta,Colorado
+08031,Denver,Colorado
+08033,Dolores,Colorado
+08035,Douglas,Colorado
+08037,Eagle,Colorado
+08041,El Paso,Colorado
+08039,Elbert,Colorado
+08043,Fremont,Colorado
+08045,Garfield,Colorado
+08047,Gilpin,Colorado
+08049,Grand,Colorado
+08051,Gunnison,Colorado
+08053,Hinsdale,Colorado
+08055,Huerfano,Colorado
+08057,Jackson,Colorado
+08059,Jefferson,Colorado
+08061,Kiowa,Colorado
+08063,Kit Carson,Colorado
+08067,La Plata,Colorado
+08065,Lake,Colorado
+08069,Larimer,Colorado
+08071,Las Animas,Colorado
+08073,Lincoln,Colorado
+08075,Logan,Colorado
+08077,Mesa,Colorado
+08079,Mineral,Colorado
+08081,Moffat,Colorado
+08083,Montezuma,Colorado
+08085,Montrose,Colorado
+08087,Morgan,Colorado
+08089,Otero,Colorado
+08091,Ouray,Colorado
+08093,Park,Colorado
+08095,Phillips,Colorado
+08097,Pitkin,Colorado
+08099,Prowers,Colorado
+08101,Pueblo,Colorado
+08103,Rio Blanco,Colorado
+08105,Rio Grande,Colorado
+08107,Routt,Colorado
+08109,Saguache,Colorado
+08111,San Juan,Colorado
+08113,San Miguel,Colorado
+08115,Sedgwick,Colorado
+08117,Summit,Colorado
+08119,Teller,Colorado
+08121,Washington,Colorado
+08123,Weld,Colorado
+08125,Yuma,Colorado
+,East Haven,Connecticut
+09003,Hartford,Connecticut
+11001,Washington,District of Columbia
+12001,Alachua County,Florida
+12019,Clay County,Florida
+,West Palm Beach,Florida
+13063,Clayton County,Georgia
+13089,DeKalb County,Georgia
+17001,Adams,Illinois
+17003,Alexander,Illinois
+17005,Bond,Illinois
+17007,Boone,Illinois
+17009,Brown,Illinois
+17011,Bureau,Illinois
+17013,Calhoun,Illinois
+17015,Carroll,Illinois
+17017,Cass,Illinois
+17019,Champaign,Illinois
+17021,Christian,Illinois
+17023,Clark,Illinois
+17025,Clay,Illinois
+17027,Clinton,Illinois
+17029,Coles,Illinois
+17031,Cook,Illinois
+17033,Crawford,Illinois
+17035,Cumberland,Illinois
+17039,De Witt,Illinois
+17037,DeKalb,Illinois
+17041,Douglas,Illinois
+17043,DuPage,Illinois
+17045,Edgar,Illinois
+17047,Edwards,Illinois
+17049,Effingham,Illinois
+17051,Fayette,Illinois
+17053,Ford,Illinois
+17055,Franklin,Illinois
+17057,Fulton,Illinois
+17059,Gallatin,Illinois
+17061,Greene,Illinois
+17063,Grundy,Illinois
+17065,Hamilton,Illinois
+17067,Hancock,Illinois
+17069,Hardin,Illinois
+17071,Henderson,Illinois
+17073,Henry,Illinois
+17075,Iroquois,Illinois
+17077,Jackson,Illinois
+17079,Jasper,Illinois
+17081,Jefferson,Illinois
+17083,Jersey,Illinois
+17085,Jo Daviess,Illinois
+17087,Johnson,Illinois
+17089,Kane,Illinois
+17091,Kankakee,Illinois
+17093,Kendall,Illinois
+17095,Knox,Illinois
+17099,La Salle,Illinois
+17097,Lake,Illinois
+17101,Lawrence,Illinois
+17103,Lee,Illinois
+17105,Livingston,Illinois
+17107,Logan,Illinois
+17115,Macon,Illinois
+17117,Macoupin,Illinois
+17119.,Madison,Illinois
+17121,Marion,Illinois
+17123,Marshall,Illinois
+17125,Mason,Illinois
+17127,Massac,Illinois
+17109,McDonough,Illinois
+17111,McHenry,Illinois
+17113,McLean,Illinois
+17129,Menard,Illinois
+17131,Mercer,Illinois
+17133,Monroe,Illinois
+17135,Montgomery,Illinois
+17137,Morgan,Illinois
+17139,Moultrie,Illinois
+17141,Ogle,Illinois
+17143,Peoria,Illinois
+17145,Perry,Illinois
+17147,Piatt,Illinois
+17149,Pike,Illinois
+17151,Pope,Illinois
+17153,Pulaski,Illinois
+17155,Putnam,Illinois
+17157,Randolph,Illinois
+17159,Richland,Illinois
+17161,Rock Island,Illinois
+17165,Saline,Illinois
+17167,Sangamon,Illinois
+17169,Schuyler,Illinois
+17171,Scott,Illinois
+17173,Shelby,Illinois
+17163,St. Clair,Illinois
+17175,Stark,Illinois
+17177,Stephenson,Illinois
+17179,Tazewell,Illinois
+17181,Union,Illinois
+17183,Vermilion,Illinois
+17185,Wabash,Illinois
+17187,Warren,Illinois
+17189,Washington,Illinois
+17191,Wayne,Illinois
+17193,White,Illinois
+17195,Whiteside,Illinois
+17197,Will,Illinois
+17199,Williamson,Illinois
+17201,Winnebago,Illinois
+17203,Woodford,Illinois
+19011,Benton County,Iowa
+19029,Cass County,Iowa
+19069,Franklin County,Iowa
+19071,Fremont County,Iowa
+19073,Greene County,Iowa
+19093,Ida County,Iowa
+19103,Johnson County,Iowa
+19101,Jefferson County,Iowa
+19125,Marion County,Iowa
+19133,Monona County,Iowa
+19137,Montgomery County,Iowa
+19155,Pottawattamie County,Iowa
+19167,Sioux County,Iowa
+20015,Butler County,Kansas
+20079,Harvey County,Kansas
+24005,Baltimore,Maryland
+24031,Montgomery County,Maryland
+24033,Prince George's County,Maryland
+27053,Hennepin County,Minnesota
+28059,Jackson ,Mississippi
+31079,Hall County,Nebraska
+31153,Sarpy County,Nebraska
+32031,Washoe County,Nevada
+34023,Middlesex County,New Jersey
+34029,Ocean County,New Jersey
+34039,Union County,New Jersey
+35001,Bernalillo County,New Mexico
+35003,Catron,New Mexico
+35005,Chaves,New Mexico
+35006,Cibola,New Mexico
+35007,Colfax,New Mexico
+35009,Curry,New Mexico
+35011,De Baca,New Mexico
+35013,Dona Ana,New Mexico
+35015,Eddy,New Mexico
+35017,Grant,New Mexico
+35019,Guadalupe,New Mexico
+35021,Harding,New Mexico
+35023,Hidalgo,New Mexico
+35025,Lea,New Mexico
+35027,Lincoln,New Mexico
+35028,Los Alamos,New Mexico
+35029,Luna,New Mexico
+35031,McKinley,New Mexico
+35033,Mora,New Mexico
+35035,Otero,New Mexico
+35037,Quay,New Mexico
+35039,Rio Arriba,New Mexico
+35041,Roosevelt,New Mexico
+35045,San Juan,New Mexico
+35047,San Miguel,New Mexico
+35043,Sandoval,New Mexico
+35049,Santa Fe,New Mexico
+35051,Sierra,New Mexico
+35053,Socorro,New Mexico
+35055,Taos,New Mexico
+35057,Torrance,New Mexico
+35059,Union,New Mexico
+35061,Valencia,New Mexico
+36001,Albany,New York
+36003,Franklin County,New York
+36059,Nassau County,New York
+36061,New York City,New York
+36067,Omondaga County,New York
+36089,St. Lawrence County,New York
+36117,Wayne County,New York
+41001,Baker,Oregon
+41003,Benton,Oregon
+41005,Clackamas,Oregon
+41007,Clatsop,Oregon
+41009,Columbia,Oregon
+41011,Coos,Oregon
+41013,Crook,Oregon
+41015,Curry,Oregon
+41017,Deschutes,Oregon
+41019,Douglas,Oregon
+41021,Gilliam,Oregon
+41023,Grant,Oregon
+41025,Harney,Oregon
+41027,Hood River,Oregon
+41029,Jackson,Oregon
+41031,Jefferson,Oregon
+41033,Josephine,Oregon
+41035,Klamath,Oregon
+41037,Lake,Oregon
+41039,Lane,Oregon
+41041,Lincoln,Oregon
+41043,Linn,Oregon
+41045,Malheur,Oregon
+41047,Marion,Oregon
+41049,Morrow,Oregon
+41051,Multnomah,Oregon
+41053,Polk,Oregon
+41055,Sherman,Oregon
+41057,Tillamook,Oregon
+41059,Umatilla,Oregon
+41061,Union,Oregon
+41063,Wallowa,Oregon
+41065,Wasco,Oregon
+41067,Washington,Oregon
+41069,Wheeler,Oregon
+41071,Yamhill,Oregon
+42005,Bradford County,Pennsylvania
+42017,Bucks County,Pennsylvania
+42019,Butler County,Pennsylvania
+42029,Chester County,Pennsylvania
+42031,Clarion County,Pennsylvania
+42045,Delaware County,Pennsylvania
+42049,Eerie County,Pennsylvania
+42055,Franklin County,Pennsylvania
+42075,Lebanon County,Pennsylvania
+42077,Lehigh County,Pennsylvania
+42081,Lycoming County,Pennsylvania
+42083,Montgomery County,Pennsylvania
+42093,Montour County,Pennsylvania
+42099,Perry County,Pennsylvania
+42101,Philadelphia,Pennsylvania
+42103,Pike County,Pennsylvania
+42129,Westmoreland County,Pennsylvania
+44077,Providence,Rhode Island
+48113,Dallas County,Texas
+48453,Travis County,Texas
+50001,Addison,Vermont
+50003,Bennington,Vermont
+50005,Caledonia,Vermont
+50007,Chittenden,Vermont
+50009,Essex,Vermont
+50011,Franklin,Vermont
+50013,Grand Isle,Vermont
+50015,Lamoille,Vermont
+50017,Orange,Vermont
+50017,Orleans,Vermont
+50021,Rutland,Vermont
+50023,Washington,Vermont
+50025,Windham,Vermont
+50027,Windsor,Vermont
+51013,Arlington County,Virginia
+51041,Chesterfield County,Virginia
+53007,Chelan County,Washington
+53009,Clallam County,Washington
+53011,Clark County,Washington
+53015,Cowlitz County,Washington
+53021,Franklin County,Washington
+53031,Jefferson County,Washington
+53033,King County,Washington
+53035,Kitsap County,Washington
+53053,Pierce County,Washington
+53055,San Juan County,Washington
+53057,Skagit County,Washington
+53061,Snohomish County,Washington
+53065,Spokane County,Washington
+53067,Thurston County,Washington
+53071,Walla Walla County,Washington
+53073,Whatcom County,Washington
+53077,Yakima County,Washington
