@@ -1,4 +1,4 @@
-# How does America feels about immigration? 
+# How does America feel about immigration? 
 ![Cover.jpg](cover.jpg)
 ## Data Analysis about the impact of immigration in the American sentiments.
 #### *Project created as part of GWU Data Analytics course.*
@@ -36,5 +36,26 @@ CSV Files:
 * Twitter API
 * Google Geolocation API
 
+## Cleanup Process
 
-**__WORK IN PROGRESS__**
+During the cleanup process, some valid data was excluded from the dataframes due to incorrect/invalid information in one or more of its columns or because registered location was not found during the geo-location process.
+
+For the tweets analysis, we must consider that even with geo-location, we can not asure that the persons tweeting in that location are locals or actual residents of the city analyzed.
+
+For the hate crime analysis, there are some points to take in consideration for the obtained results:
+* Sanctuary cities are more likely to get reports about potential hate crimes by foreign born people (including illegal immigrants) due to the protection provided by the law about not being asked about their migration status.
+* Sanctuary cities are more likely to get crimes classified as hate crime report due to the awareness among population and police agencies about the subject.
+
+> “The FBI reports that the numbers of hate crimes have decreased over several years, with the exception of 2015. Regardless of the year, however, the hate crime count is underreported to the FBI, explained Stacy. Some state, city and local police agencies simply don't collect or disclose the data.”
+Middlebrook, H, 2017. The fascinating, if unreliable, history of hate crime tracking in the US. CNN, [Online]. Available at: https://www.cnn.com/2017/01/05/health/hate-crimes-tracking-history-fbi/index.html [Accessed 23 April 2018].
+
+
+## Data Analysis
+
+### Is there a correlation between hate crime rate and foreign born population rate?
+
+### Are sanctuary cities safer in terms of hate crime than other cities?
+
+
+
+**__README FILE IN PROGRESS__**
