@@ -47,7 +47,8 @@ For the hate crime analysis, there are some points to take in consideration for 
 * Sanctuary cities are more likely to get crimes classified as hate crime report due to the awareness among population and police agencies about the subject.
 
 > “The FBI reports that the numbers of hate crimes have decreased over several years, with the exception of 2015. Regardless of the year, however, the hate crime count is underreported to the FBI, explained Stacy. Some state, city and local police agencies simply don't collect or disclose the data.”
-Middlebrook, H, 2017. The fascinating, if unreliable, history of hate crime tracking in the US. CNN, [Online]. Available at: https://www.cnn.com/2017/01/05/health/hate-crimes-tracking-history-fbi/index.html [Accessed 23 April 2018].
+
+Middlebrook, H, 2017. The fascinating, if unreliable, history of hate crime tracking in the US. CNN, [Online]. Available at: https://www.cnn.com/2017/01/05/health/hate-crimes-tracking-history-fbi/index.html  [Accessed 23 April 2018].
 
 
 ## Data Analysis
